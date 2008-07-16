@@ -3544,3 +3544,12 @@ The Unixverse ends on Tue, 19 Jan 2038 03:14:07 +0000
 -- 
 "The Net interprets censorship as damage and routes around it."
 - John Gilmore, co-founder of Electronic Frontier Foundation
+-- 
+> /sbin/modprobe humor
+"german LOCALE detected, module cannot be loaded."
+- Urs [Ayahuasca] Traenkner
+-- 
+"Wenn man sich anschaut, was der Durchschnittsmensch so schreibt (und
+ schrieb), kann man eigentlich nur zu dem Schluss kommen, dass jede Art
+ der Rechtschreibung von der Mehrheit der Bevölkerung abgelehnt wird."
+- Michael Hemmer in de.etc.sprache.deutsch
