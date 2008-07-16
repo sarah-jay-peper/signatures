@@ -53,9 +53,6 @@ Jedenfalls ist es besser, ein eckiges Etwas zu sein als ein rundes Nichts.
 Es gibt kein Genie ohne einen Schuss Verruecktheit. 
 - Aristoteles, griechischer Philosoph, 384 - 322 v. Chr
 -- 
-Ein kluger Mann widerspricht nie einer Frau. Er wartet, bis sie es selbst tut. 
-- Humphrey Bogart, US-amerikanischer Schauspieler, 1899 - 1957
--- 
 Wer kaempft, kann verlieren.
 Wer nicht kaempft, hat schon verloren.
 - Bert Brecht
@@ -275,11 +272,6 @@ Tell me and I will forget.
 Show me and I will remember.
 Involve me and I will understand!
 - Lao Tse
--- 
-Emanzen sind Frauen, die genausoviel Testosteron besitzen
-wie wir, Frank.
-Sonst hätten diese genetischen Mutanten kein Interesse an
-der Macht. ;-)  [von Jürgen Woyzeck in de.soc.familie.misc]
 -- 
 "Ein offenes Betriebssystem kann schon mal mutieren. Bei Windows 2000
 hingegen gibt es alle Services und Dienste aus einer Hand. Das spart Zeit
@@ -1561,8 +1553,7 @@ Love is like a flame
 It burns you when it's hot
 - Nazareth - 'Love hurts'
 -- 
-http://trublu.dial-in.org:80
-http://c-peper.de:80
+http://www.c-peper.de
 trublu (at) c-peper.de
 -- 
  /"\
@@ -2769,9 +2760,6 @@ Ich hab gerade Zeit, wo gibt's nichts zu tun?
 -- 
 Wer schon nicht überzeugen kann soll wenigstens für Verwirrung sorgen.
 -- 
-OJ: Wie macht man aus einem Dreieck eine Linie ?
-Rasieren ...
--- 
 "Lieber Gott, bitte hilf mir, mein grosses Maul zu halten!
 Wenigstens solange, bis ich weiss, wovon ich rede."
 -- 
@@ -2956,8 +2944,8 @@ A beer delayed is a beer denied.
 "It was just a matter of knowing the secret of all TV shows: at the end of
 he episode, everything's always right back to normal." -Fry
 -- 
-Ich bin Jason Alphageek, eigentlich Christian Peper, bin aber auch als
-Spanische Inquisition bekannt, werde aber el TruBlu genannt und bin
+Ich bin Jason Alphageek, eigentlich Christian Peper, bin auch als
+heilige Spanische Inquisition bekannt, werde el TruBlu genannt und bin
 von Beruf stellvertretender Fauler Sack.
 -- 
 Why do humans kill humans to show humans killing is wrong
@@ -3441,3 +3429,118 @@ number. then comment about how low it is (comparatively)
 "I gained nothing at all from Supreme Enlightenment, and for that very
  reason it is called Supreme Enlightenment."
 - Gotama Buddha
+-- 
+"The man who does not do his own thinking is a slave,
+ and is a traitor to himself and to his fellow-men."
+      [Robert G. Ingersoll, "The Liberty
+       of Man, Woman and Child" 1877]
+-- 
+Programmer's Drinking Song: 99 programming bugs in the code/99
+programing bugs/Fix one bug/compile it again/now there's 100 bugs in
+the code! (repeat until bugs==0)
+-- 
+Life moves pretty fast, if you don't stop to look around once in a
+while you could miss it. - Ferris Bueller
+-- 
+This life is yours.  Some of it was given to you; the rest, you made
+yourself.
+-- 
+When I watched him die [of heart attack], I realised we don't have a
+lot of time on this earth. We're not meant to spent it this way, human
+being were not meant to sit in little cubicles starring on computer
+screens all day. [Peter Gibbons in Office Space]
+-- 
+A lecture is a process where information is passed from the notebook
+of the lecturer to the notebook of the student without necessarily
+passing through the minds of either.
+-- 
+A professor is one who talks in someone else's sleep.
+-- 
+If God had meant for us to be in the Army, we would have been born
+with green, baggy skin.
+-- 
+It has been said that the primary function of schools is to impart
+enough facts to make children stop asking questions. Some, with whom
+the schools do not succeed, become scientists. - Knut Schmidt-Nielson
+-- 
+All that is necessary for the triumph of evil is for enough good men
+to do nothing. - Edmund Burke
+-- 
+98% of the population is asleep. The other 2% are staring around in
+complete amazement, abject terror, or both.
+-- 
+Education is the best defense against the media.
+-- 
+It will be a great day when our schools have all the money they need
+and the Air Force has to hold a bake sale to buy a new bomber.
+-- 
+It's not Area 51 I'm worried about- it's Areas 1 through 50.
+-- 
+T.V. - Why do you think they call it programming?
+-- 
+Theists think all gods but theirs are false. Atheists simply don't
+make an exception for the last one.
+-- 
+Is god willing to prevent evil but not able? Then he is not
+omnipotent. Is he able but not willing? Then he is malevolent. Is he
+both able and willing? Then whence cometh evil? Is he neither able nor
+willing? Then why call him god? - Epicurus (341-270 BCE)
+-- 
+In the beginning, man created God. - Jethro Tull
+-- 
+In the beginning, there was nothing. And God said, 'Let there be
+Light.' And there was still nothing, but you could see a bit better.
+-- 
+Jesus was a guy who wore long hair and sandals, and preached love and
+peace... my god, Jesus was the first hippie!
+-- 
+Morality is doing what is right no matter what you are told. Religion
+is doing what you are told no matter what is right.
+-- 
+We don't live in times of uncertainty. Life is uncertain. And
+everything offering certainty is to some kind or the other fake. And
+in within this uncertainty we have to find our own way - without signs
+leading us.
+-- 
+"I don't hold with schools, they gets in the way of education" 
+- Granny Weatherwax in "Lords and Ladies" by Terry Pratchett
+-- 
+Linux supports the notion of a command line or a shell for the same reason
+that only children read books with only pictures in them. Language, be it
+English or something else, is the only tool flexible enough to accomplish
+a sufficiently broad range of tasks. -- Bill Garrett
+-- 
+In the Beginning there was nothing, which exploded.
+- Terry Pratchett, (Lords and Ladies)
+-- 
+Dream as if you'll live forever; Live as if you'll die today. 
+- James Dean
+-- 
+"There is no law requiring me to make sense."
+-- 
+int getRandomNumber()
+{
+        return 4; //chosen by fair dice roll.
+}                 //guaranted to be random.
+-- 
+- "It looks worse than you can imagine!"
+- "I can imagine some pretty bad things!"
+- "That's why I said *worse*!"
+        - (Terry Pratchett, Moving Pictures)
+-- 
+"I'll carry your books, I'll carry a tune, I'll carry on, carry over,
+carry forward, Cary Grant, cash & carry, Carry Me Back To Old Virginia,
+I'll even Hara Kari if you show me how, but I will *not* carry a gun."
+		- Hawkeye, M*A*S*H
+-- 
+Die TeX-Artikel [..] aber doch inzwischen wohl nicht mehr an den
+Fingern zweier Hände abzählbar (außer vielleicht von Informatikern,
+die bekanntlich mit den Fingern bis 1023 zählen können).
+- Anselm Lingnau
+-- 
+The Unixverse ends on Tue, 19 Jan 2038 03:14:07 +0000
+-- 
+"Atheism is a non-prophet organisation."
+-- 
+"The Net interprets censorship as damage and routes around it."
+- John Gilmore, co-founder of Electronic Frontier Foundation
