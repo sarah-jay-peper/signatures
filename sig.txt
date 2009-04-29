@@ -3565,4 +3565,12 @@ Song Poems:
 "Not only is the universe stranger than you imagine, it is stranger
  than you can imagine." - J. B. S. Haldane
 -- 
-"complete cessation of existence and the annihilation of consciousness"
+"complete cessation of existence and the annihilation of
+consciousness"
+-- 
+"Religionsunterricht hat die Aufgabe, die Lehren der jeweiligen
+ Religionsgemeinschaft als bestehende Wahrheit zu vermitteln"
+- Rudolf Ladwig, gegen Religion als ordentliches Schulfach
+-- 
+"Schule soll Erkenntnisse vermitteln - nicht Bekenntnisse."
+- Michael Schmidt-Salomon
