@@ -8,6 +8,7 @@ foreach $filename (@ARGV) {
   randomize;
   $nr = $count = int rand($max);
 #  print "$max - $count\n";
+#$nr = $count = 400;
   while ($count > 0) {
     $line = <FILE>;
     if ($line =~ /^-- $/) {

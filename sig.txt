@@ -159,7 +159,7 @@ uebersehen haben.
 "Programming today is a race between software engineers striving to
 build bigger and better idiot-proof programs, and the Universe trying
 to produce bigger and better idiots. So far, the Universe is winning."
-- Rich Cook
+- Rick Cook
 -- 
 "I am Protestnik Vogon Jeltz of Borg. Resistance is futile. You will be
 thrown out of the ship. But first, I'll read some poems..."
@@ -2017,10 +2017,6 @@ checking for intelligent life... not found
 [...]
 [aus 'configure' von GIMP-1.2.2]
 -- 
-    "Ihre Meinung ist mir zwar widerlich, aber ich werde mich
-     dafuer totschlagen lassen, dass sie sie sagen duerfen."
-                                                        Voltaire
--- 
 Was nützt es dem Menschen, wenn er Lesen und Schreiben gelernt hat,
 aber das Denken anderen überläßt?
 - Ernst R. Hauschka
@@ -3553,3 +3549,20 @@ The Unixverse ends on Tue, 19 Jan 2038 03:14:07 +0000
  schrieb), kann man eigentlich nur zu dem Schluss kommen, dass jede Art
  der Rechtschreibung von der Mehrheit der Bevölkerung abgelehnt wird."
 - Michael Hemmer in de.etc.sprache.deutsch
+-- 
+"The pictures on radio are always so much better than those on TV"
+- Terry Pratchett in "The Globe"
+-- 
+"We are pan narrans, the storytelling ape." "And what about /homo
+sapiens/? Yes, we think that would be a very good idea"
+- Terry Pratchett in "The Globe"
+-- 
+Song Poems:
+"Everybody's dying
+ except those who're already dead"
+- Hugh Laurie
+-- 
+"Not only is the universe stranger than you imagine, it is stranger
+ than you can imagine." - J. B. S. Haldane
+-- 
+"complete cessation of existence and the annihilation of consciousness"
