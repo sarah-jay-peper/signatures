@@ -384,10 +384,6 @@ eßt ohne mich. Wenn ich aber zurückkomme, sperrt mich in
 eine Gummizelle, denn dann bin ich echt verrückt.
 - Al Bundy
 -- 
-Eine fette Frau kam heute in den Laden. Sie war so fett, 
-daß drei kleinere Frauen in einer Umlaufbahn um Sie kreisten.
-- Al Bundy
--- 
 Ich kenne keinen Adrenalin-Schock, der so zuschlägt, wie der, wenn man
 Sachen löscht, die man eigentlich nicht löschen wollte ...  Zuckungen
 durch den ganzen Körper, erst verkrampft sich der Magen, dann wird es
@@ -512,9 +508,6 @@ Speisekarte fuer Stammgaeste in Blindenschrift.
 Beine brechen macht auch ohne Ski keinen Spass. 
 (Udo Burghardt in detebe)
 -- 
-Wir sind hier doch alle pervers. Manche sind sogar Frauensleut.
-(Andre Ay in detebe)
--- 
 Linux forces a brain to configure
 Windows forces a brain-damaged configuration
 -- 
@@ -591,10 +584,6 @@ www.obi.de ist immer noch die Hacker-Seite Nr.1!
 Never be afraid to try something new.
 Remember, amateurs built the Ark, professionals built the Titanic ...
 (unknown)
--- 
-Frauen ohne Schnaps sind wie LKWs ohne Steuerrad:
-verdammt schwer rumzukriegen!
-- Jan-Christoph Westermann in detebe
 -- 
 > Umgekehrt aber, wenn jedesmal wenn ein Windows abstuerzt ein
 > Wassermolekuel verschwinden wuerde, koennte man den Marianengraben bald
@@ -1147,7 +1136,7 @@ Don't dream your life, live your dream!
 > IMO ist sich zu besaufen sowieso eins der sinnlosesten Dinge 
 > überhaupt.
 Nein. Das ist schon durch die Armee besetzt.
-         [Simon Daubermann und Gabriel Ambuehl]
+         [Simon D. und Gabriel Ambuehl]
 -- 
  /°\     - JOIN NOW!!! - 
  \ /  ASCII ribbon campaign
@@ -1202,11 +1191,6 @@ wird Kalifornien eine sehr ruhige Gegend werden
 -- 
 Usenet ist wie ein grossartiger Film. Nur ohne Bilder und ohne Ton,
 dafuer aber mit klasse Untertiteln. - Henning Sponbiel in detebe
--- 
-Filmzitate - Besser gehts nicht
-"Wie können sie nur so gut über Frauen schreiben?" 
-"Ich stell' mir Männer vor und subtrahiere Verstand 
-und Zurechnungsfähigkeit!"
 -- 
 Filmzitate - Blues Brothers
 "Scheiße!" - "Was?" - "'ne Streife!" - "Nein!?!" - 
@@ -1526,9 +1510,6 @@ den Zufall durch Irrtum zu ersetzen.
 -- 
 Krieg = Terrorismus
 -- 
-Frauen widersprechen sich oft selbst, Männer können das meist den
-Frauen überlassen. [Kurt Fischer in detebe]
--- 
 BOFH excuse #350.
 PEBKAC (problem exists between keyboard and chair).
 -- 
@@ -1799,10 +1780,6 @@ Drogen sind immer böse, Sex verwerflich und die Welt eine Scheibe...
 Bisher hieß es immer: Computer machen keine Fehler.
 Dank modernster Hardware wurde jetzt auch dieses Manko beseitigt ...
 (Holger Lamm über den Pentium)
--- 
-Wenn eine Frau fünf Minuten nichts sagt, ist es an der Zeit
-Wiederbelebungsmaßnahmen zu ergreifen.
-(anonym)
 -- 
 Once there was a time when all people believed in God and the church
 ruled. This time is called the Dark Ages.
@@ -2445,10 +2422,6 @@ Es gibt nur eines, was teurer ist als eine Frau - nämlich eine Ex-Frau.
 Bei der Brautwerbung ist der Mann solange hinter einer Frau her, bis sie
 ihn hat.
 (Jacque Tati)
--- 
-Es ist Sache der Frau, so früh wie möglich zu heiraten. Die Aufgabe des
-Mannes ist es, so lange unverheiratet zu bleiben, wie er kann.
-(George Bernard Shaw)
 -- 
 Frauen sind wie Übersetzungen:
 Die Schönen sind nicht treu, und die Treuen sind nicht schön.
@@ -3578,3 +3551,199 @@ consciousness"
 Isn't it enough to see that a garden is beautiful without having to
 believe that there are fairies at the bottom of it too?
 - Douglas Adams, "Last chance to see"
+-- 
+Ein ordentliches Script beginnt mit „#!/bin/bash“ und geht irgendwo
+mit „#!/usr/bin/perl“ weiter. Nicht vergessen im bash-Teil in ausreichender
+Menge grep, sed und awk einzubinden!
+- Eilert Brinkmann
+-- 
+Beim Urknall war das Universum unendlich heiß und unendlich dicht.
+#sexdrugsbigbang
+-- 
+Vegan, Atheist, Pirate.
+-- 
+"I maintain there is much more wonder in science than in
+pseudoscience. And in addition, to whatever measure this term has any
+meaning, science has the additional virtue, and it is not an
+inconsiderable one, of being true." - Carl Sagan
+-- 
+"I can't understand why people are frightened of new ideas. I'm
+frightened of the old ones." - John Cage
+-- 
+This is the way the world ends!
+Not with a bang but with a whimper.
+- T.S. Elliott
+-- 
+(fortune.linux)
+..you could spend *all day* customizing the title bar.  Believe me.  I
+speak from experience.
+	-- Matt Welsh
+-- 
+"Wir müssen uns dramatisch verändern", sagt Safran Foer, "aber der
+einzige Weg, es zu schaffen, ist, damit anzufangen." 
+-- 
+"I get up every morning determined to both change the world and have
+one hell of a good time. Sometimes this makes planning my day
+difficult." 
+- E. B. White
+-- 
+Interfere?  Of course we should interfere!  Always do what you're
+best at, that's what I say.
+		-- Doctor Who
+-- 
+Wenn sie sagen, es besteht keine Gefahr, lauf los.
+Wenn sie sagen, es besteht keine akute Gefahr, dann renn.
+Wenn Sie sagen, es besteht derzeit keine akute Gefahr, brauchst du gar
+nicht mehr loszulaufen. 
+-- 
+"We hate some persons because we do not know them; and we will not
+know them because we hate them."
+- Charles Caleb Colton
+-- 
+"The chief obstacle to the progress of the human race is the human
+race." 
+- Don Marquis
+-- 
+"I shall not waste my days in trying to prolong them." 
+- Ian Fleming
+-- 
+"Imagine what it would be like if TV actually were good. It would be
+the end of everything we know." 
+- Marvin Minsky
+-- 
+To Err is Human
+To Arr is Pirate
+-- 
+"you've got to learn to walk before you try to run" "No! Never say
+that! Never!  Run before you can walk!  Fly before you crawl!  Keep
+moving forward! [...] Because if we fail, I'd rather fail really
+hugely.
+-- 
+while some may see them as the crazy ones, we see genius, because the
+ones who are crazy enough to think that they can change the world, are
+the ones who do.  - Steve Jobs
+http://www.quotationspage.com/quote/38357.html
+-- 
+It has been said that man is a rational animal. All my life I have
+been searching for evidence which could support this. - Bertrand
+Russel
+-- 
+"Normal is not something to aspire to, it's something to get away
+from." - Jodie Foster
+-- 
+Auf dem Grabstein des Kapitalismus wird stehen: "Zuviel war nicht
+genug" - Volker Pispers 2011
+-- 
+"The cure for boredom is curiosity. There is no cure for curiosity."
+- Dorothy_Parker
+-- 
+Teach a man to reason and he will think for a life
+- Phil Plait, the "Bad Astronomer"
+-- 
+Saturn 5 rockets and Sputnik and DNA and literature and science. These
+are the things hydrogen atoms do when given 13.7 billion years
+- Dr. Brian Cox
+-- 
+"He's as straight as a corkscrew" "A corkscrew?"  "Yeah, we asked
+about that too. And they said he acts curly but that's ok 'cos he damn
+well gets the corks out!" - Terry Pratchett, "Making Money", about
+Moist von Lipwig.
+-- 
+"You get a wonderful view from the point of no return."  - Terry
+Pratchett, "Making Money", Moist von Lipwig
+-- 
+"[...] Trouble hit Mr Lipwig like a big wave hitting a flotilla of
+ducks. Afterwards there was no wave but there was still a lot of
+duck." Terry Pratchett, "Making Money", Igor about Moist von Lipwig
+-- 
+"It is said that your life flashes before your eyes just before you
+ die. That is true, it's called Life." - Terry Pratchett, "The Last
+ Continent"
+-- 
+"Wisdom comes from experience. Experience is often a result of lack of
+wisdom."  - Terry Pratchett
+-- 
+"Coming back to where you started is not the same as never leaving."
+- Terry Pratchett, A Hat Full of Sky
+-- 
+"I'd rather be a rising ape than a falling angel." - Terry Pratchett
+-- 
+"She was already learning that if you ignore the rules people will,
+ half the time, quietly rewrite them so that they don't apply to you."
+- Terry Pratchett, Equal Rites, about Eskarina Smith
+-- 
+"If there was anything that depressed him more than his own cynicism,
+ it was that quite often it still wasn't as cynical as real life." -
+ Terry Pratchett, Guards! Guards!
+-- 
+"Lots of people would be as cowardly as me if they were brave enough."
+- Terry Pratchett, The Last Hero: A Discworld Fable
+-- 
+"Ankh-Morpork had dallied with many forms of government and had ended
+ up with that form of democracy known as One Man, One Vote. The
+ Patrician was the Man; he had the Vote." - Terry Pratchett, Mort
+-- 
+"Verence would rather cut his own leg off than put a witch in prison,
+since it'd save trouble in the long run and probably be less painful."
+- Terry Pratchett, Lords and Ladies
+-- 
+"Look, that's why there's rules, understand? So that you think before
+you break 'em."  - Terry Pratchett, Thief of Time
+-- 
+William: "I'm sure we can all pull together, sir."  Vetinari: "Oh, I
+do hope not. Pulling together is the aim of despotism and
+tyranny. Free men pull in all kinds of directions. - Terry
+Pratchett, The Truth
+-- 
+"Susan says, don't get afraid, get angry."  - Terry Pratchett,
+Hogfather
+-- 
+"and the really important thing to be was yourself, just as hard as
+you could" - Pratchett/Gaiman "Good Omens"
+-- 
+"Million-to-one chances crop up nine times out of ten."  
+- Terry Pratchett, The Light Fantastic
+-- 
+"Arguing with an engineer is like wrestling with a pig in mud. After a
+while, you realise the pig is enjoying it." - Jamie Lawrence
+-- 
+"Wir haben oft Angst, vor den Dingen, die wir nicht verstehen. Unsere
+beste Verteidigung ist Wissen." --Tuvoc
+-- 
+"If you're not prepared to be wrong, you'll never come up with
+ anything original" - Sir Ken Robinson
+-- 
+"Ich sag dir: Mach dein Ding; Steh dazu; Heul nicht rum wenn andere
+ Lachen" 
+- Die Ärzte
+-- 
+"Our lives are like this: We think this one thing is going to happen
+and something else happens instead" Kathryn Schulz on being wrong.
+-- 
+"This is life - for good and for ill - we generate these incredible
+stories about the world around us - and then the world turns around
+and astonishes us" - Kathryn Schulz
+-- 
+"Life isn't about finding yourself. Life is about creating yourself."
+-- 
+"I believe that life is a game, that life is a cruel joke, and that life is 
+ what happens when you're alive and that you might as well lie back 
+ and enjoy it." Sam in "American Gods" (Neil Gaiman)
+ -- 
+ "Truth! Justice! Freedom! Reasonably priced love! And a hard-boiled egg!" 
+ #HappyMay25th (Terry Pratchett, Night Watch)
+ -- 
+ "The trouble with not asking for anything in return is 
+ that sometimes you don't get it."
+ -- 
+ for whenever the resources of the many are enclosed for the 
+ benefit of the few, pirates will rise up, break that down
+ -- 
+ However big you think supernovae are, they're bigger than that.
+ - "rule of thumb for estimating size of supernovae" 
+ -  http://what-if.xkcd.com/73/
+ -- 
+ There's an old Earth saying, Captain. A phrase of great power 
+ and wisdom and consolation to the soul in times of need.
+ ALLONS-Y!
+ - the Doctor
