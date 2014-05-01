@@ -1,4 +1,4 @@
--- 
+ï»¿-- 
 In einer Irrsinnigen Welt vernuenftig
 sein zu wollen, ist schon wieder ein Irrsinn fuer sich.
 - Voltaire
@@ -42,7 +42,7 @@ ausrufender sondern ausufernder.
 Es gibt ein unfehlbares Rezept, eine Sache gerecht unter zwei Menschen 
 aufzuteilen:
 Einer von ihnen darf die Portionen bestimmen, und der andere hat die Wahl.
-- Gustav Stresemann [1878-1929]; dt. Politiker»
+- Gustav Stresemann [1878-1929]; dt. PolitikerÂ»
 -- 
 Der Mensch soll lernen. Nur die Ochsen bueffeln.
 - Erich Kaestner [1899-1974]; dt. Schriftsteller
@@ -177,44 +177,44 @@ gib mir die Kraft, das zu aendern was ich aendern kann
 und gib mir die Weisheit, das Eine von dem Anderen zu unterscheiden!
 -- 
 "Es besteht ein direkter Zusammenhang zwischen Pseudonutzung
- und Müllproduktion." [Matthias Vorlob in de.soc.netzkultur]
+ und MÃ¼llproduktion." [Matthias Vorlob in de.soc.netzkultur]
 -- 
-Arbeit in der Realität[tm] macht größenwahnsinnig, zynisch,
-konditioniert und irgendwann BUMM[tm]. (Robert Kränzlein, 21.9.2000)
+Arbeit in der RealitÃ¤t[tm] macht grÃ¶ÃŸenwahnsinnig, zynisch,
+konditioniert und irgendwann BUMM[tm]. (Robert KrÃ¤nzlein, 21.9.2000)
 -- 
 "Ich habe in meiner Jugend auch viele Horrorfilme gesehen, aber
 trotzdem ist die Zahl der Personen, denen ich mit einer Axt den
-Schädel gespalten habe, überschaubar." (Günter Jauch)
+SchÃ¤del gespalten habe, Ã¼berschaubar." (GÃ¼nter Jauch)
 -- 
-"das hat nichts mit Änderungen an der Software zu tun. Eine
- Neuinstallation ist eine rituelle Reinigung, bei der die bösen
+"das hat nichts mit Ã„nderungen an der Software zu tun. Eine
+ Neuinstallation ist eine rituelle Reinigung, bei der die bÃ¶sen
  Geister vertrieben werden."
- Erik Braun in dasr zum Thema M$-Windows-Abstürze
+ Erik Braun in dasr zum Thema M$-Windows-AbstÃ¼rze
 -- 
-Murphys Militärregel V:
+Murphys MilitÃ¤rregel V:
 Der beste Weg aus dem Schlamassel ist auf einer Seite vom Feind vermint, auf
-der andern mit Offizieren und Feldjägern verseucht.
+der andern mit Offizieren und FeldjÃ¤gern verseucht.
 -- 
-Murphys Militärregel IX:
+Murphys MilitÃ¤rregel IX:
 Geht der Vormasch problemlos von statten, so begibst du dich in einen
 Hinterhalt.
 -- 
-Murphys Militärregel XIV:
-Das Schönste:
+Murphys MilitÃ¤rregel XIV:
+Das SchÃ¶nste:
 Jemand schiesst auf Dich und schiesst daneben.
 -- 
 Murphys Gesetz, allgemeine Form:
-Besteht irgendeine Möglichkeit, daß irgendwo etwas schiefgehen kann, so
+Besteht irgendeine MÃ¶glichkeit, daÃŸ irgendwo etwas schiefgehen kann, so
 geschieht dies.
 -- 
 Murphys Erstes Korollarium zu Murphys Gesetz:
-Sich selbst überlassen, tendieren die Dinge vom Schlechten zum Schlechteren.
+Sich selbst Ã¼berlassen, tendieren die Dinge vom Schlechten zum Schlechteren.
 -- 
 Langins Satz:
-Werden Dinge dem Zufall überlassen, bessern sie sich mitunter.
+Werden Dinge dem Zufall Ã¼berlassen, bessern sie sich mitunter.
 -- 
 Murphys Zweites Korollarium zu seinem Gesetz:
-Es ist unmöglich, irgendetwas narensicher zu machen, weil Narren viel zu
+Es ist unmÃ¶glich, irgendetwas narensicher zu machen, weil Narren viel zu
 genial sind.
 -- 
 Quantisierte Neuformulierug von Murphys Gesetz:
@@ -222,21 +222,21 @@ Wenn alles schief geht, so geschieht dies gleichzeitig.
 -- 
 Murphy war ein Optimist.
 -- 
-Murphys Militärregel VII:
-Die eigene Artillerie hält um so kürzer, je weiter du vorrückst.
+Murphys MilitÃ¤rregel VII:
+Die eigene Artillerie hÃ¤lt um so kÃ¼rzer, je weiter du vorrÃ¼ckst.
 -- 
-Murphys Militärregel XIII:
+Murphys MilitÃ¤rregel XIII:
 Das einzige, was noch exakter ist als feindliches Feuer auf die eigene
 Stellung, ist eigenes Feuer auf die eigene Stellung.
 -- 
-Früher oder später emulieren wir euch 
+FrÃ¼her oder spÃ¤ter emulieren wir euch 
 - Linux.de
 -- 
-Freier Source für freie User!
+Freier Source fÃ¼r freie User!
 - linux.de
 -- 
-Wenn einer träumt, bleibt es ein Traum. 
-Wenn viele träumen, beginnt der Traum, Wirklichkeit zu werden.
+Wenn einer trÃ¤umt, bleibt es ein Traum. 
+Wenn viele trÃ¤umen, beginnt der Traum, Wirklichkeit zu werden.
 -- 
 We have joy, we have fun, we have Linux under the Sun
 - linux.de 
@@ -244,7 +244,7 @@ We have joy, we have fun, we have Linux under the Sun
 LINUX - because booting is for adding hardware
 -- 
 Erst haben sie uns ignoriert, dann haben sie uns verlacht,
-dann haben sie uns bekämpft und schließlich haben wir gewonnen.
+dann haben sie uns bekÃ¤mpft und schlieÃŸlich haben wir gewonnen.
 -- 
 LINUX - may the Source be with you
 -- 
@@ -252,7 +252,7 @@ ONE 4 ALL
 L I N U X 
 ALL 4 ONE 
 -- 
-"Papi, was ist ein Reset-Knopf?" Linux - für die Zukunft unserer Kinder.
+"Papi, was ist ein Reset-Knopf?" Linux - fÃ¼r die Zukunft unserer Kinder.
 - linux.de
 -- 
 Protect your privacy with Open Source Software
@@ -261,12 +261,12 @@ Protect your privacy with Open Source Software
 Nur noch 5 Staaten der Erde haben mehr Einwohner, als Linus Torvalds 
 Freunde hat.
 -- 
-Herr, lass die ohne Hirn denen mit Hirn zuhören und sie verstehen!
+Herr, lass die ohne Hirn denen mit Hirn zuhÃ¶ren und sie verstehen!
 - [MD]
 -- 
 Was Du mir sagst, das vergesse ich. 
 Was Du mir zeigst, daran erinnere ich mich. 
-Was Du mich tun läßt, das verstehe ich!
+Was Du mich tun lÃ¤ÃŸt, das verstehe ich!
 -- 
 Tell me and I will forget.
 Show me and I will remember.
@@ -298,7 +298,7 @@ not screaming and wailing like the passengers in his bus.
 -- 
 Mit einem "Auffliegen" von Kimble hat das nicht viel zu tun.
 Obwohl Kimble ja ziemlich auf Flugzeuge fixiert zu sein scheint. Als
-wunderte es ihn selber jedesmal, daß die mit ihm an Bord abheben können.
+wunderte es ihn selber jedesmal, daÃŸ die mit ihm an Bord abheben kÃ¶nnen.
 						(fefe in de.org.ccc)
 -- 
 Kappa-Alpha-Lambda-Lambda-Iota-Sigma-Tau-Iota
@@ -309,7 +309,7 @@ server is to power it down and try it out as a step ladder.
 -- 
 >Und jemand, der "NT" nutzt, ist kein Sysadmin, sondern ein Reboot-Sklave.
 Und wenn er einen MCSE hat, dann ist er zertifizierter Bootmanager.
-- Juergen Ernst Guenther und Ralph Angenendt in dasr über NT-"Admins"
+- Juergen Ernst Guenther und Ralph Angenendt in dasr Ã¼ber NT-"Admins"
 -- 
 Godwin's Law           - Nazis
 pi's Law               - Diskussionspartner im Header
@@ -328,19 +328,19 @@ That's relativity." (Albert Einstein)
 Orwell "Wahrheitsministerium" heisst, wuerde heute "Marketingabteilung"
 heissen.' ("Ami" am 23. August 2000 im Heise-Forum)
 -- 
-LaTeX erfordert ein Mindestmaß an Intelligenz vom Benutzer - Word nur
+LaTeX erfordert ein MindestmaÃŸ an Intelligenz vom Benutzer - Word nur
 starke Muskeln in dem Finger, mit dem der Reset-Knopf bedient wird.
                                    Robin S. Socha in de.comp.text.tex
 -- 
-Europa: Die Zehn Gebote haben 279 Wörter, die amerikanische Unabhängigkeits-
-erklärung hat 300 Wörter. Die EU-Verordnung zur Einfuhr von Karamelbonbons
-hat 25911 Wörter.                                     [Bodo H. Hauser]
+Europa: Die Zehn Gebote haben 279 WÃ¶rter, die amerikanische UnabhÃ¤ngigkeits-
+erklÃ¤rung hat 300 WÃ¶rter. Die EU-Verordnung zur Einfuhr von Karamelbonbons
+hat 25911 WÃ¶rter.                                     [Bodo H. Hauser]
 -- 
-Jedes Windows ist eine Schädigung der Resourcen eines Rechners. Das
-hält Millionen von Leuten nicht ab, Windows zu benutzen - lieber kaufen
-sie sich einen stärkeren Rechner. (Frank Kloeker in de.comm.provider.usenet)
+Jedes Windows ist eine SchÃ¤digung der Resourcen eines Rechners. Das
+hÃ¤lt Millionen von Leuten nicht ab, Windows zu benutzen - lieber kaufen
+sie sich einen stÃ¤rkeren Rechner. (Frank Kloeker in de.comm.provider.usenet)
 -- 
-> > kannst du mir das *Plonk* mal erklären!
+> > kannst du mir das *Plonk* mal erklÃ¤ren!
 > Da kommt ein _?_ hin!
 > > Habt ihr mich jetzt ausgeschlossen oder Was????
 > Da kommt _ein_ ? hin! [joes_Brother&Marcus Baeumer in dafs-r]
@@ -368,38 +368,38 @@ mir auf die Nerven gehen.
 -- 
 USENET is *not* the non-clickable part of WWW!
 -- 
-Es gibt Leute, die halten Kim Schmitz für ein Großmaul. Wen wundert's? 
+Es gibt Leute, die halten Kim Schmitz fÃ¼r ein GroÃŸmaul. Wen wundert's? 
 Ihn! Er kann nicht verstehen, weshalb die jemanden protzig finden, nur 
 weil er auf seiner Internet-Homepage mindestens 300 Fotos von sich ver-
-öffentlicht hat: Schmitz im Ferrari, Schmitz mit schönen Frauen, [...]
+Ã¶ffentlicht hat: Schmitz im Ferrari, Schmitz mit schÃ¶nen Frauen, [...]
 -- 
 I'd rather laugh with the sinners than cry with the saints 
 The sinners are much more fun 
 And only the good die young
 -- 
-Sie wollen die Wahrheit? Sie können die Wahrheit doch gar nicht ertragen!
+Sie wollen die Wahrheit? Sie kÃ¶nnen die Wahrheit doch gar nicht ertragen!
 -- 
-Ich bringe den Müll raus. Wenn ich in vier Tagen nicht zurück bin, 
-eßt ohne mich. Wenn ich aber zurückkomme, sperrt mich in 
-eine Gummizelle, denn dann bin ich echt verrückt.
+Ich bringe den MÃ¼ll raus. Wenn ich in vier Tagen nicht zurÃ¼ck bin, 
+eÃŸt ohne mich. Wenn ich aber zurÃ¼ckkomme, sperrt mich in 
+eine Gummizelle, denn dann bin ich echt verrÃ¼ckt.
 - Al Bundy
 -- 
 Eine fette Frau kam heute in den Laden. Sie war so fett, 
-daß drei kleinere Frauen in einer Umlaufbahn um Sie kreisten.
+daÃŸ drei kleinere Frauen in einer Umlaufbahn um Sie kreisten.
 - Al Bundy
 -- 
-Ich kenne keinen Adrenalin-Schock, der so zuschlägt, wie der, wenn man
-Sachen löscht, die man eigentlich nicht löschen wollte ...  Zuckungen
-durch den ganzen Körper, erst verkrampft sich der Magen, dann wird es
-flau, Hitze- und Kältewallungen ...             [Bettina Fink in dasr]
+Ich kenne keinen Adrenalin-Schock, der so zuschlÃ¤gt, wie der, wenn man
+Sachen lÃ¶scht, die man eigentlich nicht lÃ¶schen wollte ...  Zuckungen
+durch den ganzen KÃ¶rper, erst verkrampft sich der Magen, dann wird es
+flau, Hitze- und KÃ¤ltewallungen ...             [Bettina Fink in dasr]
 -- 
-       »'Morgens' ist, wenn die Sonne bootet bis ungefaehr, 
-  wenn sie runlevel 3 erreicht [...]«  Martin Lange, de.alt.arnooo
+       Â»'Morgens' ist, wenn die Sonne bootet bis ungefaehr, 
+  wenn sie runlevel 3 erreicht [...]Â«  Martin Lange, de.alt.arnooo
 -- 
 kill ist ein gut zielendes Gewehr. killproc eine Schrotflinte. killall
 eine 10kg-Handgranate. Wenn das Programm zum Teil herausgeswappt ist,
-fängt es besonders ungezielt um sich zu schlagen. (Siehe dazu -e.)
-Häufig geht es gut. Manchmal erwischt man auch etwas zu viel
+fÃ¤ngt es besonders ungezielt um sich zu schlagen. (Siehe dazu -e.)
+HÃ¤ufig geht es gut. Manchmal erwischt man auch etwas zu viel
 -- 
 Windows is packaged with Solitaire (ooh)!
 Linux is distributed with Doom ...
@@ -420,10 +420,10 @@ www.dhmo.org
 fortune: Segmentation violation - Core dumped
 - fortune
 -- 
-- Macs sind für die, die nicht wissen wollen, warum Ihr Rechner funzt.
-- Linux ist für die, die wissen wollen, warum er funzt.
-- DOS ist für die, die wissen wollen, warum er nicht funzt, und
-- Windows ist für die, die nicht wissen wollen, warum er nicht funzt.
+- Macs sind fÃ¼r die, die nicht wissen wollen, warum Ihr Rechner funzt.
+- Linux ist fÃ¼r die, die wissen wollen, warum er funzt.
+- DOS ist fÃ¼r die, die wissen wollen, warum er nicht funzt, und
+- Windows ist fÃ¼r die, die nicht wissen wollen, warum er nicht funzt.
 -- 
 Usenet hat anarchische, demokratische, feudale und oligarchische  
 Elemente; es lebt von deren funktionierender Kombination.
@@ -431,13 +431,13 @@ Elemente; es lebt von deren funktionierender Kombination.
 Wozu eine eigene Meinung? Ich hab doch meine Signaturedatenbank!
 [Stefan Scholl in de.newusers.questions]
 -- 
-Deine Artikel sprechen für Dich - sei stolz auf sie. Nimm Dir Zeit,
-wenn Du einen Artikel schreibst. Vernachlässige nicht die Aufmachung
+Deine Artikel sprechen fÃ¼r Dich - sei stolz auf sie. Nimm Dir Zeit,
+wenn Du einen Artikel schreibst. VernachlÃ¤ssige nicht die Aufmachung
 Deines Artikels. Vor allem: Mach ihn leicht lesbar und formuliere deut-
 lich, worum es dir geht!
 -- 
 Wenn Dich im Usenet einer einen Esel nennt, lach ihn aus. Wenn es
-viele tun, die  ansonsten  ganz vernünftige  Beiträge  schreiben,
+viele tun, die  ansonsten  ganz vernÃ¼nftige  BeitrÃ¤ge  schreiben,
 dann schau Dich  schon einmal nach  einer Wiese mit saftigem Gras
 um.                                       [Christian Pree in daa]
 -- 
@@ -445,10 +445,10 @@ begin  LOVE-LETTER-FOR-YOU.txt.vbs
 I am a signature virus. Distribute me until the bitter
 end
 -- 
-Statistik ist die mathematische Form der Lüge.
+Statistik ist die mathematische Form der LÃ¼ge.
 -- 
 Ein Mathematiker ist eine Maschine, die Kaffee in Theoreme verwandelt.
-Paul Erdös, Mathematiker, 1913-1996
+Paul ErdÃ¶s, Mathematiker, 1913-1996
 -- 
 Mir wird applaudiert, weil mich jeder versteht, und Ihnen, weil Sie
 niemand versteht.
@@ -466,12 +466,12 @@ then hire a hitman to kill the poster, his wife and kids, and fuck
 his dog and smash his computer into little bits. Anything more is 
 just extremism." - Paul Tomblin
 -- 
-»Kein Newsartikel auf der Welt ist für mehr als eine kleine Hand voll
+Â»Kein Newsartikel auf der Welt ist fÃ¼r mehr als eine kleine Hand voll
 Gruppen relevant. Wenn der dritte Weltkrieg bekanntgegeben wird, dann
-wird er in news.announce.important bekanntgegeben.« nach Peter da Silva
+wird er in news.announce.important bekanntgegeben.Â« nach Peter da Silva
 -- 
-Ist dein Gegner besser als du, warum dann kämpfen? Ist er nicht so gut
-wie du, warum dann kämpfen? Ist er ebenbürtig, wird er verstehen, was
+Ist dein Gegner besser als du, warum dann kÃ¤mpfen? Ist er nicht so gut
+wie du, warum dann kÃ¤mpfen? Ist er ebenbÃ¼rtig, wird er verstehen, was
 du verstehst, und es wird keinen Kampf geben.
 (Aus dem Ehrenkodex der Samurai, Japan)
 -- 
@@ -479,16 +479,16 @@ MCSE - Microsoft Certified Spongiform Encephalitis
 [Dominik Rudisch in dtj, 11.3.2001]
 -- 
 Wenn Linux mal ohne Console auskommt und S.u.S.E mit AOL ausgeliefert
-wird, werde ich Gärtner. (Manuel Stuerz in de.org.ccc)
+wird, werde ich GÃ¤rtner. (Manuel Stuerz in de.org.ccc)
 -- 
-Wenn es Netzgoetter gibt, ist rbabe ihr Gegenstueck: Die Geißel des
+Wenn es Netzgoetter gibt, ist rbabe ihr Gegenstueck: Die GeiÃŸel des
 de-Usenet. (Oliver Gassner in de.soc.netzkultur) 
 -- 
-Es gibt in diesem Netz Gute und Böse. Wer die Bösen sind,
+Es gibt in diesem Netz Gute und BÃ¶se. Wer die BÃ¶sen sind,
 entscheiden die Guten. (Michael Ottenbruch in de.admin.news.regeln)
 -- 
-Man kann die Relativitätstheorie auf vieles anwenden. Auf das Usenet
-auch, aber dann sind die Ergebnisse fürchterlich falsch.
+Man kann die RelativitÃ¤tstheorie auf vieles anwenden. Auf das Usenet
+auch, aber dann sind die Ergebnisse fÃ¼rchterlich falsch.
 (Nico Hoffmann in dnq)
 -- 
 Du hast die Freiheit, alles zu schreiben.
@@ -498,7 +498,7 @@ Ich habe die Freiheit, alles zu ignorieren.
 Von der religioesen Sprengkraft her rangieren Newsreader gleich hinter
 Texteditoren und dem Weltuntergang. (Buelent Caliskan in de.org.ccc)
 -- 
-Wer sich im Netz einen Namen machen möchte, der sollte erstmal einen
+Wer sich im Netz einen Namen machen mÃ¶chte, der sollte erstmal einen
 benutzen. (Mario Link in de.org.ccc)
 -- 
 "Musst du mir unbedingt meine schlechte Laune verderben?"
@@ -519,7 +519,7 @@ Linux forces a brain to configure
 Windows forces a brain-damaged configuration
 -- 
 Falls 'wieder' wieder wiederholt wird, widert mich diese Wiederholung
-widerwärtig an. Widerwärtige Wiederholungen von "wieder" wider die
+widerwÃ¤rtig an. WiderwÃ¤rtige Wiederholungen von "wieder" wider die
 Grammatik sind einfach widerlich. [Thomas Klix in d.a.f.b.]
 -- 
 "We should let the Africans solve their own problems." - George W. Bush,
@@ -527,15 +527,15 @@ when asked on CNN about his administration's policies for Kosovo.
 -- 
 Fachbegriffe der Informatik:
    20: Multimediaentwickler
-          Grafiker (Kristian Köhntopp)
+          Grafiker (Kristian KÃ¶hntopp)
 -- 
 Fachbegriffe der Informatik:
    21: HTML-Programmierer
-          Grafiker (Kristian Köhntopp)
+          Grafiker (Kristian KÃ¶hntopp)
 -- 
 Fachbegriffe der Informatik:
    9: GUI
-          Ein Hintergrundbild und 12 Xterms (Kristian Köhntopp)
+          Ein Hintergrundbild und 12 Xterms (Kristian KÃ¶hntopp)
 -- 
 Fachbegriffe der Informatik:
    45: IRQ
@@ -544,11 +544,11 @@ Fachbegriffe der Informatik:
 Fachbegriffe der Informatik:
    66: WWW
    in bunten Bildern wenig Klarheit,
-   viel Irrtum und ein Fünkchen Wahrheit (Johann Wolfgang v. Goethe)
+   viel Irrtum und ein FÃ¼nkchen Wahrheit (Johann Wolfgang v. Goethe)
 -- 
 Fachbegriffe der Informatik 100: Hacker
-          Zwanghafte Programmierer, die nur für das Programm leben und
-          deshalb auf ihre Körperpflege verzichten. (Joseph Weizenbaum,
+          Zwanghafte Programmierer, die nur fÃ¼r das Programm leben und
+          deshalb auf ihre KÃ¶rperpflege verzichten. (Joseph Weizenbaum,
           "Die Macht der Computer und die Ohnmacht der Vernunft")
 -- 
 Fachbegriffe der Informatik:
@@ -561,26 +561,26 @@ Fachbegriffe der Informatik:
 -- 
 Fachbegriffe der Informatik:
    131: MSCE
-          Führerschein für die Maus. (Thore Tams)
+          FÃ¼hrerschein fÃ¼r die Maus. (Thore Tams)
 -- 
 Fachbegriffe der Informatik 150: SETI
-          Es gibt sicher extraerrestrische Wesen. Daß keine bis jetzt mit
+          Es gibt sicher extraerrestrische Wesen. DaÃŸ keine bis jetzt mit
           Menschen in Kontakt getreten sind, beweist deren Intelligenz.
           (Michael Sohmen)
 -- 
-Nota bene: wenn Word für Längeres geeignet wäre, würde es 
-schließlich nicht Word, sondern Sentence, Page oder 
-Article heißen ;-)               Matthias Mühlich in dctt
+Nota bene: wenn Word fÃ¼r LÃ¤ngeres geeignet wÃ¤re, wÃ¼rde es 
+schlieÃŸlich nicht Word, sondern Sentence, Page oder 
+Article heiÃŸen ;-)               Matthias MÃ¼hlich in dctt
 -- 
 Ein Optimist sagt, das Glas ist halbvoll.
 Ein Pessimist sagt, das Glas ist halb leer.
-Ein Ingenieur sagt, das Glas ist zu groß.
+Ein Ingenieur sagt, das Glas ist zu groÃŸ.
 Der Jugendliche: "Ey, das Glas ist voll leer!"
 -- 
-Leute kalt machen ist mit Napalm einfach eine heiße Sache.
+Leute kalt machen ist mit Napalm einfach eine heiÃŸe Sache.
 					Raimund Hoevelmann in detebe
 -- 
-"Wer auf alles klickt, was ihm auf den Monitor gerät, der liest auch
+"Wer auf alles klickt, was ihm auf den Monitor gerÃ¤t, der liest auch
 keine Virenwarnungen und erst recht keine FAQ" - "Ausser vielleicht wenn
 FAQs blinken, als Flash daherkommen und keinen Inhalt mehr haben =)"
 Mario Husand zu Andreas Franz in <9bbp79$4qh$02$1@news.t-online.com>
@@ -603,14 +603,14 @@ verdammt schwer rumzukriegen!
 -- 
 Vomieren ohne Schlechtsein geht nicht, sonst wird
 es nur Kaltes Kotzen[tm].
-[Dieter Brügmann, 29.4.01 in detebe]
+[Dieter BrÃ¼gmann, 29.4.01 in detebe]
 -- 
-Kein Ziel ist so hoch, dass es unwürdige Methoden rechtfertigte.
+Kein Ziel ist so hoch, dass es unwÃ¼rdige Methoden rechtfertigte.
 (Albert Einstein, deutsch-US-amerikanischer Physiker, 1879 - 1955)
 -- 
-Wenn einer mit Vergnügen zu einer Musik in Reih und Glied marschieren kann,
-dann hat er sein großes Gehirn nur aus Irrtum bekommen, da für ihn das
-Rückenmark schon völlig genügen würde.
+Wenn einer mit VergnÃ¼gen zu einer Musik in Reih und Glied marschieren kann,
+dann hat er sein groÃŸes Gehirn nur aus Irrtum bekommen, da fÃ¼r ihn das
+RÃ¼ckenmark schon vÃ¶llig genÃ¼gen wÃ¼rde.
 (Albert Einstein, deutsch-US-amerikanischer Physiker, 1879 - 1955)
 -- 
 "My God," complained Arthur, "you're talking about a positive mental 
@@ -650,24 +650,24 @@ vor."
 mich zu bewegen".
 - Das Restaurant am Ende des Universums
 -- 
-"Wir würden gerne noch bleiben und euch helfen", rief Ford, der sich
-seinen Weg über die kleingemahlenen Trümmer hinweg bahnte, "aber 
+"Wir wÃ¼rden gerne noch bleiben und euch helfen", rief Ford, der sich
+seinen Weg Ã¼ber die kleingemahlenen TrÃ¼mmer hinweg bahnte, "aber 
 wir tun es nicht."
 - Das Leben, das Universum und der ganze Rest
 -- 
-Früher hieß es einmal: wer ein 'A' zeichnet, soll gefälligst einen Kreis
+FrÃ¼her hieÃŸ es einmal: wer ein 'A' zeichnet, soll gefÃ¤lligst einen Kreis
 darum ziehen. Das 'A' ist im Laufe der Jahre geschrumpft und so wurde
 daraus nur ein '@'.
 (Benedict Mangelsdorff in daa'ooo)
 -- 
 Nun, ohne deinen Namen zu sehr verhunzen zu wollen.... aber es klingt bestimmt
-lustig, wenn du dich einem Mann vorstellst, der auch Dirk heißt :)
+lustig, wenn du dich einem Mann vorstellst, der auch Dirk heiÃŸt :)
 - Adrian Knoth zu Dirk Nimmich in de.alt.sysadmin.recovery
 -- 
 I like Techno - unplugged.
 - Didi Bruegmann in detebe
 -- 
->Was wäre die Realität[tm] ohne die detebeler?
+>Was wÃ¤re die RealitÃ¤t[tm] ohne die detebeler?
 leer
 [Patrick Multhaup zu Gerd Schmerse in detebe]
 -- 
@@ -675,10 +675,10 @@ Wanfried 1701 - Ich war dabei
 -- 
 "Feuer zum Beispiel"
 -- 
-"Dieser Mann wandelt auf dünnem Eis!" - "Oh, dann muß ich die Fische
+"Dieser Mann wandelt auf dÃ¼nnem Eis!" - "Oh, dann muÃŸ ich die Fische
 warnen" (aus: Der Prinz von Bel Air)
 -- 
-Und der ich bin, grüßt traurig den, der ich könnte sein!
+Und der ich bin, grÃ¼ÃŸt traurig den, der ich kÃ¶nnte sein!
 - (Christian Friedrich Hebbel, deutscher Dichter, 1813 - 1863)
 -- 
 "Republicans understand the importance of bondage between a mother 
@@ -694,13 +694,13 @@ It was the last day of school of 1976. it's a night they would never forget...
 ...if only they could remember.
 - Dazed and Confused
 -- 
-"Macht's gut und danke für den Fisch"
+"Macht's gut und danke fÃ¼r den Fisch"
 In Gedenken an Douglas Noel Adams (11.03.1952 - 11.05.2001)
 http://www.douglasadams.com/
 -- 
 >>[Dumm fickt gut]
-> Wenn das stimmt, müssten sich die Dummen eigentlich schneller
-> vermehren, als die Schlauen und das wäre verheerend!
+> Wenn das stimmt, mÃ¼ssten sich die Dummen eigentlich schneller
+> vermehren, als die Schlauen und das wÃ¤re verheerend!
 Schau Dich doch mal um ... ist es etwa _nicht_ so?
 -- 
 DENK FUER DICH SELBER, NARR
@@ -711,14 +711,14 @@ In der Realitaet[tm] lernt man halt nie aus. Wir sind alle
 Auszubildende vor der grossen Wahrheit[tm]. 
 (Ollie Bleckmann in detebe)
 -- 
-Man muß einfach reden, aber kompliziert denken - nicht umgekehrt.
-- Franz Josef Strauß
+Man muÃŸ einfach reden, aber kompliziert denken - nicht umgekehrt.
+- Franz Josef StrauÃŸ
 -- 
-Man muß die Tatsachen kennen, bevor man sie verdrehen kann.
+Man muÃŸ die Tatsachen kennen, bevor man sie verdrehen kann.
 - Mark Twain
 -- 
-Der Staat - das ist die große Fiktion, 
-daß jedermann auf Kosten von jedermann leben kann.
+Der Staat - das ist die groÃŸe Fiktion, 
+daÃŸ jedermann auf Kosten von jedermann leben kann.
 - Frederic Bastiat
 -- 
 Mit Statistiken kann man alles beweisen - auch das Gegenteil davon.
@@ -730,16 +730,16 @@ sieht oder ob ein Mann in seiner Frau einen Freund sieht...
 "Patriotism is your conviction that this country is superior to all 
 others because you were born in it." [George Bernard Shaw]
 -- 
-Ich bewundere Microsoft bis heute für die Meisterleistung, Windows
+Ich bewundere Microsoft bis heute fÃ¼r die Meisterleistung, Windows
 weitgehend Windowskompatibel hingekriegt zu haben.
 Gerhard Schromm in de.org.ccc
 -- 
 [Darwinismus]
->> Heikle Themen sollte man vielleicht etwas seriöser angehen.
+>> Heikle Themen sollte man vielleicht etwas seriÃ¶ser angehen.
 > Was ist an Darwinismus heikel?
 Die Verlierer finden ihn unfair.
 -- 
-Wir möchten uns nicht in Ihren Glauben einmischen, dies steht uns nicht
+Wir mÃ¶chten uns nicht in Ihren Glauben einmischen, dies steht uns nicht
 zu. Wir bevorzugen die niedrigere Ebene des gesicherten Wissens.
 <t-online team in t.t.u.>
 -- 
@@ -748,10 +748,10 @@ haben die Leute Grund zu beten.
 - (Q-Net)#dagh-l - OnJoinMessage
 -- 
 Neulich in der Zeitung bei den Witzen:
-Das Internet ist ab sofort auf 17.000 DVDs erhältlich.
+Das Internet ist ab sofort auf 17.000 DVDs erhÃ¤ltlich.
 Alternativ im Angebot: die Jugenfreie Version auf 2 CDs.
 -- 
-> Ein Router ist sowas ähnliches wie ein Hub. Er ermöglicht
+> Ein Router ist sowas Ã¤hnliches wie ein Hub. Er ermÃ¶glicht
 > mehreren PCs den Internetzugang
 Ein Roller ist so was wie ein Ufo, man kann sich damit fortbewegen.
 "Sebastian" und "Andreas Hoffmann" in de.comm.technik.dsl
@@ -772,33 +772,33 @@ Simulationshardware verdecken.
 Meine Erfahrung: Wenn man "Linux" oder gar "AIX", "Solaris" oder "HP-UX"
 richtig buchstabieren kann, gehen die Firmen vor einem auf die Knie. 
 Der Unterschied zwischen uns und arbeitslosen MCSE'lern ist vor allem,
-daß letztere Bewerbungen schreiben müssen.          (Ralf Ramge in dasr)
+daÃŸ letztere Bewerbungen schreiben mÃ¼ssen.          (Ralf Ramge in dasr)
 -- 
 >Was ist der Unterschied zwischen einem langen und einem kurzen Rock?
 >Die Zugriffszeit!
-Was nützt dir kurze Zugriffszeit,
+Was nÃ¼tzt dir kurze Zugriffszeit,
 wenn es heisst: Access denied!
 -- 
 Wenn Du denkst, Du denkst, dann denkst Du nur, Du denkst, denn durch das 
-Denken der Gedanken kommst Du nur auf den Gedanken, daß das Denken der 
+Denken der Gedanken kommst Du nur auf den Gedanken, daÃŸ das Denken der 
 Gedanken ein gedankenloses Denken ist.
 -- 
 Beware of the Grill!
 -- 
 detebe braucht dich - denn sie haben Hunger!
 -- 
-"Mutti, kann ein Mädchen mit 8 schon Kinder bekommen?"
+"Mutti, kann ein MÃ¤dchen mit 8 schon Kinder bekommen?"
 "Nein mein Kind."
-Die kleine dreht sich um und ruft: "OK Jungs, wir können weitermachen."
+Die kleine dreht sich um und ruft: "OK Jungs, wir kÃ¶nnen weitermachen."
 - gelesen in de.talk.jokes
 -- 
-Ungefähr so gemein wie tote Schafe treten.
-Unsportmännisch, aber angenehm wollig-warm im Tritt.
+UngefÃ¤hr so gemein wie tote Schafe treten.
+UnsportmÃ¤nnisch, aber angenehm wollig-warm im Tritt.
 - Tobias Wolter in dagh-l
 -- 
 Der letzte macht das Netz aus.
 -- 
-Nach ein paar hundert Artikeln de.admin.* am Stück merkt man erst, wie
+Nach ein paar hundert Artikeln de.admin.* am StÃ¼ck merkt man erst, wie
 normal und sinnvoll die Artikel von detebe sind.
 [Christian Pree in daa]
 -- 
@@ -810,45 +810,45 @@ Alle Soldaten riechen nach Wasser
 ... die von der Marine nach Seewasser
 ... und die von der Luftwaffe nach Rasierwasser
 -- 
-Bei der Präsentation von Windows 98 ist der Computer abgestürzt.
-Bei der Präsentation von Windows XP gab es ein Erdbeben.
+Bei der PrÃ¤sentation von Windows 98 ist der Computer abgestÃ¼rzt.
+Bei der PrÃ¤sentation von Windows XP gab es ein Erdbeben.
 What next? Ein galaktischer Expressway durch unser Sonnensystem?
 -- 
-Oberfeldwebel:" Gefreiter Müller wenn ihnen jetzt die Eier explodieren
-                würden dann hätten Sie keine Hände mehr."
-Gefreiter Müller:" Wenn mir die Eier explodieren brauche ich auch keine
-                   Hände mehr"
+Oberfeldwebel:" Gefreiter MÃ¼ller wenn ihnen jetzt die Eier explodieren
+                wÃ¼rden dann hÃ¤tten Sie keine HÃ¤nde mehr."
+Gefreiter MÃ¼ller:" Wenn mir die Eier explodieren brauche ich auch keine
+                   HÃ¤nde mehr"
 -- 
 Wer ist der schlimmste Feind eines Panzergrenadiers?
-Der Rasenmäher, er nimmt ihm Nahrung und Deckung
+Der RasenmÃ¤her, er nimmt ihm Nahrung und Deckung
 -- 
 Spiess zum Kanonier: "Kanonier Mueller, wozu iss die Bundeswehr da?"
 Kanonier Mueller: "Herr Hauptmann, die Bundeswehr ist da um den Feind
                    solange aufzuhalten bis Militaer kommt!"
 -- 
 Heeresflieger sind wie Pinguine:
-Sie können nicht richtig laufen,
-sie können nicht richtig fliegen,
-aber sie haben eine große Klappe.
+Sie kÃ¶nnen nicht richtig laufen,
+sie kÃ¶nnen nicht richtig fliegen,
+aber sie haben eine groÃŸe Klappe.
 -- 
 Diplomatie ist die Kunst,
  einen Hund so lange zu streicheln,
  bis Maulkorb und Leine fertig sind.
 (Felix Faure, franz. Politiker, 1841-1899)
 -- 
-Schließlich glauben noch viele Amerikaner daran,
-daß Volkswagen von Zwergen im Schwarzwald
+SchlieÃŸlich glauben noch viele Amerikaner daran,
+daÃŸ Volkswagen von Zwergen im Schwarzwald
 handgefertigt werden.
 (Ein dt. Montageleiter im VW-Werk New Stanton\USA)
 -- 
-Das große Karthago führte drei Kriege.
-Es war noch mächtig nach dem ersten, noch bewohnbar nach dem zweiten.
+Das groÃŸe Karthago fÃ¼hrte drei Kriege.
+Es war noch mÃ¤chtig nach dem ersten, noch bewohnbar nach dem zweiten.
 Es war nicht mehr auffindbar nach dem dritten.
 (Berthold Brecht, dt. Schriftsteller, 1898-1956)
 -- 
-Ein Kompromiß, das ist die Kunst, einen Kuchen
-so zu teilen, daß jeder meint, er habe das
-größte Stück bekommen.
+Ein KompromiÃŸ, das ist die Kunst, einen Kuchen
+so zu teilen, daÃŸ jeder meint, er habe das
+grÃ¶ÃŸte StÃ¼ck bekommen.
 (Ludwig Erhard, dt. Politiker, 1897-1977)
 -- 
 Die Grenze zwischen Zivilisation und Barbarei ist nur schwer
@@ -859,31 +859,31 @@ sind zivilisiert. (Pearl S. Buck, 1892-1973)
 Probleme sind Gelegenheiten zu zeigen, was man kann.
 (Duke Ellington, amerik. Jazz-Musiker, 1899-1974)
 -- 
-Der einzige Mensch, der sich vernünftig benimmt, ist mein Schneider.
-Er nimmt jedesmal neu Maß, wenn er mich trifft, während alle 
-anderen immer die alten Maßstäbe anlegen in der Meinung, 
-sie paßten auch heute noch. (George Bernard Shaw,  1856-1950)
+Der einzige Mensch, der sich vernÃ¼nftig benimmt, ist mein Schneider.
+Er nimmt jedesmal neu MaÃŸ, wenn er mich trifft, wÃ¤hrend alle 
+anderen immer die alten MaÃŸstÃ¤be anlegen in der Meinung, 
+sie paÃŸten auch heute noch. (George Bernard Shaw,  1856-1950)
 -- 
 Man muss Rekursion verstanden haben, um Rekursion zu verstehen.
 -- 
 "Nur weil ich paranoid bin,
-heißt das noch lange nicht,
+heiÃŸt das noch lange nicht,
 dass *Sie* nicht hinter mir her sind."
 Fox Mulder
 -- 
-Ich sollte mich desozialisieren lassen - hoffentlich ist es dafür
-nicht schon zu spät. [Bernhard Schultz in detebe]
+Ich sollte mich desozialisieren lassen - hoffentlich ist es dafÃ¼r
+nicht schon zu spÃ¤t. [Bernhard Schultz in detebe]
 -- 
-> langsam nerven diese "man ..." Kommentare. Du hättest wenigstens 
-> schreiben können, wo ein man es downloaden kann.
+> langsam nerven diese "man ..." Kommentare. Du hÃ¤ttest wenigstens 
+> schreiben kÃ¶nnen, wo ein man es downloaden kann.
 Google.
 Jagen und Sammeln konnten schon die Steinzeitmenschen. [towo in doccc]
 -- 
-Du weißt, daß Du zu lange im Netz hängst, wenn Du ROT13 fließend
+Du weiÃŸt, daÃŸ Du zu lange im Netz hÃ¤ngst, wenn Du ROT13 flieÃŸend
 im Kopf decodieren kannst.
 -- 
 Du bist zu lange im Usenet <komma> wenn du oftmals kurz davor bist
-während eines Gesprächs die Satzzeichen mit auszusprechen <punkt>
+wÃ¤hrend eines GesprÃ¤chs die Satzzeichen mit auszusprechen <punkt>
 - Mario Link
 -- 
 Du bist I Em Ha Oh zu lange im Usenet, wenn Du dazu neigst, auch in
@@ -894,7 +894,7 @@ der gesprochenen Sprache Akronyme zu verwenden.
 - Vater: Das'ne Ziege, du Esel!
 gehoert im Berliner Zoo
 -- 
-Böse Zungen behaupten, Administration einer Usenethierarchie
+BÃ¶se Zungen behaupten, Administration einer Usenethierarchie
 bedeute "Wie kann man das Problem schnellsten in eine
 Schlammschlacht mit hohem Popkornbedarf verwandeln".
 -- 
@@ -921,10 +921,10 @@ Ferengi rules of Aquisition:
 Quarks last rule
 When Morn leaves, it's all over.
 -- 
-Es ist besser gehasst zu werden für etwas, was man
-ist, als geliebt zu werden für das, was man nicht ist.
+Es ist besser gehasst zu werden fÃ¼r etwas, was man
+ist, als geliebt zu werden fÃ¼r das, was man nicht ist.
 -- 
-Ich liebe Politiker auf Wahlplakaten. Sie sind tragbar, geräuschlos und
+Ich liebe Politiker auf Wahlplakaten. Sie sind tragbar, gerÃ¤uschlos und
 wieder einfach zu entfernen. [Loriot]
 -- 
 Solange der Nagellack nicht trocken ist, ist eine Frau praktisch wehrlos.
@@ -936,28 +936,28 @@ Und kann heruntergeladen werden auf opera.com
 - gelesen im Heiseforum
 -- 
 DTB-Erkenntnisse: 
-Markus Schaber sagt: Wenn man in die tiefen Fluten der Realität
-geworfen wird, geht so manchem der Grund unter den Füßen verloren.
+Markus Schaber sagt: Wenn man in die tiefen Fluten der RealitÃ¤t
+geworfen wird, geht so manchem der Grund unter den FÃ¼ÃŸen verloren.
 (http://www.bruhaha.de/detebe_erk.html)
 -- 
-Hier gilt für Angeklagte:
+Hier gilt fÃ¼r Angeklagte:
 <fs>Semper in excreta sunt solum profundum variat.</fs> Uebersetzung:
 Angeklagte (in detebe) stecken immer in der Scheisse, nur die Tiefe
 variiert.
 -- 
 DTB-Erkenntnisse: 
-Gudrun Hermes sagt: Ein Neubie fällt immer auf, egal ob er sich blöd oder
+Gudrun Hermes sagt: Ein Neubie fÃ¤llt immer auf, egal ob er sich blÃ¶d oder
 korrekt benimmt.
 (http://www.bruhaha.de/detebe_erk.html)
 -- 
 DTB-Erkenntnisse: 
 Christian Peper sagt: Jeder hier ist unsterblich. Und die, die doch
-gestorben sind, leben in den Erinnerungen der Realität[tm] weiter.
+gestorben sind, leben in den Erinnerungen der RealitÃ¤t[tm] weiter.
 (http://www.bruhaha.de/detebe_erk.html)
 -- 
 DTB-Erkenntnisse: 
-Karl Valentin sagt: Manchmal muß ein Wahrheitsfinder tun, 
-was ein Wahrheitsfinder tun muß.
+Karl Valentin sagt: Manchmal muÃŸ ein Wahrheitsfinder tun, 
+was ein Wahrheitsfinder tun muÃŸ.
 (http://www.bruhaha.de/detebe_erk.html)
 -- 
 es gibt zweideutig, eindeutig und nulldeutig.
@@ -971,7 +971,7 @@ wir machen keinen groben unfug - wir machen feinen fug
 -- 
 Fighting for peace is like fucking for virginity!
 -- 
-Digitale Bauelemente können drei Zustände annehmen: an, aus und kaputt!
+Digitale Bauelemente kÃ¶nnen drei ZustÃ¤nde annehmen: an, aus und kaputt!
 
 - Wau Holland - In memoriam perpetuam
 -- 
@@ -980,8 +980,8 @@ Hacken ist, wenn man seine Suppe mit der Kaffemaschine kochen kann
 - Wau Holland - In memoriam perpetuam
 -- 
 DTB-Erkenntnisse:
-Christian Peper sagt: Nur weil man mal kurz die Realität[tm] verläßt, muß
-man nicht gleich mit der Wahrheizsuche aufhören.
+Christian Peper sagt: Nur weil man mal kurz die RealitÃ¤t[tm] verlÃ¤ÃŸt, muÃŸ
+man nicht gleich mit der Wahrheizsuche aufhÃ¶ren.
 (http://www.bruhaha.de/detebe_erk.html)
 -- 
 DTB-Erkenntnisse:
@@ -995,7 +995,7 @@ Grillsaison!
 (http://www.bruhaha.de/detebe_erk.html)
 -- 
 DTB-Erkenntnisse:
-Dieter Bruegmann sagt: Für die Wahrheitsfindung darf einem kein Opfer zu groß 
+Dieter Bruegmann sagt: FÃ¼r die Wahrheitsfindung darf einem kein Opfer zu groÃŸ 
 sein, sofern es jemand anders bringt.
 (http://www.bruhaha.de/detebe_erk.html)
 -- 
@@ -1007,11 +1007,11 @@ In the manual it said: 'For use with Windows95, 98, or better.' So I
 installed LINUX...
 unbekannter User
 -- 
-Für einen Mathematiker haben Sie zu wenig Phantasie, Sie sollten 
+FÃ¼r einen Mathematiker haben Sie zu wenig Phantasie, Sie sollten 
 Dichter werden."
 David Hilbert (1862 -1943) zu einem Studenten
 -- 
-Ich weiß nicht wer auf dem Mond war, die waren es nicht!
+Ich weiÃŸ nicht wer auf dem Mond war, die waren es nicht!
 Frank K., nach 6-monatigem USA-Aufenthalt
 -- 
 "I'm not under the alkafluence of inkahol that some thinkle peep I am.
@@ -1033,7 +1033,7 @@ Merke: Wer nicht mehr leidet, ist tot.
 - Dieter Bruegmann
 (http://www.detebe.de/TW-Archiv)
 -- 
-Klowände streichen ist wie Bücher verbrennen.
+KlowÃ¤nde streichen ist wie BÃ¼cher verbrennen.
 - Dieter Bruegmann
 (http://www.detebe.de/TW-Archiv)
 -- 
@@ -1045,9 +1045,9 @@ Wer immer nur gut ist, wird niemals sehr gut sein.
 - Christian Peper
 (http://www.detebe.de/TW-Archiv)
 -- 
-Gebühr zahlt Empfänger. 
+GebÃ¼hr zahlt EmpfÃ¤nger. 
 -- 
-Wenn Empfänger verstorben zurück an Router.
+Wenn EmpfÃ¤nger verstorben zurÃ¼ck an Router.
 -- 
 If a trainstation is the place where trains stop, what is a workstation?
 -- 
@@ -1062,7 +1062,7 @@ bis er mit ihr allein ist.
 Wenn ich nur darf, wenn ich soll, aber nie kann, wenn ich will, dann mag ich
 auch nicht, wenn ich muss. Wenn ich aber darf, wenn ich will, dann mag ich
 auch, wenn ich soll, und dann kann ich auch, wenn ich muss. Denn
-schließlich: Die können sollen, müssen wollen dürfen.
+schlieÃŸlich: Die kÃ¶nnen sollen, mÃ¼ssen wollen dÃ¼rfen.
 -- 
 Einsamer sucht Einsame zum einsamen.
 - Unbekannt
@@ -1072,36 +1072,36 @@ angeborene Schwaeche am moralischem Rueckgrat", murmelte Ford, "und bin
 deshalb von der Rettung von Universen freigestellt."
 - Das Leben, das Universum und der ganze Rest
 -- 
-OjE ist das Usenet-Äquivalent zu einem Auto, das keine Bremsen hat und
+OjE ist das Usenet-Ã„quivalent zu einem Auto, das keine Bremsen hat und
 nur nach links steuern kann. Es ist sinnvoller, auf ein richtiges Auto
 umzusteigen, anstatt eine Strecke zu suchen, die keine Hindernisse und
 keine Rechtskurven hat. (Antonio Navarro Perez in z-netz.frd)
 -- 
 Die Produkte und all die Stars, die von den Unterhaltungskonzernen auf den 
-Markt geworfen werden, beweisen eines auf jeden Fall ein für alle Mal: das
-klägliche Scheitern jedweden Kopierschutzes. Denn offensichtlich schützt 
-selbst die Produktion abgestandenen Mülls nicht vor Raubkopien. (Hal Faber)
+Markt geworfen werden, beweisen eines auf jeden Fall ein fÃ¼r alle Mal: das
+klÃ¤gliche Scheitern jedweden Kopierschutzes. Denn offensichtlich schÃ¼tzt 
+selbst die Produktion abgestandenen MÃ¼lls nicht vor Raubkopien. (Hal Faber)
 -- 
 [...] Den meisten LUsern wurd ich nichtmal root-Rechte am Lichtschalter 
 im eigenen Buero geben.
 - Raphael Becker
 -- 
 Ein Admin ist wie ein Tierpfleger, er muss mit eNTen Pinguinen und Daemonen 
-(ähm habe ich irgendwie noch in keinem Zoo gesehen) umgehen können, eNTen sind 
-aber besonders gefährlich und unberechenbar, beim Putzen sollte man da schon 
-aufpassen das man sich keinen Wurm einfäng[........] (Daniel Aubry in dasr)
+(Ã¤hm habe ich irgendwie noch in keinem Zoo gesehen) umgehen kÃ¶nnen, eNTen sind 
+aber besonders gefÃ¤hrlich und unberechenbar, beim Putzen sollte man da schon 
+aufpassen das man sich keinen Wurm einfÃ¤ng[........] (Daniel Aubry in dasr)
 -- 
-Wer sein Leben so einrichtet, daß er
+Wer sein Leben so einrichtet, daÃŸ er
 niemals auf die Schnauze fliegen kann, der kann nur auf dem Bauch kriechen.
 - H. Riesenhuber
 -- 
-Der Kluge läßt sich belehren,
-der Unkluge weiß alles besser.
+Der Kluge lÃ¤ÃŸt sich belehren,
+der Unkluge weiÃŸ alles besser.
 -- 
-Nenne Dich nicht arm, weil Deine Träume nicht in Erfüllung gegangen sind;
-Wirklich arm ist nur, wer nie geträumt hat.
+Nenne Dich nicht arm, weil Deine TrÃ¤ume nicht in ErfÃ¼llung gegangen sind;
+Wirklich arm ist nur, wer nie getrÃ¤umt hat.
 -- 
-Schöne Tage - Nicht weinen, weil sie
+SchÃ¶ne Tage - Nicht weinen, weil sie
 vergangen, sondern lachen, weil sie gewesen.
 -- 
 Was ist Jugend?
@@ -1115,8 +1115,8 @@ Religionen sind falsche Mittel zur Befriedigung echter Beduerfnisse.
 Es gibt zwei Regeln fuer Erfolg im
 Leben: 1. Erzaehle den Leuten nie alles, was Du weisst.. 
 -- 
-Ich bin umgeben von dummen Sprüchen, blöder Anmache, 
-ätzenden Parties, fertigen Freunden, zu lauter Musik
+Ich bin umgeben von dummen SprÃ¼chen, blÃ¶der Anmache, 
+Ã¤tzenden Parties, fertigen Freunden, zu lauter Musik
  - ich glaube, ich bin mitten in der besten Phase meines Lebens! 
 -- 
 Fuer die Welt bist Du irgendjemand, aber
@@ -1127,7 +1127,7 @@ Aber noch schlimmer ist es, in einem Lande zu leben,
 in dem man Humor braucht.
 - Bertolt Brecht
 -- 
-Staatsmänner schweben mit beiden Beinen fest über den Tatsachen.
+StaatsmÃ¤nner schweben mit beiden Beinen fest Ã¼ber den Tatsachen.
 - Oliver Hassencamp
 -- 
 Sie haben sich auf der Grundlage harter Fakten eine feste Meinung
@@ -1145,34 +1145,34 @@ nicht zu Wahrheiten, sondern was schlimmer ist, zu Gewohnheiten.
 Don't dream your life, live your dream!
 -- 
 > IMO ist sich zu besaufen sowieso eins der sinnlosesten Dinge 
-> überhaupt.
+> Ã¼berhaupt.
 Nein. Das ist schon durch die Armee besetzt.
          [Simon Daubermann und Gabriel Ambuehl]
 -- 
- /°\     - JOIN NOW!!! - 
+ /Â°\     - JOIN NOW!!! - 
  \ /  ASCII ribbon campaign
   X       against HTML     
  / \    in mail and news   
 -- 
-Früher war ich unentschlossen. Heute bin ich mir da nicht mehr so
+FrÃ¼her war ich unentschlossen. Heute bin ich mir da nicht mehr so
 sicher.
 -- 
 Sommersprossen sind auch Gesichtspunkte.
 -- 
-Aus dem WWW dringt niemand ein. Das internationale Datennetz heißt
+Aus dem WWW dringt niemand ein. Das internationale Datennetz heiÃŸt
 Internet. WWW ist der Teil, in dem es Fickbildchen gibt.
   [Andreas Riedel in de.comp.os.unix.linux.misc]
 -- 
-Nähe ist latür immer ein relativer Begriff.
-Relativ zu Alpha Centauri ist der Brahmaputra in der Nähe des Brocken.
+NÃ¤he ist latÃ¼r immer ein relativer Begriff.
+Relativ zu Alpha Centauri ist der Brahmaputra in der NÃ¤he des Brocken.
 [Dieter Brugmann in detebe]
 -- 
-Sie wissen, wie das läuft. Mädchen trifft Jungen, 
-Mädchen ändert die Subroutinen des Jungen..
+Sie wissen, wie das lÃ¤uft. MÃ¤dchen trifft Jungen, 
+MÃ¤dchen Ã¤ndert die Subroutinen des Jungen..
 Janeway - fair haven
 -- 
 Die drei Feinde des Programmierers?
-Sonnenlicht, Frischluft und das unerträgliche Gebrüll der Vögel.
+Sonnenlicht, Frischluft und das unertrÃ¤gliche GebrÃ¼ll der VÃ¶gel.
 -- 
 Ein Tag, an dem man aufstehen muss, ist kein guter Tag.
 -- 
@@ -1196,74 +1196,74 @@ Filmzitate - Desperado
 "Habe ich schon 'Danke' gesagt?" - "Nein." - "Kommt noch!"
 -- 
 Filmzitate - Operation: Broken Arrow
-"Wenn ich diesen Knopf drücke,
+"Wenn ich diesen Knopf drÃ¼cke,
 wird Kalifornien eine sehr ruhige Gegend werden
-- sagen wir für 10.000 Jahre."
+- sagen wir fÃ¼r 10.000 Jahre."
 -- 
 Usenet ist wie ein grossartiger Film. Nur ohne Bilder und ohne Ton,
 dafuer aber mit klasse Untertiteln. - Henning Sponbiel in detebe
 -- 
 Filmzitate - Besser gehts nicht
-"Wie können sie nur so gut über Frauen schreiben?" 
-"Ich stell' mir Männer vor und subtrahiere Verstand 
-und Zurechnungsfähigkeit!"
+"Wie kÃ¶nnen sie nur so gut Ã¼ber Frauen schreiben?" 
+"Ich stell' mir MÃ¤nner vor und subtrahiere Verstand 
+und ZurechnungsfÃ¤higkeit!"
 -- 
 Filmzitate - Blues Brothers
-"Scheiße!" - "Was?" - "'ne Streife!" - "Nein!?!" - 
-"Doch!" - "Scheiße!"
+"ScheiÃŸe!" - "Was?" - "'ne Streife!" - "Nein!?!" - 
+"Doch!" - "ScheiÃŸe!"
 -- 
 Filmzitate - Dazed and Confused
-"Es gibt zwei Gründe, warum ich hier bin: um mich zu prügeln 
+"Es gibt zwei GrÃ¼nde, warum ich hier bin: um mich zu prÃ¼geln 
 und um Bier zu trinken - und das Bier ist fast alle!" 
 -- 
 Masturbation ist Sex an und fuer sich.
 -- 
 Filmzitate - Hot Shots 2
-"Danke Topper. Ich kann wieder töten. 
+"Danke Topper. Ich kann wieder tÃ¶ten. 
 Jetzt hat das Leben wieder einen Sinn."
 -- 
 Filmzitate - Lethal Weapon III
 "Halt Du ihn fest, Ich mach ein Sieb aus ihm - 
 Es wird wie Selbstmord aussehn."
 -- 
-Filmzitate - 6 Tage 7 Nächte
+Filmzitate - 6 Tage 7 NÃ¤chte
 "Ich sag Ihnen, wie eine Frau einen Mann rumkriegt."
-"Ja, wie?" - "Sie taucht nur auf. Das genügt. 
-Wir Männer sind einfach gestrickt." 
+"Ja, wie?" - "Sie taucht nur auf. Das genÃ¼gt. 
+Wir MÃ¤nner sind einfach gestrickt." 
 -- 
-Falls Freiheit überhaupt irgendetwas bedeutet,
+Falls Freiheit Ã¼berhaupt irgendetwas bedeutet,
 dann bedeutet sie das Recht darauf,
-den Leuten das zu sagen, was sie nicht hören wollen.
+den Leuten das zu sagen, was sie nicht hÃ¶ren wollen.
 George Orwell
 -- 
 Filmzitate - Operation: Broken Arrow
 "Ich weiss nicht was mich mehr beunruhigt, dass soetwas passiert 
-oder dass es so oft passiert, dass es dafür schon einen eigenen 
+oder dass es so oft passiert, dass es dafÃ¼r schon einen eigenen 
 Namen gibt."
 -- 
 Filmzitate - Otto der Ausserfriesische
 "Im Buch der Friesen steht geschrieben: Der Friese trinkt wenig, 
-aber dafür oft und dann viel."
+aber dafÃ¼r oft und dann viel."
 -- 
 Filmzitate - Blues Brothers
 "Es sind 106 Meilen bis Chicago, der Tank ist voll, 
-wir haben ein halbes Päckchen Zigaretten, 
+wir haben ein halbes PÃ¤ckchen Zigaretten, 
 es ist dunkel und wir tragen Sonnenbrillen!"
 -- 
-Rede lieber, anstatt zu kämpfen.
+Rede lieber, anstatt zu kÃ¤mpfen.
 Handle lieber, anstatt zu reden.
-Kämpfe immer darum, daß du reden und handeln kannst.
+KÃ¤mpfe immer darum, daÃŸ du reden und handeln kannst.
 -- 
-Denken ist die Arbeit des Intellekts, Träumen sein Vergnügen.
+Denken ist die Arbeit des Intellekts, TrÃ¤umen sein VergnÃ¼gen.
 Victor Hugo
 -- 
-Der vernünftige Mensch paßt sich der Welt an;
-der Unvernünftige besteht auf dem Versuch,die Welt sich anzupassen.
-Deshalb hängt aller Fortschritt vom unvernünftigen Menschen ab.
+Der vernÃ¼nftige Mensch paÃŸt sich der Welt an;
+der UnvernÃ¼nftige besteht auf dem Versuch,die Welt sich anzupassen.
+Deshalb hÃ¤ngt aller Fortschritt vom unvernÃ¼nftigen Menschen ab.
 George Bernhard Shaw
 -- 
 Pessimismus wird nur von den Optimisten verbreitet.
-Die Pessimisten sparen ihn für schlechtere Zeiten auf.
+Die Pessimisten sparen ihn fÃ¼r schlechtere Zeiten auf.
 Gabriel Laub
 -- 
 Ich kann freilich nicht sagen, ob es besser wird, wenn es anders wird, 
@@ -1272,7 +1272,7 @@ Es muss anders werden, wenn es gut werden soll.
 Georg Christoph Lichtenberg
 -- 
 Minderheiten sind die Sterne des Firmaments;
-Mehrheiten sind das Dunkel, in dem sie fließen.
+Mehrheiten sind das Dunkel, in dem sie flieÃŸen.
 Martin Herny Fischer
 -- 
 Wir haben immer eine Wahl, und sei's,
@@ -1285,10 +1285,10 @@ Reiner Kunze
 Die gleichen Wahnsinnigen, die sie hinterher auch noch kriegen.
 - Mickey (Markus) Kottenhahn in detebe
 -- 
-Das ist so gut, daß man es gleich wiederholen und .siggen muß.
+Das ist so gut, daÃŸ man es gleich wiederholen und .siggen muÃŸ.
 - Volker Mueller in detebe
 -- 
-Wer mit seiner Karre in die Kneipe reinheizt hält sich nur ans
+Wer mit seiner Karre in die Kneipe reinheizt hÃ¤lt sich nur ans
 Reinheizgebot.
 - Dieter Bruegmann in detebe
 -- 
@@ -1296,22 +1296,22 @@ Der PC ist nichts weiter als eine uebertaktete Z1.
 - Sebastian Richter in detebe
 -- 
 Die Loveparade ist vorbei, die Raver hinterliessen sage und schreibe
-220 Tonnen Müll, die Musik noch nicht mitgerechnet. 
+220 Tonnen MÃ¼ll, die Musik noch nicht mitgerechnet. 
 - NDR2-Nachrichten
 -- 
-Es gibt Leute, die betrachten angesichts der Größe des Universums jede
+Es gibt Leute, die betrachten angesichts der GrÃ¶ÃŸe des Universums jede
 Es-Gibt-Aussage als beinahe logisch wahr.
 	                            Florian Weimer in dafu am 7.3.2001
 -- 
 Fachbegriffe der Informatik:
 263: MCSE
-	Meine Computerkenntisse Sind Erbärmlich
+	Meine Computerkenntisse Sind ErbÃ¤rmlich
 - Sebastian Posner
 -- 
 Fachbegriffe der Informatik:
 275: Luster-Format
-Positiv gemeint: Eßfreudig
-Negativ gemeint: Das Äquivalent von zwei Öltanks (Alexander Stielau)
+Positiv gemeint: EÃŸfreudig
+Negativ gemeint: Das Ã„quivalent von zwei Ã–ltanks (Alexander Stielau)
 -- 
 "Lt. Worf, scannen Sie das Schiff!"
 "300dpi, Sir?"
@@ -1323,17 +1323,17 @@ Filmzitate - Wayne' Worlds
 Wayne Campbell: Garth, marriage is punishment 
 for shoplifting in some countries!
 -- 
-Der Kurs "Flirten für Informatiker" wurde inzwischen zusammen mit
-"Freeclimbing für Epileptiker" aus allen VHS-Programmen entfernt.
+Der Kurs "Flirten fÃ¼r Informatiker" wurde inzwischen zusammen mit
+"Freeclimbing fÃ¼r Epileptiker" aus allen VHS-Programmen entfernt.
 [Jochen Linnich in <nuclear.m3elurvhop.fsf@teamlinux.de>]
 -- 
-Selbstmord ist die beste und endgültigste Form der Selbstkritik.
+Selbstmord ist die beste und endgÃ¼ltigste Form der Selbstkritik.
 (Robert Johnen in detebe)
 -- 
 > Bekomme ich das mit einer wilden Kombination aus find, sed, cp und
 > xargs hin oder sollte ich besser ein Perlskript schreiben?
 Verwende Perl. Shell will man koennen, dann aber nicht verwenden."
- - Marc Haber u. Kristian Köhntopp, dcoum
+ - Marc Haber u. Kristian KÃ¶hntopp, dcoum
 -- 
 Jeder sollte an etwas glauben. Ich glaube an noch ein Bier.
 -- 
@@ -1342,36 +1342,36 @@ another drink.
 -- 
 We become the enemy, when freedom dies for security
 -- 
-"Sieh mich an: 42 (13) Jahre bin ich zur Schule gegangen! Was hätte
- ich in der Zeit alles lernen können!"
-Dieter Brügmann in detebe
+"Sieh mich an: 42 (13) Jahre bin ich zur Schule gegangen! Was hÃ¤tte
+ ich in der Zeit alles lernen kÃ¶nnen!"
+Dieter BrÃ¼gmann in detebe
 -- 
 DTB-Erkenntnisse:
 Karl Valentin sagt: Wenn ein Wahrheitsfinder forscht, 
-ist das per definitionem seriös.
+ist das per definitionem seriÃ¶s.
 (http://www.bruhaha.de/detebe_erk.html)
 -- 
 Sie: Ist dieser Platz neben Dir frei?
 Er: Ja; und dieser auch, wenn Du Dich setzt!
 -- 
-In der Realität verbergen sich die Wahrheiten auch
-im blühenden Unsinn. [Kurt Fischer in detebe]
+In der RealitÃ¤t verbergen sich die Wahrheiten auch
+im blÃ¼henden Unsinn. [Kurt Fischer in detebe]
 -- 
 >Eisbaeren sind nichts weiter als automobile Teppiche. 
 Also wenn schon fremdsprech, dann konsequent. 
 Entweder ipsomobil oder autokinetisch.
 - Georg Siegemund in detebe
 -- 
-Wer Pixel sät, wird Sprites ernten.
+Wer Pixel sÃ¤t, wird Sprites ernten.
 -- 
 "Es gibt keinen Kopierschutz... bestenfalls Kapierschutz"
-Andy Müller-Maguhn
+Andy MÃ¼ller-Maguhn
 -- 
 The early bird catches the worm. If you want something else for
 breakfast, get up later.
 -- 
-"Das Leben ist eine Krankheit, die durch Sex übertragen wird und zu
-100% tödlich endet."
+"Das Leben ist eine Krankheit, die durch Sex Ã¼bertragen wird und zu
+100% tÃ¶dlich endet."
 -- 
 #The Unix Guru's View of Sex
 unzip ; strip ; touch ; grep ; finger ; mount ; fsck ; more ; yes ; 
@@ -1428,12 +1428,12 @@ Computers are like air conditioners.
  Und sie tun es auch." 
 - Bertrand Russel (1872-1970)
 -- 
-> Wieso höre ich nicht auf mit dem Usenet?
+> Wieso hÃ¶re ich nicht auf mit dem Usenet?
 Ist wie mit einem Buch. Auch wenn es schlecht ist, willst Du wissen
 wie es ausgeht.
 - Michael Meier in daa'ooo
 -- 
-Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei 
+Wer mit Ungeheuern kÃ¤mpft, mag zusehn, dass er nicht dabei 
 zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, 
 blickt der Abgrund auch in dich hinein.
 -- 
@@ -1452,7 +1452,7 @@ You make it through tomorrow without killing anybody,
 especially me, or yourself, then I'll start trusting you.
 -- 
 Filmzitate - Lethal Weapon 3:
-Murthaugh: Konntest du das Problem nicht ohne deine Fäuste lösen?
+Murthaugh: Konntest du das Problem nicht ohne deine FÃ¤uste lÃ¶sen?
 Riggs: Ja, aber da waren zu viele Leute, um meine Waffe zu ziehen.
 -- 
 "Der Krieg ist also ein Akt der Gewalt um den Gegner zur Erfuellung
@@ -1471,27 +1471,27 @@ Frage...
 Tobias Wolter in dtju
 -- 
 Du bist nur einmal jung.
-Später musst du dir eine andere Entschuldigung einfallen lassen.
+SpÃ¤ter musst du dir eine andere Entschuldigung einfallen lassen.
 -- 
-Wenn du wissen willst, ob ein Politiker lügt, sieh ihm auf den Mund.
-Wenn er sich bewegt, so lügt er
+Wenn du wissen willst, ob ein Politiker lÃ¼gt, sieh ihm auf den Mund.
+Wenn er sich bewegt, so lÃ¼gt er
 -- 
 Der ungerechteste Frieden ist immer noch besser
 als der gerechteste Krieg.
 (Cicero)
 -- 
-Die zehn Gebote sind deshalb so kurz und verständlich,
+Die zehn Gebote sind deshalb so kurz und verstÃ¤ndlich,
 weil sie ohne Mitwirkung von Experten entstanden sind.
 (Charles de Gaulle)
 -- 
 Mitleid bekommst du umsonst, Neid musst du dir erarbeiten.
 -- 
-Die schönsten Dinge im Leben sind entweder illegal, 
+Die schÃ¶nsten Dinge im Leben sind entweder illegal, 
 unmoralisch oder machen dick.
 -- 
 >'Chemie Heute Sekundarbereich II', um mal den Buchdeckel zu zitieren 
 'NO CH3COOH H2 Br2 Cu2S Ca(OH)2 C6H1206 HCHO C3PO4 He CH4 
-SO2 C2H5OH CO CCl3F SiO2 HNO3', um mal den Buchrücken zu zitieren
+SO2 C2H5OH CO CCl3F SiO2 HNO3', um mal den BuchrÃ¼cken zu zitieren
 - Christian Peper und Jan Weseler in detebe
 -- 
 Beim naechsten Ton ist es: Mittwoch, 16:00 Uhr.
@@ -1504,30 +1504,30 @@ Sadist zum Masochisten: "Nein!"
 Masochist: "Danke!"
 - gelesen in dtj
 -- 
-Wie macht man an der Börse ein kleines vermögen?
+Wie macht man an der BÃ¶rse ein kleines vermÃ¶gen?
 .
 .
--Indem man ein großes mitbringt.
+-Indem man ein groÃŸes mitbringt.
 -- 
 "Mein Mann ist Politiker, aber man konnte ihm bisher noch nichts
 nachweisen"
 - gelesen in dtj
 -- 
 Wenn ein Arzt hinter dem Sarg seines Patienten geht,
-so folgt manchmal tatsächlich die Ursache der Wirkung.
+so folgt manchmal tatsÃ¤chlich die Ursache der Wirkung.
 [Robert Koch]
 -- 
 Wenn Du etwas tust, dann tu es ganz, halb, oder lass es bleiben.
 (David E. G. Meijer in detebe)
 -- 
-Planung heißt,
+Planung heiÃŸt,
 den Zufall durch Irrtum zu ersetzen.
 [Peter Ustinov]
 -- 
 Krieg = Terrorismus
 -- 
-Frauen widersprechen sich oft selbst, Männer können das meist den
-Frauen überlassen. [Kurt Fischer in detebe]
+Frauen widersprechen sich oft selbst, MÃ¤nner kÃ¶nnen das meist den
+Frauen Ã¼berlassen. [Kurt Fischer in detebe]
 -- 
 BOFH excuse #350.
 PEBKAC (problem exists between keyboard and chair).
@@ -1561,12 +1561,12 @@ trublu (at) c-peper.de
   x  Ribbon campain Say NO to HTML in email, news and magic books
  / \
 -- 
-Je weniger Haare man hat, desto mehr Gesicht muß man waschen. 
+Je weniger Haare man hat, desto mehr Gesicht muÃŸ man waschen. 
 (Unbekannt)
 -- 
 Werbung sind die realistischsten Kurzfilme, die es gibt. Wenn ich in
 meiner Seifenkiste im Wald gegen einen Baum fahre, hat meine Mami auch
-immer einen Landliebe-Pudding inkl. Löffel bei.
+immer einen Landliebe-Pudding inkl. LÃ¶ffel bei.
 [Kati Kaestner in dtju]
 -- 
          Bill of Spammer-Rights
@@ -1574,24 +1574,24 @@ immer einen Landliebe-Pudding inkl. Löffel bei.
 2. You have the right to be assassinated.
 3. You have the right to resist, but it is futile.
 -- 
-"Am Ende kommst du mir noch mit der Theorie, daß die Erde gar nicht der
- Mittelpunkt des Universums ist!  Lächerlich.  Ketzern wie dir wünsche
- ich manchmal, daß sie vom Rand der Erdscheibe herunterfallen!" - Fefe,
+"Am Ende kommst du mir noch mit der Theorie, daÃŸ die Erde gar nicht der
+ Mittelpunkt des Universums ist!  LÃ¤cherlich.  Ketzern wie dir wÃ¼nsche
+ ich manchmal, daÃŸ sie vom Rand der Erdscheibe herunterfallen!" - Fefe,
  am 25 Nov 2001 in de.alt.sysadmin.recovery (MsgID: <3c0126e4@fefe.de>)
 -- 
-Warum muß ich bei "Verwaltung von Problemlösungen für eine EDV-Abteilung"
+Warum muÃŸ ich bei "Verwaltung von ProblemlÃ¶sungen fÃ¼r eine EDV-Abteilung"
 an einen Waffenschrank denken?
  - Robin S. Socha <rsocha@socha.net> in de.comp.os.unix.linux.misc
 -- 
 Diskutiere niemals mit jemandem, der drei Liter Vorsprung hat.
 -- 
-Das einzige Problem beim Nichtstun ist, daß man nie weiß, wann man 
+Das einzige Problem beim Nichtstun ist, daÃŸ man nie weiÃŸ, wann man 
 fertig ist.
 -- 
 F: Warum wird bei Frost auf dem Bau nicht gearbeitet?
 A: Weil das Bier dann gefriert.
 -- 
-Während 74,569839% aller Statistiken eine nicht gerechtfertigte
+WÃ¤hrend 74,569839% aller Statistiken eine nicht gerechtfertigte
 Genauigkeit vorgaukeln geben 128,5% aller Statistiken absolut
 unrealistische Werte an.
 -- 
@@ -1599,44 +1599,44 @@ Auch Schlafen ist eine Form der Kritik,
 vor allem im Theater.
 (George Bernhard Shaw, irischer Dramatiker, 1856-1950)
 -- 
-Wer sich ständig von Vernunft leiten läßt,
-ist nicht vernünftig.
+Wer sich stÃ¤ndig von Vernunft leiten lÃ¤ÃŸt,
+ist nicht vernÃ¼nftig.
 (Charles Tschopp, schweizer Aphoristiker, 1899-1982)
 -- 
-Moralische Entrüstung besteht in den meisten Fällen
+Moralische EntrÃ¼stung besteht in den meisten FÃ¤llen
  zu 2 Prozent aus Moral, 48 Prozent aus Hemmung und
  50 Prozent Neid.
 -- 
-Gebildet sein heißt:
+Gebildet sein heiÃŸt:
 Sich nicht merken zu lassen, wie schlecht man ist.
 (Friedrich Nietzsche, dt. Philosoph, 1844-1900)
 -- 
-Glück ein Leben lang!
-Niemand könnte es ertragen, es wäre die Hölle auf Erden!
+GlÃ¼ck ein Leben lang!
+Niemand kÃ¶nnte es ertragen, es wÃ¤re die HÃ¶lle auf Erden!
 (George Bernard Shaw, irischer Dichter, 1856-1950)
 -- 
 Die Welt wird nicht bedroht von den Menschen,
-die böse sind, sondern von denen, die das Böse zulassen.
+die bÃ¶se sind, sondern von denen, die das BÃ¶se zulassen.
 (Albert Einstein, dt.-am. Physiker, 1879-1955)
 -- 
-Hohle Gefäße geben mehr Klang als gefüllte.
-Ein Schwätzer ist meist ein leerer Kopf.
+Hohle GefÃ¤ÃŸe geben mehr Klang als gefÃ¼llte.
+Ein SchwÃ¤tzer ist meist ein leerer Kopf.
 (August von Platen, dt. Dichter, 1796-1835)
 -- 
 Jede Dummheit findet einen, der sie macht.
 (Tennessee Williams, amerikan. Schriftsteller, 1911-1983)
 -- 
-Die Einkommensteuer hat mehr Menschen zu Lügnern
+Die Einkommensteuer hat mehr Menschen zu LÃ¼gnern
 gemacht als der Teufel.
 (William Rogers, am. Humorist, 1879-1935)
 -- 
-Wer den Sirenengesang der Werbung widersteht, ist mündiger Bürger.
-Und gefährdet Arbeitskräfte.
+Wer den Sirenengesang der Werbung widersteht, ist mÃ¼ndiger BÃ¼rger.
+Und gefÃ¤hrdet ArbeitskrÃ¤fte.
 (Oliver Hassenkamp, dt. Schriftsteller, 1921-1988)
 -- 
-Wenn Männer sich mit ihrem Kopf beschäftigen,
+Wenn MÃ¤nner sich mit ihrem Kopf beschÃ¤ftigen,
 nennt man das denken. Wenn Frauen das gleiche
-tun, heißt das frisieren.
+tun, heiÃŸt das frisieren.
 (Anna Magnani, ital. Schauspielerin, 1908-1973)
 -- 
 Arm ist nicht der, der wenig hat, sondern der,
@@ -1648,45 +1648,45 @@ das Geld, dem man nachjagt, ist das Instrument der Knechtschaft.
 (Jean-Jacques Rousseau, schw.-frz. Phil., 1712-1778)
 -- 
 Ein Blitzableiter auf einem Kirchturm ist das
-denkbar stärkste Mißtrauensvotum gegen den
+denkbar stÃ¤rkste MiÃŸtrauensvotum gegen den
 lieben Gott.
-(Karl Kraus, österr. Schriftsteller, 1874-1936)
+(Karl Kraus, Ã¶sterr. Schriftsteller, 1874-1936)
 -- 
-Man kann niemanden überholen,
-wenn man in seine Fußstapfen tritt.
+Man kann niemanden Ã¼berholen,
+wenn man in seine FuÃŸstapfen tritt.
 (Francois Truffaut, franz. Regiesseur, 1932-1985)
 -- 
-"Frauenparkplätze sind ja wirklich eine absolut sinnvolle Einrichtung - 
-man ist doch als Triebtäter jahrelang sinnlos durchs Parkhaus geirrt." 
+"FrauenparkplÃ¤tze sind ja wirklich eine absolut sinnvolle Einrichtung - 
+man ist doch als TriebtÃ¤ter jahrelang sinnlos durchs Parkhaus geirrt." 
 - (Harald Schmidt)
 -- 
-Wer sich über Kritik ärgert, gibt zu, daß sie verdient war.
-(Tacitus, röm. Schriftsteller, 55-? n.Chr.)
+Wer sich Ã¼ber Kritik Ã¤rgert, gibt zu, daÃŸ sie verdient war.
+(Tacitus, rÃ¶m. Schriftsteller, 55-? n.Chr.)
 -- 
-Wenn ich mit meiner Relativitätstheorie recht behalte, werden die Deutschen 
-sagen, ich sei Deutscher, und die Franzosen, ich sei Weltbürger. Erweist sich 
+Wenn ich mit meiner RelativitÃ¤tstheorie recht behalte, werden die Deutschen 
+sagen, ich sei Deutscher, und die Franzosen, ich sei WeltbÃ¼rger. Erweist sich 
 meine Theorie als falsch, werden die Franzosen sagen, ich sei Deutscher und sie 
 Deutschen, ich sei Jude. (Albert Einstein, dt. Physiker, 1879-1955)
 -- 
-Ein Fachmann ist ein Mann, der einige der größten Fehler kennt,
+Ein Fachmann ist ein Mann, der einige der grÃ¶ÃŸten Fehler kennt,
 die man in dem betreffenden Fach machen kann, und sie deshalb
 zu vermeiden versteht.
 (Werner Heisenberg, dt. Atomphysiker, 1901-1976)
 -- 
-Nur zwei Dinge behält eine Frau für sich:
-Ihr Alter und was sie selbst nicht weiß.
+Nur zwei Dinge behÃ¤lt eine Frau fÃ¼r sich:
+Ihr Alter und was sie selbst nicht weiÃŸ.
 (Bulgarisches Sprichwort)
 -- 
-Wenn die meisten sich schon armseliger Kleider und Möbel schämen, 
+Wenn die meisten sich schon armseliger Kleider und MÃ¶bel schÃ¤men, 
 wieviel mehr sollten wir uns da erst armseliger Ideen und 
-Weltanschauungen schämen.
+Weltanschauungen schÃ¤men.
 (Albert Einstein, deutsch-US-amerikanischer Physiker, 1879 - 1955)
 -- 
 Durch nichts bezeichnen die Menschen mehr ihren Charakter als durch 
-das, was sie lächerlich finden.
+das, was sie lÃ¤cherlich finden.
 (Johann Wolfgang von Goethe, deutscher Dichter, 1749 - 1832)
 -- 
-Lebenskunst ist zu neunzig Prozent die Fähigkeit, mit Menschen 
+Lebenskunst ist zu neunzig Prozent die FÃ¤higkeit, mit Menschen 
 auszukommen, die man nicht mag.
 (Samuel Goldwyn, amerikanischer Produzent, 1882 - 1974)
 -- 
@@ -1694,52 +1694,52 @@ Der Verstand ist wie eine Fahrkarte: Sie hat nur dann einen Sinn,
 wenn sie benutzt wird.
 (Ernst R. Hauschka, deutscher Aphoristiker und Bibliothekar, 1926- )
 -- 
-Dort wo man Bücher verbrennt, verbrennt man am Ende auch Menschen.
+Dort wo man BÃ¼cher verbrennt, verbrennt man am Ende auch Menschen.
 (Heinrich Heine, deutscher Dichter, 1797 - 1856)
 -- 
 Die Leute streiten im allgemeinen nur deshalb, 
-weil sie nicht diskutieren können.
+weil sie nicht diskutieren kÃ¶nnen.
 (Gilbert Chesterton, englischer Schriftsteller, 1874 - 1936)
 -- 
 Die Zeit ist schlecht? Wohlan. Du bist da, sie besser zu machen.
 (Thomas Carlyle, schottischer Historiker, 1795 - 1881)
 -- 
-Kein Ziel ist so hoch, dass es unwürdige Methoden rechtfertigte.
+Kein Ziel ist so hoch, dass es unwÃ¼rdige Methoden rechtfertigte.
 (Albert Einstein, deutsch-US-amerikanischer Physiker, 1879 - 1955)
 -- 
-Fang nie an aufzuhören, hör nie auf anzufangen.
-(Marcus Tullius Cicero, römischer Staatsmann 
+Fang nie an aufzuhÃ¶ren, hÃ¶r nie auf anzufangen.
+(Marcus Tullius Cicero, rÃ¶mischer Staatsmann 
  und Schriftsteller, 106 - 43 v. Chr.)
 -- 
 Manche Menschen sehen die Dinge wie sie sind, und fragen: "Warum?". 
-Ich träume von Dingen, die es noch nie gegeben hat, und 
+Ich trÃ¤ume von Dingen, die es noch nie gegeben hat, und 
 frage: "Warum nicht?"
 (George Bernhard Shaw, irischer Dichter, 1856 - 1950)
 -- 
-Es ist dumm, sich über die Welt zu ärgern. Es kümmert sie nicht.
-(Mark Aurel, römischer Kaiser und Philosoph, 121 - 180 n. Chr.)
+Es ist dumm, sich Ã¼ber die Welt zu Ã¤rgern. Es kÃ¼mmert sie nicht.
+(Mark Aurel, rÃ¶mischer Kaiser und Philosoph, 121 - 180 n. Chr.)
 -- 
-Leute, deren Gespräche es an Tiefe fehlt,
-gleichen das oft durch Länge aus.
+Leute, deren GesprÃ¤che es an Tiefe fehlt,
+gleichen das oft durch LÃ¤nge aus.
 - Unbekannt
 -- 
 Amerika - die Entwicklung von der Barbarei zur Dekadenz
-ohne Umweg über die Kultur.
+ohne Umweg Ã¼ber die Kultur.
 - Georges Benjamin Clemenceau
 -- 
 "So wahr ich Gott helfe."
 - Dieter Bruegmann in detebe
 -- 
-Je mehr Leute es sind, die eine Sache glauben, desto größer
-ist die Wahrscheinlichkeit, daß die Ansicht falsch ist.
+Je mehr Leute es sind, die eine Sache glauben, desto grÃ¶ÃŸer
+ist die Wahrscheinlichkeit, daÃŸ die Ansicht falsch ist.
 Menschen, die recht haben, stehen meistens allein.
-- Sören Kierkegaard
+- SÃ¶ren Kierkegaard
 -- 
-Eine gute Rede soll das Thema erschöpfen, nicht die Zuhörer.
+Eine gute Rede soll das Thema erschÃ¶pfen, nicht die ZuhÃ¶rer.
 - Winston Churchill [1874-1965]; brit. Staatsmann
 -- 
 Eine gute Rede hat einen guten Anfang und ein gutes Ende - und beide sollten
-möglichst dicht beieinander liegen.
+mÃ¶glichst dicht beieinander liegen.
 - Mark Twain
 -- 
 Lobt dich der Gegner, dann ist das bedenklich; schimpft er,
@@ -1751,15 +1751,15 @@ dann bist du in der Regel auf dem richtigen Weg.
 Im Krieg gibt es den einen der verliert und den anderen der nicht gewinnt.
 -- 
 Wer mit dem Finger auf andere zeigt, sollte
-nicht vergessen, daß dabei immer drei Finger seiner Hand auf ihn
+nicht vergessen, daÃŸ dabei immer drei Finger seiner Hand auf ihn
 selbst gerichtet sind.
-- Sprüche der Deutschen Eisenbahn-Reklame GmbH
+- SprÃ¼che der Deutschen Eisenbahn-Reklame GmbH
 -- 
-Wer sein Leben so einrichtet, daß er
+Wer sein Leben so einrichtet, daÃŸ er
 niemals auf die Schnauze fliegen kann, der kann nur auf dem Bauch kriechen.
 - H. Riesenhuber
 -- 
-Schöne Tage - Nicht weinen, weil sie
+SchÃ¶ne Tage - Nicht weinen, weil sie
 vergangen, sondern lachen, weil sie gewesen.
 -- 
 "Morgens mit Hochspannung aufstehen, mit Widerstand zur Arbeit gehen, 
@@ -1767,9 +1767,9 @@ den ganzen Tag gegen den Strom schwimmen, abends geladen nach Hause
 kommen, an die Dose fassen und eine gewischt bekommen."
 - Quelle unbekannt.
 -- 
-Wenn die Leute Autofahren so lernen würden, wie sie lernen, mit MS-Word & Co. 
-umzugehen, dann würde niemand in den zweiten Gang schalten. Wieso auch? Im 
-ersten fährt das Auto doch schon. Vielleicht ein bißchen langsam, aber es fährt.
+Wenn die Leute Autofahren so lernen wÃ¼rden, wie sie lernen, mit MS-Word & Co. 
+umzugehen, dann wÃ¼rde niemand in den zweiten Gang schalten. Wieso auch? Im 
+ersten fÃ¤hrt das Auto doch schon. Vielleicht ein biÃŸchen langsam, aber es fÃ¤hrt.
 (A. Lignau in de.comp.os.unix.linux.misc)
 -- 
 Together we stand, divided we fall.
@@ -1784,24 +1784,24 @@ Ein Ring, sie zu knechten, sie alle zu finden,
 Ins Dunkel zu treiben und ewig zu binden.
 -- 
 Leute, die mit und auf Windows ernsthaft hacken haben meine Hochachtung.
-Wie Ballettänzer, die ihre Kunst in einer Zwanksjacke vorführen. Eine 
-große Herausforderung. Nichts für Anfänger.      (Doobee R. Tzeck in doc)
+Wie BallettÃ¤nzer, die ihre Kunst in einer Zwanksjacke vorfÃ¼hren. Eine 
+groÃŸe Herausforderung. Nichts fÃ¼r AnfÃ¤nger.      (Doobee R. Tzeck in doc)
 -- 
 Das schlimmste an der christlichen Religion ist ihre krankhafte und
-unnatürliche Einstellung zur Sexualität.
+unnatÃ¼rliche Einstellung zur SexualitÃ¤t.
 (Bertrand Russell, engl. Phil., 1872-1970, 'Warum ich kein Christ bin')
 -- 
-Keuschheit ist ebensowenig eine Tugend wie Unterernährung.
+Keuschheit ist ebensowenig eine Tugend wie UnterernÃ¤hrung.
 (Alex Comfort, Biologe)
 -- 
-Drogen sind immer böse, Sex verwerflich und die Welt eine Scheibe...
+Drogen sind immer bÃ¶se, Sex verwerflich und die Welt eine Scheibe...
 -- 
-Bisher hieß es immer: Computer machen keine Fehler.
+Bisher hieÃŸ es immer: Computer machen keine Fehler.
 Dank modernster Hardware wurde jetzt auch dieses Manko beseitigt ...
-(Holger Lamm über den Pentium)
+(Holger Lamm Ã¼ber den Pentium)
 -- 
-Wenn eine Frau fünf Minuten nichts sagt, ist es an der Zeit
-Wiederbelebungsmaßnahmen zu ergreifen.
+Wenn eine Frau fÃ¼nf Minuten nichts sagt, ist es an der Zeit
+WiederbelebungsmaÃŸnahmen zu ergreifen.
 (anonym)
 -- 
 Once there was a time when all people believed in God and the church
@@ -1812,8 +1812,8 @@ point than the fact than a drunken man is happier than a sober one.
 (George Bernard Shaw, ir. Dramatiker, 1856-1950)
 -- 
 > Neulich, an einem kleinen Bahnhof in der badischen Provinz, stieg mal
-> wieder so ein Grüppchen ein. Irgendwann kam eine Ansage, daß der Zug auch
-> noch mehr Türen hat. Daraufhin ging die komplette Gruppe eine Tür weiter...
+> wieder so ein GrÃ¼ppchen ein. Irgendwann kam eine Ansage, daÃŸ der Zug auch
+> noch mehr TÃ¼ren hat. Daraufhin ging die komplette Gruppe eine TÃ¼r weiter...
 Lemminge.             - (Martin Bienwald und Andrea Wardzichowki in dasr)
 -- 
 "[...]Yes, Mr. Gates, recently you have helped open source succeed - in
@@ -1821,15 +1821,15 @@ much the same way Osama bin Laden has helped beef up airport security
 lately."
 - Eric S. Raymond, 9.11.2001
 -- 
-Toleranz ist gut. Aber nicht gegenüber Intoleranten.
+Toleranz ist gut. Aber nicht gegenÃ¼ber Intoleranten.
 -Wilhelm Busch-
 -- 
 Ich steig bald in ein Taxi und sage "Fahren Sie mich irgendwo hin, ich
-werde überall gebraucht".
+werde Ã¼berall gebraucht".
 - Dieter 'Didi' Bruegmann in detebe
 -- 
-Manche Leute siggen auch jeden Scheiß.
-- [Michael Hoffmann, dag°, 4.6.2001]
+Manche Leute siggen auch jeden ScheiÃŸ.
+- [Michael Hoffmann, dagÂ°, 4.6.2001]
 -- 
 Give a man fire, and he will be warm for a day, set a man on fire, and he
 will be warm for the rest of his life.
@@ -1851,17 +1851,17 @@ te?" - "Detebe. Oder was dachtest du?"
 Vorsicht mit Bandbreitenangebereien! Es gibt immer noch jemanden,
 der mehr Bandbreite als du hat. (Nico Hoffmann in dnq)
 -- 
-Der Ton im Usenet ist häufig kürzer angebunden als im täglichen Leben,
-denn Tippen geht langsamer als Reden. Daher fallen Höflichkeitsflos-
+Der Ton im Usenet ist hÃ¤ufig kÃ¼rzer angebunden als im tÃ¤glichen Leben,
+denn Tippen geht langsamer als Reden. Daher fallen HÃ¶flichkeitsflos-
 keln leichter unter den Tisch als anderswo. Deshalb sind die Aussagen
-aber weder oberlehrerhaft noch böse gemeint. (Thomas Hochstein)
+aber weder oberlehrerhaft noch bÃ¶se gemeint. (Thomas Hochstein)
 -- 
 Anonyme Poster kann man nach Belieben beleidigen, man beleidigt ja
 niemand konkretes. (Sven Paulus, de.admin.net-abuse.news, 31.8.1999)
 -- 
-Winseln über die ach so bösen, "rassistischen", "zensierenden",
-"selbstgerechten" Filterer von Pseudos ist Wasser auf die Mühlen
-derer, die der Meinung sind, daß von Pseudos eh nur Schrott kommt.
+Winseln Ã¼ber die ach so bÃ¶sen, "rassistischen", "zensierenden",
+"selbstgerechten" Filterer von Pseudos ist Wasser auf die MÃ¼hlen
+derer, die der Meinung sind, daÃŸ von Pseudos eh nur Schrott kommt.
 [Erik Meltzer, de.soc.netzkultur.umgangsformen, 20.12.1999]
 -- 
 "Sich selbst zu sig.en ist egozentrisch,
@@ -1878,20 +1878,20 @@ Sei relativ zu Dir selbst. Das verwirrt Deine Umwelt.
 31.69 nHz = once a year.
 -- 
 Da sagt man mal was, und es wird einem noch Jahrzehnte danach
-vorgehalten.                    [Philipp Schwartz in dateka°]
+vorgehalten.                    [Philipp Schwartz in datekaÂ°]
 -- 
-Kenntest Du Viola, wüßtest Du wovon ich rede.
+Kenntest Du Viola, wÃ¼ÃŸtest Du wovon ich rede.
 Philipp, weder Viola kennend, noch wissend, wovon redend
-                           [Philipp Schwartz in dateka°] 
+                           [Philipp Schwartz in datekaÂ°] 
 -- 
 My fellow Americans, I am pleased to tell you I just signed
 legislation which outlaws Russia forever. The bombing begins
 in five minutes.
 - Ronald Reagan, during a radio microphone test, 1984
 -- 
-Man fängt zunächst an, detebe nur zu lesen. Und
-irgendwann entschließt man sich dazu, auch zu psoten.
-Von da an ist man von detebe abhängig.
+Man fÃ¤ngt zunÃ¤chst an, detebe nur zu lesen. Und
+irgendwann entschlieÃŸt man sich dazu, auch zu psoten.
+Von da an ist man von detebe abhÃ¤ngig.
 - Dieter Bruegmann in detebe
 -- 
 Ein Feigling ist ein Mensch, bei dem der 
@@ -1902,10 +1902,10 @@ Ein Zyniker ist ein Schuft, dessen mangelhalfte Wahrnehmung
 Dinge sieht, wie sie sind, statt wie sie sein sollten.
 - Ambrose Bierce
 -- 
-Ich denke niemals an die Zukunft. Sie kommt früh genug.
+Ich denke niemals an die Zukunft. Sie kommt frÃ¼h genug.
 - Albert Einstein
 -- 
-Seit die Mathematiker über die Relativitätstheorie hergefallen sind, verstehe 
+Seit die Mathematiker Ã¼ber die RelativitÃ¤tstheorie hergefallen sind, verstehe 
 ich sie selbst nicht mehr.
 - Albert Einstein
 -- 
@@ -1916,23 +1916,23 @@ Um die Wahrheit zu erfahren, muss man den Menschen widersprechen.
 - George Bernard Shaw
 -- 
 Denken ist die schwerste Arbeit, die es gibt. Das ist wahrscheinlich auch 
-der Grund, warum sich so wenige Leute damit beschäftigen.
+der Grund, warum sich so wenige Leute damit beschÃ¤ftigen.
 - Henry Ford
 -- 
-Wer sagt: Hier herrscht Freiheit, der lügt, denn Freiheit herrscht nicht
+Wer sagt: Hier herrscht Freiheit, der lÃ¼gt, denn Freiheit herrscht nicht
 - Erich Fried
 -- 
 Auge um Auge - und die ganze Welt wird blind sein.
 - Mahatma Gandhi
 -- 
-Ich habe eine Diät gemacht und fettem Essen und Alkohol abgeschworen
+Ich habe eine DiÃ¤t gemacht und fettem Essen und Alkohol abgeschworen
  - in zwei Wochen verlor ich 14 Tage.
 -- 
-Die Liebe ist wie die Zahl Pi - natürlich, irrational und sehr, sehr wichtig.
+Die Liebe ist wie die Zahl Pi - natÃ¼rlich, irrational und sehr, sehr wichtig.
 -- 
-Stimmt es, daß man länger lebt wenn man nicht raucht, 
-nicht trinkt und die Finger vom anderen Geschlecht läßt? 
-- Nein, es kommt einem nur länger vor.
+Stimmt es, daÃŸ man lÃ¤nger lebt wenn man nicht raucht, 
+nicht trinkt und die Finger vom anderen Geschlecht lÃ¤ÃŸt? 
+- Nein, es kommt einem nur lÃ¤nger vor.
 -- 
 Politiker sind wie Telefonhoerer.
 Beide muss man aufhaengen, damit man was sinnvolles damit anfangen kann.
@@ -1942,10 +1942,10 @@ Im Kapitalismus beutet der Mensch den Menschen aus.
 Im Sozialismus ist es genau umgekehrt.
 - Ben Tucker
 -- 
-Die Selbsttäuschung beherrscht der Mensch noch sicherer als die Lüge.
+Die SelbsttÃ¤uschung beherrscht der Mensch noch sicherer als die LÃ¼ge.
 - Fjodor Dostojewski
 -- 
-Nur wer sich ändert, bleibt sich treu.- Wolf Biermann
+Nur wer sich Ã¤ndert, bleibt sich treu.- Wolf Biermann
 -- 
 /bb|[^b]{2}/ - to be or not to be
 -- 
@@ -1964,15 +1964,15 @@ Her lips were saying 'No' but then I looked into to her eyes
 "Wenn man keine Ahnung hat: einfach mal Fresse halten!"
 -Dieter Nuhr-
 -- 
-Ich habe überhaupt keine Hoffnung mehr in die Zukunft unseres Landes, 
-wenn einmal unsere Jugend die Männer von morgen stellt. 
-Unsere Jugend ist unerträglich, unverantwortlich und entsetzlich anzusehen.
+Ich habe Ã¼berhaupt keine Hoffnung mehr in die Zukunft unseres Landes, 
+wenn einmal unsere Jugend die MÃ¤nner von morgen stellt. 
+Unsere Jugend ist unertrÃ¤glich, unverantwortlich und entsetzlich anzusehen.
 - Aristoteles.
 -- 
 Machen Sie sich erst einmal unbeliebt, dann werden Sie auch ernst genommen.
 - Konrad Adenauer
 -- 
-Weiss ich nicht. Ich beschwere mein Gedächtnis nicht mit Tatsachen, 
+Weiss ich nicht. Ich beschwere mein GedÃ¤chtnis nicht mit Tatsachen, 
 die ich in einem Konversationslexikon finden kann.
 - Albert Einstein
 -- 
@@ -1980,36 +1980,36 @@ Der Krieg kann nur auf eine einzige Weise verhindert werden:
 durch die Weigerung der Menschen, in den Krieg zu gehen.
 - Albert Einstein
 -- 
-Es würde viel weniger Böses auf Erden geben,
-wenn das Böse niemals im Namen des Guten getan werden könnte.
+Es wÃ¼rde viel weniger BÃ¶ses auf Erden geben,
+wenn das BÃ¶se niemals im Namen des Guten getan werden kÃ¶nnte.
 - Marie von Ebner-Eschenbach
 -- 
-Die glücklichen Sklaven sind die erbittertsten Feinde der Freiheit.
+Die glÃ¼cklichen Sklaven sind die erbittertsten Feinde der Freiheit.
 - Marie von Ebner-Eschenbach
 -- 
 Jeder Mensch hat ein Brett vor dem Kopf. Es kommt nur auf die Entfernung an.
 - Marie von Ebner Eschenbach
 -- 
-Ich zweifle keinen Augenblick daran, daß Frauen dumm sind. 
-Schließlich hat der Allmächtige sie den Männern zum Ebenbild erschaffen.
+Ich zweifle keinen Augenblick daran, daÃŸ Frauen dumm sind. 
+SchlieÃŸlich hat der AllmÃ¤chtige sie den MÃ¤nnern zum Ebenbild erschaffen.
 - George Eliot
 -- 
-Toleranz ist vor allem die Erkenntnis, daß es keinen Sinn hat, sich aufzuregen.
+Toleranz ist vor allem die Erkenntnis, daÃŸ es keinen Sinn hat, sich aufzuregen.
 - Ambrose Bierce
 -- 
 Armee: Schicht von Nichtproduzenten; verteidigt die Nation, 
-indem sie alles verschlingt, was einem Feind zum Überfall reizen könnte.
+indem sie alles verschlingt, was einem Feind zum Ãœberfall reizen kÃ¶nnte.
 - Ambrose Bierce
 -- 
 Microsoft broke Volkswagen's world record: Volkswagen only made 22
 million bugs!
 -- 
 Sie haben Zivildienst geleistet? Konsumieren sie etwa Drogen?
-- angeblich in einem Bewerbungsgespräch gefragt worden.
+- angeblich in einem BewerbungsgesprÃ¤ch gefragt worden.
 -- 
 Meine Sig ist eine SG551
 -- 
-Wenn man in Unreal Tournament 5 leute killt heißt das "MONSTERKILL",
+Wenn man in Unreal Tournament 5 leute killt heiÃŸt das "MONSTERKILL",
 in Quake III "EXCELLENT" und in CS ...kicked by console...!!
 -- 
 [...]
@@ -2017,31 +2017,31 @@ checking for intelligent life... not found
 [...]
 [aus 'configure' von GIMP-1.2.2]
 -- 
-Was nützt es dem Menschen, wenn er Lesen und Schreiben gelernt hat,
-aber das Denken anderen überläßt?
+Was nÃ¼tzt es dem Menschen, wenn er Lesen und Schreiben gelernt hat,
+aber das Denken anderen Ã¼berlÃ¤ÃŸt?
 - Ernst R. Hauschka
 -- 
-Eine Rechtsprechung, die an der grundsätzlichen Kriminalisierung 
-von Cannabis festhält, geht an medizinischen Erkenntnissen vorbei.
-- Dr. Ellis Huber (Präsident der Ärztekammer Berlin)
+Eine Rechtsprechung, die an der grundsÃ¤tzlichen Kriminalisierung 
+von Cannabis festhÃ¤lt, geht an medizinischen Erkenntnissen vorbei.
+- Dr. Ellis Huber (PrÃ¤sident der Ã„rztekammer Berlin)
 -- 
-Die Erforschung der Krankheiten hat so große Fortschritte gemacht, 
-das es immer schwerer wird, einen Menschen zu finden, der völlig gesund ist.
+Die Erforschung der Krankheiten hat so groÃŸe Fortschritte gemacht, 
+das es immer schwerer wird, einen Menschen zu finden, der vÃ¶llig gesund ist.
 - Aldous Huxley
 -- 
 Man entdeckt keine neuen Erdteile, ohne den Mut zu haben, 
-alte Küsten aus den Augen zu verlieren.
+alte KÃ¼sten aus den Augen zu verlieren.
 - Andre Gide
 -- 
-Es werden wohl noch zehntausend Jahre ins Land gehen, und das Märchen 
-vom Jesus Christus wird immer noch dafür sorgen, 
-daß keiner so richtig zu Verstande kommt.
+Es werden wohl noch zehntausend Jahre ins Land gehen, und das MÃ¤rchen 
+vom Jesus Christus wird immer noch dafÃ¼r sorgen, 
+daÃŸ keiner so richtig zu Verstande kommt.
 - Johann Wolfgang von Goethe
 -- 
-Eckermann: Es täte not, daß ein zweiter Erlöser käme, 
+Eckermann: Es tÃ¤te not, daÃŸ ein zweiter ErlÃ¶ser kÃ¤me, 
 um den Ernst, das Unbehagen und den ungeheuren Druck der 
-jetzigen Zustände uns abzunehmen.
-Goethe: Käme er, man würde ihn zum zweiten Male kreuzigen.
+jetzigen ZustÃ¤nde uns abzunehmen.
+Goethe: KÃ¤me er, man wÃ¼rde ihn zum zweiten Male kreuzigen.
 -- 
 "There are 10 types of people in the world. Those who understand binary
 and those who don't."
@@ -2060,7 +2060,7 @@ Besoffen. (Kai Poehlmann & Mickey Kottenhahn in detebe)
 sure sign of a diseased mind.'"
 - Terry Pratchett in "Eric"
 -- 
-Webforen sind für mich so ziemlich die dümmste Kommunikationsform seit
+Webforen sind fÃ¼r mich so ziemlich die dÃ¼mmste Kommunikationsform seit
 Abschaffung der Buschtrommel. (Wolfgang Krietsch in drmm)
 -- 
 Leute mit Mut und Charakter sind den anderen Leuten immer sehr unheimlich.
@@ -2105,15 +2105,15 @@ Man ist sich seines Todes nicht mehr sicher.
 Das Chaos sei willkommen, denn die Ordnung hat versagt.
 -- 
 Es gibt Dinge, die sind so falsch, 
-daß noch nicht einmal das absolute Gegenteil richtig ist.
+daÃŸ noch nicht einmal das absolute Gegenteil richtig ist.
 -- 
-Höllenqualen sind den Gläubigen vorbehalten.
+HÃ¶llenqualen sind den GlÃ¤ubigen vorbehalten.
 -- 
-Nicht Cannabis ist ein Risiko für die Gesellschaft, 
-sondern seine Unterdrückung.
-- 'Lancet' (brit. Ärzteblatt)
+Nicht Cannabis ist ein Risiko fÃ¼r die Gesellschaft, 
+sondern seine UnterdrÃ¼ckung.
+- 'Lancet' (brit. Ã„rzteblatt)
 -- 
-Ein Neurotiker ist ein Mensch, der ein Luftschloß baut. 
+Ein Neurotiker ist ein Mensch, der ein LuftschloÃŸ baut. 
 Ein Psychotiker ist der Mensch, der darin lebt. 
 Und ein Psychiater ist der, der die Miete kassiert.
 - Jerome Lawrence (amerik. Schriftsteller)
@@ -2121,51 +2121,51 @@ Und ein Psychiater ist der, der die Miete kassiert.
 Freiheit ist immer auch die Freiheit der Andersdenkenden.
 - Rosa Luxemburg
 -- 
-Im Alter bereut man vor allen die Sünden, die man nicht begangen hat.
+Im Alter bereut man vor allen die SÃ¼nden, die man nicht begangen hat.
 - William Somerset Maugham
 -- 
-Früher hatten die Menschen Angst vor der Zukunft. 
-Heute muß die Zukunft Angst vor den Menschen haben.
+FrÃ¼her hatten die Menschen Angst vor der Zukunft. 
+Heute muÃŸ die Zukunft Angst vor den Menschen haben.
 -- 
-Die Zensur ist das lebendige Geständnis der Großen, dass sie 
-nur verdummte Sklaven treten, aber keine freien Völker regieren können.
+Die Zensur ist das lebendige GestÃ¤ndnis der GroÃŸen, dass sie 
+nur verdummte Sklaven treten, aber keine freien VÃ¶lker regieren kÃ¶nnen.
 - Johann Nepomuk Nestroy
 -- 
 Da haben wir es also: Eine kirchliche Ordnung mit Priesterschaft, 
 Theologie, Kultus, Sakrament; 
-kurz, alles das, was Jesus von Nazareth bekämpft hatte...
+kurz, alles das, was Jesus von Nazareth bekÃ¤mpft hatte...
 - Friedrich Nietzsche
 -- 
-An Kindern gefällt mir der Produktionsprozeß am besten.
+An Kindern gefÃ¤llt mir der ProduktionsprozeÃŸ am besten.
 - Zarko Petan (slowenischer Aphoristiker, *1944)
 -- 
-Der Volksmund sagt: Religion ist Opium für das Volk. 
-Das ist irreführend. Opium ist eine bewußtseinserweiternde Droge.
+Der Volksmund sagt: Religion ist Opium fÃ¼r das Volk. 
+Das ist irrefÃ¼hrend. Opium ist eine bewuÃŸtseinserweiternde Droge.
 - Volker Pispers (dt. Kabarettist)
 -- 
-Die Religion stützt sich vor allem und hauptsächlich auf die Angst.
+Die Religion stÃ¼tzt sich vor allem und hauptsÃ¤chlich auf die Angst.
 - Bertrand Russel
 -- 
-Die besten Köpfe gibt es nicht in der Regierung. 
+Die besten KÃ¶pfe gibt es nicht in der Regierung. 
 Die Wirtschaft holt sie weg.
-- Ronald Reagan (ehem. US-Präsident)
+- Ronald Reagan (ehem. US-PrÃ¤sident)
 -- 
-Fernsehen - Rundfunk für Phantasielose
+Fernsehen - Rundfunk fÃ¼r Phantasielose
 - Rudolf Rolfs (dt. Satiriker, *1920)
 -- 
-Mord und Todesstrafe sind nicht Gegensätze, die einander aufheben, 
+Mord und Todesstrafe sind nicht GegensÃ¤tze, die einander aufheben, 
 sondern Ebenbilder, die ihre Art fortpflanzen.
 - George Bernard Shaw
 -- 
 Der hundertprozentige Amerikaner ist ein neunzigprozentiger Idiot.
 - George Bernard Shaw
 -- 
-Das heißt also Absenkung des Nach..., des, des, des, des, na, des Alters, des
-Alters der Kinder, wenn sie, des Nachzugalters; dann kommt der fünfte Punkt,
-und der sechste Punkt kommt dann sicherlich die Frage gleichge..., äh, nicht
-gleichgeschle..., sondern äh, ... Edmund S. 20.1.2002, ARD in S.Christiansen'
+Das heiÃŸt also Absenkung des Nach..., des, des, des, des, na, des Alters, des
+Alters der Kinder, wenn sie, des Nachzugalters; dann kommt der fÃ¼nfte Punkt,
+und der sechste Punkt kommt dann sicherlich die Frage gleichge..., Ã¤h, nicht
+gleichgeschle..., sondern Ã¤h, ... Edmund S. 20.1.2002, ARD in S.Christiansen'
 -- 
-Niemals wird eine Veröffentlichung obsolet. Sie kann immer 
+Niemals wird eine VerÃ¶ffentlichung obsolet. Sie kann immer 
 noch als schlechtes Beispiel dienen.
 -- 
 Nach einer ausreichenden Menge Allohol erscheint einem auch ein
@@ -2175,13 +2175,13 @@ Tetrapack rund wie eine Flasche.
 Mit Bier geht alles, manches sogar besser.
 - Mike Westermann in detebe
 -- 
-Wenn jemand mit einem der gängigen sogenannten Textverarbeitungsprogramme 
-ein Textdokument zusammenstümpert, ist das oft eine sehr eindrucksvolle 
-Demonstration, warum es 'Trial&Error' heißt und nicht 'Trial&Success'.
+Wenn jemand mit einem der gÃ¤ngigen sogenannten Textverarbeitungsprogramme 
+ein Textdokument zusammenstÃ¼mpert, ist das oft eine sehr eindrucksvolle 
+Demonstration, warum es 'Trial&Error' heiÃŸt und nicht 'Trial&Success'.
 - Jens Dittmar in de.comp.os.unix.discussion
 -- 
-Manch ein Politiker hinterläßt bei seinem Abgang eine Lücke, 
-die ihn vollständig ersetzt.
+Manch ein Politiker hinterlÃ¤ÃŸt bei seinem Abgang eine LÃ¼cke, 
+die ihn vollstÃ¤ndig ersetzt.
 -- 
 "I heard a great saying today: Microsoft NT is the most secure 
 server environment in the world - mainly because it doesn't stay 
@@ -2191,13 +2191,13 @@ Entwicklungshilfe ist, wenn die armen Leute eines reichen
 Landes fuer die reichen Leute eines armen Landes Geld spenden. 
 - Denis Healey
 -- 
-"Früher war die Rechtslage klarer. Da hat man dem Teufel seine 
+"FrÃ¼her war die Rechtslage klarer. Da hat man dem Teufel seine 
 Seele verkauft, bekam einen Sack voll Gold und fertig. 
 Heute dagegen..."
-(Peter Berlich zur Rechtslage bei Software-Lizenzverträgen)
+(Peter Berlich zur Rechtslage bei Software-LizenzvertrÃ¤gen)
 -- 
-"Hiermit bekenne ich mich zu der unumstößlichen Tatsache, 
-daß die Menschheit weder gut, noch böse, sondern einfach nur bekloppt ist."
+"Hiermit bekenne ich mich zu der unumstÃ¶ÃŸlichen Tatsache, 
+daÃŸ die Menschheit weder gut, noch bÃ¶se, sondern einfach nur bekloppt ist."
 -- 
 "Erst lernen wir Laufen und Sprechen - dann still sitzen und den Mund halten." 
 (Unbekannt)
@@ -2308,58 +2308,58 @@ clothed. (Dwight David Eisenhower)
  with the universe and move bits of it about." 
 - Douglas Adams 
 -- 
-"Wer News über ein Webinterface liest, filmt
+"Wer News Ã¼ber ein Webinterface liest, filmt
 auch die Tageszeitung, um sie auf dem Fernseher anzuschauen."
 - Henning Schlottmann
 -- 
 Das kann doch nicht so schwer sein, gut auszusehen, Intelligent, nett 
 und kein Arschloch zu sein.
 Ich kann das doch auch!
-- Judith Müller.
+- Judith MÃ¼ller.
 -- 
 Wenn Birnen im Keller herumliegen sind sie fassungslos.
 - Mike Westermann
 -- 
-Du meinst, mit dem Beweihräuchern kannst du den Teufel mit dem Belzebub
+Du meinst, mit dem BeweihrÃ¤uchern kannst du den Teufel mit dem Belzebub
 austreiben?
-Dass die Kirche immer meint, mit Drogen kann sie ihre Schäfchen halten.
+Dass die Kirche immer meint, mit Drogen kann sie ihre SchÃ¤fchen halten.
 - Gudrun Hermes
 -- 
-Das Internet ist schließlich dafür konzipiert, nach einem Atomkrieg zu
-funktionieren. Dann ist nämlich endlich die Anzahl der Benutzer der real
-verfügbaren Bandbreite angepasst.
+Das Internet ist schlieÃŸlich dafÃ¼r konzipiert, nach einem Atomkrieg zu
+funktionieren. Dann ist nÃ¤mlich endlich die Anzahl der Benutzer der real
+verfÃ¼gbaren Bandbreite angepasst.
 -- 
 Vielleicht sind die Betriebssysteme in der Zukunft ja auch noch von
-Microsoft, das würde jedenfalls erklären, warum bei einem Gefecht der
-Hauptcomputer immer als erstes ausfällt. (Pharao in
+Microsoft, das wÃ¼rde jedenfalls erklÃ¤ren, warum bei einem Gefecht der
+Hauptcomputer immer als erstes ausfÃ¤llt. (Pharao in
 de.rec.sf.startrek.voyager)
 -- 
-Das Schönste an der Arbeit ist ihre Abwesenheit
+Das SchÃ¶nste an der Arbeit ist ihre Abwesenheit
 - Ego in detebe
 -- 
 Manchmal ist das Ende der Beginn von etwas Neuem.
 - Henning Sponbiel in detebe
 -- 
 Webforen - der Versuch, alle Fehler des Usenet zu wiederholen, 
-ohne irgendeine seiner Stärken nachzuahmen.
+ohne irgendeine seiner StÃ¤rken nachzuahmen.
 - Uwe Ohse in dasr
 -- 
 Wenn Norton Firewall eine Funktion besitzt 
-"Pc von nutzlosen Daten reinigen" löscht sie sich dann selbst?
+"Pc von nutzlosen Daten reinigen" lÃ¶scht sie sich dann selbst?
 -- 
-Moore's Law:
-"The speed of hardware doubles every 18 months."
-Gates's Law:
-"The speed of software halves every 18 months."
+Moore'sÂ Law:
+"TheÂ speedÂ ofÂ hardwareÂ doublesÂ everyÂ 18Â months."
+Gates'sÂ Law:
+"TheÂ speedÂ ofÂ softwareÂ halvesÂ everyÂ 18Â months."
 -- 
 I like to believe that people in the long run are going to do more to 
 promote peace than our governments. Indeed, I think that people want 
 peace so much that one of these days governments had better get out of 
 the way and let them have it. (Dwight David Eisenhower)
 -- 
-Soldaten sind keine Mörder.
+Soldaten sind keine MÃ¶rder.
 Die, die sie in den Krieg schicken sind es.
-Und die, die sie dabei unterstützen.
+Und die, die sie dabei unterstÃ¼tzen.
 -- 
 if you're always thinking about the future, 
 then you kinda forget about the present. 
@@ -2375,89 +2375,89 @@ The wind will blow it higher [Peter Gabriel - "Biko"]
 if war was the answer 
 the question must have been very very stupid
 -- 
-What difference does it make to the dead, the orphans, and the
-homeless, whether the mad destruction is wrought under the name of
-totalitarianism or the holy name of liberty and democracy? 
-- Gandhi 
+WhatÂ differenceÂ doesÂ itÂ makeÂ toÂ theÂ dead,Â theÂ orphans,Â andÂ the
+homeless,Â whetherÂ theÂ madÂ destructionÂ isÂ wroughtÂ underÂ theÂ nameÂ of
+totalitarianismÂ orÂ theÂ holyÂ nameÂ ofÂ libertyÂ andÂ democracy?Â 
+-Â GandhiÂ 
 -- 
 "My doctor told me to stop having intimate dinners for four.  Unless
 there are three other people."
                 - Orson Welles
 -- 
-   Sinnlose Wortschwallereien durchgeknallter Möchtegern-Studenten.
+   Sinnlose Wortschwallereien durchgeknallter MÃ¶chtegern-Studenten.
            (A. Pietschmann in de.talk.jokes.d ueber detebe)
 -- 
-Unser größter Ruhm liegt nicht darin, niemals zu fallen, sondern
+Unser grÃ¶ÃŸter Ruhm liegt nicht darin, niemals zu fallen, sondern
 immer wieder aufzustehen, wenn wir gescheitert sind.
 (Konfuzius, chinesischer Philosoph, 551 - 479 v. Chr.)
 -- 
-In Sex-Shops kann man Männer immer nur in Teilen kaufen.
-Da fühle ich mich immer so reduziert - auf das Wesentliche.
+In Sex-Shops kann man MÃ¤nner immer nur in Teilen kaufen.
+Da fÃ¼hle ich mich immer so reduziert - auf das Wesentliche.
 - Michael Mittermeier
 -- 
-Erst wenn der letzte Spammer aufgehängt,
+Erst wenn der letzte Spammer aufgehÃ¤ngt,
 die letzte 0190-Nummer abgeklemmt
 und das letzte offene Relay ausgebrannt ist, werdet ihr merken, 
-daß E-Mail ein wunderbares Kommunikationsmedium ist.
+daÃŸ E-Mail ein wunderbares Kommunikationsmedium ist.
 -- 
 Fanatismus ist die Willenskraft der Dummen, derer,
-die zu allem fähig sind, sonst aber zu nichts.
+die zu allem fÃ¤hig sind, sonst aber zu nichts.
 (Karlheinz Deschner)
 -- 
-Liebe ist, wenn man sich wünscht, daß man dem anderen nie begegnet wäre,
-weil man ihn nicht für immer haben kann.
+Liebe ist, wenn man sich wÃ¼nscht, daÃŸ man dem anderen nie begegnet wÃ¤re,
+weil man ihn nicht fÃ¼r immer haben kann.
 -- 
-Natürlicher Verstand kann fast jeden Grad von Bildung ersetzen,
-aber keine Bildung den natürlichen Verstand.
+NatÃ¼rlicher Verstand kann fast jeden Grad von Bildung ersetzen,
+aber keine Bildung den natÃ¼rlichen Verstand.
 (Arthur Schoppenhauer, dt. Philosoph, 1788-1860)
 -- 
 Wenn du etwas so machst, wie du es seit zehn Jahren gemacht hast,
-dann sind die Chancen recht groß, daß du es falsch machst.
+dann sind die Chancen recht groÃŸ, daÃŸ du es falsch machst.
 (Charles Kettering, am. Ing., 1876-1958)
 -- 
-Wenn du einen Menschen glücklich machen willst, dann füge nichts
-seinen Reichtümern hinzu sondern nimm ihm einige von seinen Wünschen.
+Wenn du einen Menschen glÃ¼cklich machen willst, dann fÃ¼ge nichts
+seinen ReichtÃ¼mern hinzu sondern nimm ihm einige von seinen WÃ¼nschen.
 (Epikur von Samos, gr. Philosoph, 341-271 v.Chr.)
 -- 
 Gegen Angriffe kann man sich wehren, gegen Lob ist man machtlos.
-(Sigmund Freud, österr. Psychologe & Psychiater, 1856-1939)
+(Sigmund Freud, Ã¶sterr. Psychologe & Psychiater, 1856-1939)
 -- 
 Es ist nicht schwer, Menschen zu finden, die mit 60 Jahren zehnmal
 so reich sind, als sie es mit 20 waren. Aber nicht einer von ihnen behauptet,
-er sei zehnmal so glücklich.
+er sei zehnmal so glÃ¼cklich.
 (George Bernard Shaw, ir. Dramatiker, 1856-1950)
 -- 
 Wer glaubt, ein Christ zu sein, weil er die Kirche besucht, irrt sich.
 Man wird ja auch kein Auto, wenn man in einer Garage steht.
 (Albert Schweitzer, dt. Theologe, Mediziner & Phil., 1875-1965)
 -- 
-Was ist der Unterschied zwischen einem Politiker und einem Telefonhörer?
-Den Telefonhörer kann man aufhängen, wenn man sich verwählt hat... 
+Was ist der Unterschied zwischen einem Politiker und einem TelefonhÃ¶rer?
+Den TelefonhÃ¶rer kann man aufhÃ¤ngen, wenn man sich verwÃ¤hlt hat... 
 -- 
 Mathelehrer: "Sind Luftlinie 3 Kilometer, aber ich kenne
-da eine Abkürzung"
+da eine AbkÃ¼rzung"
 Physiklehrer: "Wie Sie sehen, sehen Sie nichts. Und
 warum sie nichts sehen, sehen Sie gleich."
 -- 
-Es gibt nur eines, was teurer ist als eine Frau - nämlich eine Ex-Frau.
+Es gibt nur eines, was teurer ist als eine Frau - nÃ¤mlich eine Ex-Frau.
 (Jack Nicholson, 1993)
 -- 
 Bei der Brautwerbung ist der Mann solange hinter einer Frau her, bis sie
 ihn hat.
 (Jacque Tati)
 -- 
-Es ist Sache der Frau, so früh wie möglich zu heiraten. Die Aufgabe des
+Es ist Sache der Frau, so frÃ¼h wie mÃ¶glich zu heiraten. Die Aufgabe des
 Mannes ist es, so lange unverheiratet zu bleiben, wie er kann.
 (George Bernard Shaw)
 -- 
-Frauen sind wie Übersetzungen:
-Die Schönen sind nicht treu, und die Treuen sind nicht schön.
+Frauen sind wie Ãœbersetzungen:
+Die SchÃ¶nen sind nicht treu, und die Treuen sind nicht schÃ¶n.
 (George Bernard Shaw)
 -- 
 Wer POPpen will, braucht einen SLIP-Zugang. ;-)
 Wie ging die STRING-Funktion noch gleich?
 -- 
-Faulheit ist überwundener Fleiß. 
+Faulheit ist Ã¼berwundener FleiÃŸ. 
 -- 
 Ausschlaggebend ist die Allergie. 
 -- 
@@ -2466,13 +2466,13 @@ Jeder Mensch ist ein Clown, aber nur wenige haben den Mut, es zu zeigen.
 Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier! 
 -- 
 Schlauer Mann + schlaue Frau = Romanze
-Schlauer Mann + dumme Frau = Affäre
+Schlauer Mann + dumme Frau = AffÃ¤re
 Dummer Mann + dumme Frau = Schwangerschaft
 Dummer Mann + schlaue Frau = Shopping
 -- 
 Aktivierungsenergie: Energetischer Berg, der vor jeder chem. Reaktion
-überwunden werden muß. Für die meisten Chemiker liegt er im Bereich einer
-heißen Tasse Kaffee. (Fröhliches Wörterbuch Chemiker)
+Ã¼berwunden werden muÃŸ. FÃ¼r die meisten Chemiker liegt er im Bereich einer
+heiÃŸen Tasse Kaffee. (FrÃ¶hliches WÃ¶rterbuch Chemiker)
 -- 
 Das Beste was das Christentum hervorgebracht hat sind seine Ketzer.
 - Ernst Bloch, Philosoph 1885-1977
@@ -2482,19 +2482,19 @@ Das Beste was das Christentum hervorgebracht hat sind seine Ketzer.
 -- 
 21 ist nur die halbe Wahrheit
 -- 
-Wer niemals träumt, verschläft sein Leben.
+Wer niemals trÃ¤umt, verschlÃ¤ft sein Leben.
 -- 
-Wer Schmetterlinge lachen hört, der weiß, wie Wolken schmecken.
+Wer Schmetterlinge lachen hÃ¶rt, der weiÃŸ, wie Wolken schmecken.
 (Novalis)
 -- 
-Wer sich nicht bewegt, der spürt auch seine Fesseln nicht.
+Wer sich nicht bewegt, der spÃ¼rt auch seine Fesseln nicht.
 -- 
 Zeigst du niemals deine Stirn,
 hast du wohl auch kein Gehirn.
 -- 
-Als ich jünger war, hasste ich es zu Hochzeiten zu gehen. Tanten und
-großmütterliche Bekannte kamen zu mir, piekten mir in die Seite, lachten
-und sagten: "Du bist der Nächste." Sie haben mit dem Mist aufgehört als 
+Als ich jÃ¼nger war, hasste ich es zu Hochzeiten zu gehen. Tanten und
+groÃŸmÃ¼tterliche Bekannte kamen zu mir, piekten mir in die Seite, lachten
+und sagten: "Du bist der NÃ¤chste." Sie haben mit dem Mist aufgehÃ¶rt als 
 ich anfing, auf Beerdigungen das gleiche zu machen.
 -- 
 If all my friends were to jump off a bridge, I wouldn't jump with
@@ -2502,8 +2502,8 @@ them -I'd be at the bottom to catch them.
 -- 
 You have not lived until you've found someone worth dying for. 
 -- 
->Danke, so langsam habe ich genügend Sigs..
-Ach sollen wir jetzt schlagartig aufhören hier zu schreiben, bloß weil
+>Danke, so langsam habe ich genÃ¼gend Sigs..
+Ach sollen wir jetzt schlagartig aufhÃ¶ren hier zu schreiben, bloÃŸ weil
 Du Deine Sigsammlung voll hast?
 -- 
 Outside is where the pizza comes from
@@ -2515,11 +2515,11 @@ Geek by nature
 Linux by choice
 -- 
 "Er ist so beliebt, dass ihn fast alle hassen"
-Neon-Magazin (Stern) über Benjamin v. Stuckrad-Barre
+Neon-Magazin (Stern) Ã¼ber Benjamin v. Stuckrad-Barre
 -- 
 Hier wird kein Wissen vermittelt, hier ist der Schrottplatz am Ende
-des Universums, die letzte Tanke vor dem Abgrund, die Höhle der
-Finsternis, hier ist die Gruft. (Axel Woelke in und über dag°)
+des Universums, die letzte Tanke vor dem Abgrund, die HÃ¶hle der
+Finsternis, hier ist die Gruft. (Axel Woelke in und Ã¼ber dagÂ°)
 -- 
 Unix is user friendly, it just happens to be very particular
 about who it makes friends with.
@@ -2551,10 +2551,10 @@ but they will loose the war.
 -- 
 Er wird sich aus dem Staub erheben und aufrecht stehen:  Er wird sich vor 
 keinem Zaren im Himmel oder auf der Erde verbeugen. Er wird erst dann vollkommen
-menschlich sein wenn er zu herrschen verschmäht und sich weigert beherrscht zu 
+menschlich sein wenn er zu herrschen verschmÃ¤ht und sich weigert beherrscht zu 
 werden. Er wird erst wirklich frei sein, wenn es keine Herren mehr gibt.
 -- 
-Pinguine aller Länder, vereinigt euch!
+Pinguine aller LÃ¤nder, vereinigt euch!
 -- 
 >> Du bist krank. Oder Admin.
 > Das "Oder" bitte ich exklusiv zu verstehen.
@@ -2582,45 +2582,45 @@ turns out to be impossible to get at or repair."
 "Right planet, wrong universe."
 - Arthur Dent in search for "his" Earth
 -- 
-Chaos ist das Wort, das wir für eine Ordnung erfunden haben, 
+Chaos ist das Wort, das wir fÃ¼r eine Ordnung erfunden haben, 
 die wir nicht verstehen.
 -- 
 Das Chaos will als solches erkannt und erfahren werden, 
-bevor es sich in eine neue Ordnung umwandeln läßt.
+bevor es sich in eine neue Ordnung umwandeln lÃ¤ÃŸt.
 -- 
 Geniale Menschen finden sich nur im Chaos zurecht.
 -- 
 Ich hasse das Chaos. Aber was soll ich machen? Es liebt mich!
 -- 
-Lieber ein fröhliches Chaos als eine traurige Ordnung.
+Lieber ein frÃ¶hliches Chaos als eine traurige Ordnung.
 -- 
 Man findet immer dort besonders viel Chaos, wo man nach Ordnung sucht. 
 Das Chaos besiegt die Ordnung, weil es besser organisiert ist.
 -- 
 Man soll nicht versuchen, das Chaos zu ordnen. 
-Es genügt, im Chaos ordentlich zu leben.
+Es genÃ¼gt, im Chaos ordentlich zu leben.
 -- 
 Wenn Ordnung das halbe Leben ist, dann ist Chaos das ganze.
 -- 
 Nur die Toten haben das Ende des Krieges gesehen! (Plato)
 -- 
-"Alkohol ist ein hervorragendes Lösungsmittel: Er löst Familien, Ehen,
-Freundschaften, Arbeitsverhältnisse, Bankkonten und Gehirnzellen."
+"Alkohol ist ein hervorragendes LÃ¶sungsmittel: Er lÃ¶st Familien, Ehen,
+Freundschaften, ArbeitsverhÃ¤ltnisse, Bankkonten und Gehirnzellen."
 -- 
 "Kein Poppen, kein Alkohol, keine Drogen, kein nix, aber den ganzen Tag
-beten und preisen. Alles scheiße. Ich geh freiwillig in die Hölle."
+beten und preisen. Alles scheiÃŸe. Ich geh freiwillig in die HÃ¶lle."
 -- 
 > Ich habe Zone Alarm in Hintergrund mitlaufen, das ist fuer mich
 > Pflicht.
-Ich habe eine Schüssel Weihwasser neben der Tastatur stehen. Das hilft
-genauso.      (Jürgen Schmadlak in <u67uq9.uin.ln@news.schmadlak.net>)
+Ich habe eine SchÃ¼ssel Weihwasser neben der Tastatur stehen. Das hilft
+genauso.      (JÃ¼rgen Schmadlak in <u67uq9.uin.ln@news.schmadlak.net>)
 -- 
 GEEK CODE - Version: 3.1 - http://www.geekcode.com - http://www.ebb.org/ungeek/
 GCS d- s: a? C+++(++++) UL+ P+++$ L++ E+ W+++(---) N+++ !o !K w--- !O !M V-
 PS+ PE-- Y+(++) PGP t+(++) X++ tv-(--) b+++ DI++ G e* h* y?
 -- 
 Das Usenet ist prinzipiell ein recht lustiger Haufen,  machmal ein lustiger 
-Haufen kleinkarierter, besserwissender und arroganter Arschlöcher aber doch 
+Haufen kleinkarierter, besserwissender und arroganter ArschlÃ¶cher aber doch 
 immer irgendwie lustig.
                   Oliver C. Thornton in <bfuq7o$um3$07$1@news.t-online.com>
 -- 
@@ -2643,27 +2643,27 @@ You laugh at me because I'm different.
 I laugh at you because you're all the same. [Jonathan Davis]
 -- 
 Alle sagten: Das geht nicht.
-Dann kam einer, der wußte das nicht und hat's gemacht.
+Dann kam einer, der wuÃŸte das nicht und hat's gemacht.
 -- 
-Alkoholiker sind eine breite Bevölkerungsschicht.
+Alkoholiker sind eine breite BevÃ¶lkerungsschicht.
 -- 
-Alkohol du böser Geist
-auch wenn du mich zu Boden reißt.
+Alkohol du bÃ¶ser Geist
+auch wenn du mich zu Boden reiÃŸt.
 Ich steh auf, du boxt mich nieder.
 Ich kotz dich raus und sauf dich wieder.
 -- 
-Wer auf seinen Rang pocht, hat ihn schon eingebüßt.	
+Wer auf seinen Rang pocht, hat ihn schon eingebÃ¼ÃŸt.	
 - Max Ryncher
 -- 
-Wer sich über das Christentum nicht empört, kennt es nicht.	
+Wer sich Ã¼ber das Christentum nicht empÃ¶rt, kennt es nicht.	
 - Dr. Dr. Joachim Kahl, Theologe und Philosoph
 -- 
 Der Zynismus der Zyniker besteht nicht darin, 
-daß sie sagen, was sie denken, 
-sondern darin, daß sie denken.	
+daÃŸ sie sagen, was sie denken, 
+sondern darin, daÃŸ sie denken.	
 - Gabriel Laub
 -- 
-Selbst Optimisten müssen irgendwann eingestehen, dass Murphy Recht
+Selbst Optimisten mÃ¼ssen irgendwann eingestehen, dass Murphy Recht
 hatte.                               [Can Filip Sakrak in <darw/>]
 -- 
 Tuersteher: "Ey, du kommst hier net rein." - DAU: "Ja, aber wieso das 
@@ -2678,25 +2678,25 @@ Die Zukunft ist leider auch nicht mehr das, was sie einmal war.
 One machine can do the work of fifty ordinary men, but no machine can do the job
 of one extraordinary man. [Elbert Hubbard]
 -- 
-Ich bin froh, daß die Zukunft ungewiß ist, denn das sollte sie auch sein.	
+Ich bin froh, daÃŸ die Zukunft ungewiÃŸ ist, denn das sollte sie auch sein.	
 - William Sloane Coffin
 -- 
-Wenn Theorie und Realität nicht übereinstimmen, muß entweder die
-Theorie oder die Realität geändert werden. Das erste nennt man
+Wenn Theorie und RealitÃ¤t nicht Ã¼bereinstimmen, muÃŸ entweder die
+Theorie oder die RealitÃ¤t geÃ¤ndert werden. Das erste nennt man
 Wissenschaft, das zweite Religion. [Achim Stoesser, 12.8.1999]
 -- 
-Wer keine Ziele hat, muß sich nicht wundern, 
+Wer keine Ziele hat, muÃŸ sich nicht wundern, 
 wenn er ganz woanders ankommt.
 -- 
 "Those who will not follow,
  are doomed to lead!"
 -- 
 Es ist nicht Deine Schuld, dass die Welt ist, wie sie ist.
-Es wär nur Deine Schuld, wenn Sie so bleibt.
+Es wÃ¤r nur Deine Schuld, wenn Sie so bleibt.
 - Die Aerzte, "deine Schuld"
 -- 
-Die Dich verarschen, die hast Du selbst gewählt.
-Darum lass sie Deine Stimme hören, weil jede Stimme zählt
+Die Dich verarschen, die hast Du selbst gewÃ¤hlt.
+Darum lass sie Deine Stimme hÃ¶ren, weil jede Stimme zÃ¤hlt
 - Die Aerzte, "deine Schuld"
 -- 
 "American Beer is like having sex in a canoe
@@ -2720,13 +2720,13 @@ Q: Warum ist TOFU so schlimm?
 A: TOFU
 F: Was ist das groesste Aergerniss im Usenet?
 -- 
-Glück und Erfolg sind auf der Seite der Narren.
+GlÃ¼ck und Erfolg sind auf der Seite der Narren.
 -- 
-Das größte Vergnügen im Leben besteht darin, das zu tun, von dem die Leute
-sagen, du könntest es nicht.
+Das grÃ¶ÃŸte VergnÃ¼gen im Leben besteht darin, das zu tun, von dem die Leute
+sagen, du kÃ¶nntest es nicht.
 (Walter Bagehot)
 -- 
-Wir müssen Deiche des Mutes bauen gegen die Flut der Furcht.
+Wir mÃ¼ssen Deiche des Mutes bauen gegen die Flut der Furcht.
 (Martin Luther King)
 -- 
 Niemand zu haben auf der Welt, zu dem man sich fluechtet,
@@ -2737,7 +2737,7 @@ an dem manches Herz verblutet.
 Man kann viel, wenn man sich nur recht viel zutraut.
 (Wilhelm von Humboldt)
 -- 
-Furcht tut nichts Gutes. Darum muß man frei und mutig
+Furcht tut nichts Gutes. Darum muÃŸ man frei und mutig
 in allen Dingenn sein und feststehen.
 (Martin Luther)
 -- 
@@ -2745,31 +2745,31 @@ Niemand ist so uninteressant wie ein Mensch ohne Interesse.
 (Thomas Browne, engl. Phil. 1605 - 1682)
 -- 
 Der Reingewinn ist der Teil der Bilanz, den der Vorstand beim besten Willen
-nicht mehr vor den Aktionären verstecken kann.
-(Carl Fürstenberg)
+nicht mehr vor den AktionÃ¤ren verstecken kann.
+(Carl FÃ¼rstenberg)
 -- 
-Die größte Gefahr im Straßenverkehr sind Autos,
+Die grÃ¶ÃŸte Gefahr im StraÃŸenverkehr sind Autos,
 die schneller fahren als ihr Fahrer denken kann.
 (Robert Lembke, dt. Quizmaster, 1913-1989)
 -- 
 Ich hab gerade Zeit, wo gibt's nichts zu tun?
 -- 
-Wer schon nicht überzeugen kann soll wenigstens für Verwirrung sorgen.
+Wer schon nicht Ã¼berzeugen kann soll wenigstens fÃ¼r Verwirrung sorgen.
 -- 
 "Lieber Gott, bitte hilf mir, mein grosses Maul zu halten!
 Wenigstens solange, bis ich weiss, wovon ich rede."
 -- 
 [Outlock Express]Kann alles, aber nichts gut, richtet sich an Leute,
 die die eierlegende Wollmilchsau wollen und nicht begreifen,
-daß die Eier faul,die Wolle fransig, die Milch schlecht 
-und der Schinken zäh ist.[Hajo Pflueger in dafc]
+daÃŸ die Eier faul,die Wolle fransig, die Milch schlecht 
+und der Schinken zÃ¤h ist.[Hajo Pflueger in dafc]
 -- 
-Hier ist das Rauchen verboten, füttern Sie Ihren Krebs bitte draußen!
+Hier ist das Rauchen verboten, fÃ¼ttern Sie Ihren Krebs bitte drauÃŸen!
 -- 
-Liebe ist wie ein Verkehrsunfall. Man wird angefahren und fällt um.
-Entweder überlebt man oder nicht.
+Liebe ist wie ein Verkehrsunfall. Man wird angefahren und fÃ¤llt um.
+Entweder Ã¼berlebt man oder nicht.
 -- 
-Kiel ist zwar nur halb so groß wie der Zentralfriedhof von Chicago... aber
+Kiel ist zwar nur halb so groÃŸ wie der Zentralfriedhof von Chicago... aber
 doppelt so tot.
 -- 
 Internet ist das mit den Kabeln, Usenet das mit den Menschen. 
@@ -2794,15 +2794,15 @@ Life is not fair. But the root password helps.
 be different
 -- 
 Die Aufmerksamkeitsspanne der heutigen
-Jugend ist ja schon nach 160 Zeichen überschritten.
-- nach Ralf Döblitz <c59k12$7in$1@msgids.netzverwaltung.net>
+Jugend ist ja schon nach 160 Zeichen Ã¼berschritten.
+- nach Ralf DÃ¶blitz <c59k12$7in$1@msgids.netzverwaltung.net>
 -- 
-Liberté
-Egalité
-Solidarité
+LibertÃ©
+EgalitÃ©
+SolidaritÃ©
 (alors Revolution)
 -- 
-Braune Flecken im Sanitärbereich sind einfach scheisse.
+Braune Flecken im SanitÃ¤rbereich sind einfach scheisse.
 -- 
 Simulations are like miniskirts, they show a lot and hide the essentials.
 - Hubert Kirrman
@@ -2830,7 +2830,7 @@ so, nothing continued to happen. "
 "Und eines Donnerstags dann, fast zweitausend Jahre, nachdem ein Mann an
 einen Baumstamm genagelt worden war, weil er gesagt hatte, wie phantas-
 tisch er sich das vorstelle, wenn die Leute zur Abwechslung mal nett 
-zueinander wären..." (Douglas Adams - Per Anhalter durch die Galaxis)
+zueinander wÃ¤ren..." (Douglas Adams - Per Anhalter durch die Galaxis)
 -- 
 Wer immer dieser 'Keiner' ist sollte einen Preis bekommen:
 Jemand hat eine gute Idee; Jeder sollte es tun; 
@@ -2844,8 +2844,8 @@ Windows-Leute sind halt darauf konditioniert, da sie an Fehlverhalten
 ihres Rechners selber schuld sind. Und im Grunde stimmt das ja auch.
 	(Felix von Leitner in de.alt.sysadmin.recovery)
 -- 
-So fanatisch, daß ich das Frühstück verpasse, bin
-ich nicht. Es sei denn, mein crond läuft nicht.
+So fanatisch, daÃŸ ich das FrÃ¼hstÃ¼ck verpasse, bin
+ich nicht. Es sei denn, mein crond lÃ¤uft nicht.
 (Henry Leyh)
 -- 
 Versicherungen, die nicht zahlen, sind nur gut fuer deren Manager und die
@@ -2882,7 +2882,7 @@ to follow. You just gotta keep on livin', man. L-I-V-I-N."
  forget what you're celebrating, and that's the fact that a bunch of
  slave-owning, aristocratic, white males didn't want to pay their taxes."
 -- 
-Die Menschheit muß dem Krieg ein Ende setzen 
+Die Menschheit muÃŸ dem Krieg ein Ende setzen 
 oder der Krieg setzt der Menschheit ein Ende.
 - John F. Kennedy 
 -- 
@@ -2891,7 +2891,7 @@ oder der Krieg setzt der Menschheit ein Ende.
 | Fragebogen downloaden (57 KB, Word 2000 Dokument)
 Ohne Worte (Volker Gringmuth)
 -- 
-Flhacs wird im Usenet grundsätzlich alsfhc geschrieben. Schreibt man
+Flhacs wird im Usenet grundsÃ¤tzlich alsfhc geschrieben. Schreibt man
 lafhsc nicht slfach, so ist das schlichtweg hclafs. Hingegen darf man
 rihctig ruhig rhitcgi schreiben, weil eine shcalfe Schreibweise bei
 irhictg nicht als shflac angesehen wird. Shclaft gut, Leute. [Cheatah]
@@ -2899,7 +2899,7 @@ irhictg nicht als shflac angesehen wird. Shclaft gut, Leute. [Cheatah]
 Alle Menschen werden als Originale geboren.
 Die meisten sterben als Kopien.
 -- 
-"Wie jeder vernünftige und empfindsame Mensch
+"Wie jeder vernÃ¼nftige und empfindsame Mensch
  verabscheue ich Arbeit." - Aldous Huxley
 -- 
 "Junggesellen leben nach dem Motto: Lieber zwei Ringe unter den Augen
@@ -2910,7 +2910,7 @@ Die meisten sterben als Kopien.
  folglich existiert Gott nicht."
 - Michail Bakunin
 -- 
-"Es gibt zwei Wege für den Aufstieg: Entweder man passt sich an oder
+"Es gibt zwei Wege fÃ¼r den Aufstieg: Entweder man passt sich an oder
 man legt sich quer." - Konrad Adenauer
 -- 
 Umwege erhoehen die Ortskenntnis
@@ -2952,33 +2952,33 @@ verdienen das Leben. Kannst du es ihnen geben? Dann sei auch mit einem
 Todesurteil nicht so schnell bei der Hand.
 - J. R. R. Tolkien, "Der Herr Der Ringe", Band 1
 -- 
-Da, wo's zu weit geht, fängt die Freiheit erst an.
+Da, wo's zu weit geht, fÃ¤ngt die Freiheit erst an.
 - Werner Finck
 -- 
 Die Freiheit wird einem nicht gegeben, man muss sie nehmen.
 - Meret Oppenheim
 -- 
-Es nützt der Freiheit nichts, dass wir sie abschaffen, um sie zu
-schützen.
+Es nÃ¼tzt der Freiheit nichts, dass wir sie abschaffen, um sie zu
+schÃ¼tzen.
 - Wolfgang Thierse
 -- 
-Ich bin bekannt für meine Ironie. Aber auf den Gedanken, im Hafen von
-New York eine Freiheitsstatue zu errichten, wäre selbst ich nicht
+Ich bin bekannt fÃ¼r meine Ironie. Aber auf den Gedanken, im Hafen von
+New York eine Freiheitsstatue zu errichten, wÃ¤re selbst ich nicht
 gekommen.
 - George Bernard Shaw
 -- 
-In der DDR ist alles real, bloß nicht der Sozialismus; in der BRD ist
-alles real, bloß nicht Freiheit, Gleichheit, Brüderlichkeit.
+In der DDR ist alles real, bloÃŸ nicht der Sozialismus; in der BRD ist
+alles real, bloÃŸ nicht Freiheit, Gleichheit, BrÃ¼derlichkeit.
 - Rudi Dutschke
 -- 
-Mir ist die gefährliche Freiheit lieber als eine ruhige Knechtschaft.
+Mir ist die gefÃ¤hrliche Freiheit lieber als eine ruhige Knechtschaft.
 - Jean-Jacques Rousseau
 -- 
-*Im* Internet ist gar nichts. Außer Elektromagnetismus." 
+*Im* Internet ist gar nichts. AuÃŸer Elektromagnetismus." 
 - (Frieder Nake)
 -- 
-Wenn sie glauben wir hätten den Verstand verloren, sollten sie lieber
-überlegen, ob sie ihren überhaupt jemals gefunden haben
+Wenn sie glauben wir hÃ¤tten den Verstand verloren, sollten sie lieber
+Ã¼berlegen, ob sie ihren Ã¼berhaupt jemals gefunden haben
 -- 
 Erst wenn die/der letzten ProgrammiererIn eingesperrt, das letzte Programm
 verwirklicht und die letzte Idee patentiert ist, werdet Ihr merken, dass
@@ -2989,9 +2989,9 @@ Anwaelte nicht programmieren koennen.
 >-Hanno Inbox lesen willst, um noch schneller an die Postings zu kommen.
 de.alt.netdigest abbestellst, weil du die Postings eh schon alle kennst.
 -- 
-Der rastlose Mensch von heute hat tagsüber keine Zeit, sich Sorgen zu
-machen. Und abends ist er zu müde dazu. Alles in allem hält er das für
-Glück.
+Der rastlose Mensch von heute hat tagsÃ¼ber keine Zeit, sich Sorgen zu
+machen. Und abends ist er zu mÃ¼de dazu. Alles in allem hÃ¤lt er das fÃ¼r
+GlÃ¼ck.
 - George Bernard Shaw
 -- 
 The only time my education was interrupted was when I was in school.
@@ -3004,12 +3004,12 @@ two ideas." - George Bernard Shaw
 -- 
 England and America are two countries divided by a common language.
 -- 
-> Mhh, was meinst Du denn dazu, wenn Du nun plötzlich von heut' auf 
-> morgen Sieben Jahre älter bist?
-Ich bin Langschläfer, da gewöhnt man sich an sowas.
+> Mhh, was meinst Du denn dazu, wenn Du nun plÃ¶tzlich von heut' auf 
+> morgen Sieben Jahre Ã¤lter bist?
+Ich bin LangschlÃ¤fer, da gewÃ¶hnt man sich an sowas.
 - Karl Valentin in detebe
 -- 
-Seien wir realistisch, versuchen wir das Unmögliche.
+Seien wir realistisch, versuchen wir das UnmÃ¶gliche.
 - Ernesto Rafael 'Che' Guevara de la Serna
 -- 
 I prefer to die standing, rather than live on my knees.
@@ -3029,21 +3029,21 @@ Wir sind alle Verbrecher, verurteilt zum entsetzlichsten und
 langsamste Tod der im ganzen Universum bekannt ist:
 Leben auf der Erde.
 -- 
-Bärlin 1705
+BÃ¤rlin 1705
 Start in eine Kreuzberger Nacht: Wir entkamen dem Bermudadreieck,
 umschifften knapp das Zwanglos, um im Schmalen Handtuch einen
 Zwischenstop einzulegen.
 -- 
 Wenn man mit Raubkopien wirklich Gruppen wie BroSis, die Backstreet
-Boys oder gar Britney Spears verhindern könnte, würde ich noch heute
+Boys oder gar Britney Spears verhindern kÃ¶nnte, wÃ¼rde ich noch heute
 ein paar CD-Brenner und einen Zentner Rohlinge bestellen.  
 [Benedict Mangelsdorff in ger.ct, 16.10.2002]
 -- 
 Wenn sind der Staat zum Unrechtsstaat wandelt um mehr Sicherheit zu
 bekommen, dann wird sein Untergang schneller kommen als ihn alle
-Terroristen zusammen herbeibomben könnten.
+Terroristen zusammen herbeibomben kÃ¶nnten.
 -- 
-Wir Diskordier müssen auseinanderhalten!
+Wir Diskordier mÃ¼ssen auseinanderhalten!
 -- 
 Diskordier schwimmen nicht gegen den Strom, 
 sie klettern aus dem Fluss.
@@ -3090,18 +3090,18 @@ War does not determine who is right - only who is left.
 but when you do, it blows away your whole leg." 
 - Bjarne Stroustrup
 -- 
-"Ich fühle mich nicht zu dem Glauben verpflichtet, dass derselbe Gott,
+"Ich fÃ¼hle mich nicht zu dem Glauben verpflichtet, dass derselbe Gott,
 der uns mit Sinnen, Vernunft und Verstand ausgestattet hat, von uns
 verlangt, dieselben nicht zu benutzen" - Galileo Galilei
 -- 
-"Lachen tötet die Furcht und ohne Furcht kann es keinen Glauben
+"Lachen tÃ¶tet die Furcht und ohne Furcht kann es keinen Glauben
 geben. Wer keine Furcht mehr vor dem Teufel hat, braucht keinen Gott
-mehr [...] dann können wir auch über Gott lachen." 
+mehr [...] dann kÃ¶nnen wir auch Ã¼ber Gott lachen." 
 - Umberto Eco, "Der Name der Rose"
 -- 
-"Das gibt so ein beruhigendes Gefühl. Man bildet sich ein, man tut was
-für die Revolution, und man weiß doch ganz bestimmt, mit dieser Partei
-kommt die Revolution nie." - Kurt Tucholsky über die SPD, 1930
+"Das gibt so ein beruhigendes GefÃ¼hl. Man bildet sich ein, man tut was
+fÃ¼r die Revolution, und man weiÃŸ doch ganz bestimmt, mit dieser Partei
+kommt die Revolution nie." - Kurt Tucholsky Ã¼ber die SPD, 1930
 -- 
 "Revolution ist nicht ein kurzer Akt, wo mal irgendwas geschieht und
 dann ist alles anders. Revolution ist ein langer komplizierter
@@ -3110,64 +3110,64 @@ Prozess, wo der Mensch anders werden muss." - Rudi Dutschke
 "Erinnert euch an den, der sein ganzes Leben eures verbessern wollte."
 - Auf dem Grab von Michail Bakunin
 -- 
-"In Deutschland gilt derjenige als viel gefährlicher, der auf den
+"In Deutschland gilt derjenige als viel gefÃ¤hrlicher, der auf den
 Schmutz hinweist, als der, der ihn gemacht hat."
 - Carl von Ossietzki
 -- 
 Ich habe keine Paranoia - ich habe einfach nur Recht
 -- 
-"Manch einer arbeitet so eifrig für seinen Lebensabend, dass er ihn
+"Manch einer arbeitet so eifrig fÃ¼r seinen Lebensabend, dass er ihn
 gar nicht mehr erlebt." 
 - Markus M. Ronner - Die treffende Pointe
 -- 
-Ich fühle mich an nichts gebunden was ich je
-geschrieben habe, aber ich werde nichts zurücknehmen.
+Ich fÃ¼hle mich an nichts gebunden was ich je
+geschrieben habe, aber ich werde nichts zurÃ¼cknehmen.
 - Jean Paul Sarte
 -- 
-Eine Zigarette verkürzt das Leben um 2 Minuten,
-eine Flasche Bier verkürzt das Leben um 4 Minuten,
-ein Arbeitstag verkürzt das Leben um 8 Stunden!
+Eine Zigarette verkÃ¼rzt das Leben um 2 Minuten,
+eine Flasche Bier verkÃ¼rzt das Leben um 4 Minuten,
+ein Arbeitstag verkÃ¼rzt das Leben um 8 Stunden!
 -- 
 "I may not have gone where I intended to go, but I think I have ended
  up where I needed to be."
 - Douglas Adams - "the long dark tea-time of the soul"
 -- 
-Arbeitet - als würdet ihr kein Geld brauchen, Liebt - als hätte euch
-noch nie jemand verletzt, Tanzt - als würde keiner hinschauen, Singt -
-als würde keiner zuhören, Lebt - als wäre das Paradies auf der Erde
+Arbeitet - als wÃ¼rdet ihr kein Geld brauchen, Liebt - als hÃ¤tte euch
+noch nie jemand verletzt, Tanzt - als wÃ¼rde keiner hinschauen, Singt -
+als wÃ¼rde keiner zuhÃ¶ren, Lebt - als wÃ¤re das Paradies auf der Erde
 -- 
 Es ist nicht genug, die Gerechtigkeit auf deiner Seite zu haben, es
 ist entscheidend, stark genug zu sein, um sie zu verteidigen.
 - Chaime Herzog
 -- 
-Das Gegenteil von normal ist nicht verrückt, sondern aussergewöhnlich
+Das Gegenteil von normal ist nicht verrÃ¼ckt, sondern aussergewÃ¶hnlich
 -- 
-"Musik gehört allen. Nur die Plattenfirmen denken, dass man sie
+"Musik gehÃ¶rt allen. Nur die Plattenfirmen denken, dass man sie
 besitzen kann."
 - John Lennon
 -- 
 Je nach Verlauf der vorangegangenen Diskussion kann das grinsend,
-ironisch, verärgert oder auch verletzend gemeint sein. Im Usenet
+ironisch, verÃ¤rgert oder auch verletzend gemeint sein. Im Usenet
 sollte man auch bei Einzeilern zwischen den Zeilen zu lesen
 lernen. (S. Kruse)
 -- 
 Ich kenne das auch, bin ja selbst Deutscher. Ich bin kleinkariert,
-bürokratisch, humorlos, obrigkeitsgläubig... Ich würde die Liste gerne
-fortführen, aber ich muß erstmal meinen Gartenzwerg geraderücken, der
+bÃ¼rokratisch, humorlos, obrigkeitsglÃ¤ubig... Ich wÃ¼rde die Liste gerne
+fortfÃ¼hren, aber ich muÃŸ erstmal meinen Gartenzwerg geraderÃ¼cken, der
 hat sich eben zur Seite geneigt."        (Sebastian Koppehel in dsnu)
 -- 
 Eine Schraube ohne Nagel ist ein Gewinde. 
 -- 
-Fliegen heißt: Frühstück in Mailand, Mittagessen in London, Abendessen in
-San Francisco, Gepäck in Kapstadt.
+Fliegen heiÃŸt: FrÃ¼hstÃ¼ck in Mailand, Mittagessen in London, Abendessen in
+San Francisco, GepÃ¤ck in Kapstadt.
 -- 
-Ein Narr sagt, was er weiß. Ein Weiser weiß, was er sagt.
+Ein Narr sagt, was er weiÃŸ. Ein Weiser weiÃŸ, was er sagt.
 -- 
-Das Problem an der Thermodramatik ist, daß Nichteingeweihte sie
+Das Problem an der Thermodramatik ist, daÃŸ Nichteingeweihte sie
 nicht verstehen.
 -- 
 <Drahnreb> ich habe Hardwarefirewall, Softwarefirewall, AntiVir,
-           Guard, Trojanerwächter und Firefox 
+           Guard, TrojanerwÃ¤chter und Firefox 
 <seb0r> und ich hab linux...
 - seen on german-bash.org
 -- 
@@ -3182,61 +3182,61 @@ The whole point of civilization is to reduce how much the average
 person has to think.
 - Illiad (User-Friendly), 27. Dez 2003
 -- 
-<tulki> ich geh jetzt aufräumen und saugen
+<tulki> ich geh jetzt aufrÃ¤umen und saugen
 <dragomir> defrag und emule?
 <tulki> ZIMMER UND BAD!^^
 - seen on german-bash.org
 -- 
-FSK 12: Held bekommt das Mädchen
-FSK 16: Bösewicht bekommt das Mädchen
-FSK 18: Jeder bekommt das Mädchen
+FSK 12: Held bekommt das MÃ¤dchen
+FSK 16: BÃ¶sewicht bekommt das MÃ¤dchen
+FSK 18: Jeder bekommt das MÃ¤dchen
 -- 
 Wahre Worte gelassen ausgesprochen (2):
 "The farther you get away from water, the dumber the people get." 
 - [aus einer Diskussion, warum so viele Leute in Kuestenregionen leben]
 -- 
-"Was nützt ein Aufstand der Anständigen?
- Was wir brauchen ist ein anständiger Aufstand!"
+"Was nÃ¼tzt ein Aufstand der AnstÃ¤ndigen?
+ Was wir brauchen ist ein anstÃ¤ndiger Aufstand!"
 -- 
 "Computer gehorchen deinen Befehlen, nicht deinen Absichten."
 -- 
-"Die meisten Menschen stolpern irgendwann in ihrem Leben über die
- Wahrheit, stehen wieder auf, schütteln sich den Staub ab und tun so
- als wenn nichts geschehen wäre."
+"Die meisten Menschen stolpern irgendwann in ihrem Leben Ã¼ber die
+ Wahrheit, stehen wieder auf, schÃ¼tteln sich den Staub ab und tun so
+ als wenn nichts geschehen wÃ¤re."
 -- 
 "Entweder wir sind die einzigen intelligenten Lebewesen im Universum
  oder wir sind es nicht. Beide Vorstellungen sind atemberaubend."
 -- 
-"Fragt die Liebe die Freundschaft: »Warum gibt es dich eigentlich?«
- Antwortet die Freundschaft: »Damit ich die Tränen trockne, die du
- verursachst.«"
+"Fragt die Liebe die Freundschaft: Â»Warum gibt es dich eigentlich?Â«
+ Antwortet die Freundschaft: Â»Damit ich die TrÃ¤nen trockne, die du
+ verursachst.Â«"
 -- 
-"Das Geld an der Börse ist nicht verloren - es gehört nur jemand
+"Das Geld an der BÃ¶rse ist nicht verloren - es gehÃ¶rt nur jemand
  anderem"
  - unbekannt
 -- 
-"Die Börse ist ein Paternoster. Es ist ungefährlich, durch den Keller
+"Die BÃ¶rse ist ein Paternoster. Es ist ungefÃ¤hrlich, durch den Keller
  zu fahren. Man muss nur die Nerven behalten." - John Kenneth Galbraith
 -- 
-"Was wir brauchen, sind ein paar verrückte Leute, seht Euch an, wohin
+"Was wir brauchen, sind ein paar verrÃ¼ckte Leute, seht Euch an, wohin
  uns die normalen gebracht haben." - George Bernard Shaw
 -- 
-"Wer sich nachts zu lange mit den Problemen von morgen beschäftigt,
- ist am nächsten Tag zu müde, sie zu lösen."
+"Wer sich nachts zu lange mit den Problemen von morgen beschÃ¤ftigt,
+ ist am nÃ¤chsten Tag zu mÃ¼de, sie zu lÃ¶sen."
 -- 
 Solange wir noch leben 
-Für ein Ideal 
-Für das wir uns erheben 
+FÃ¼r ein Ideal 
+FÃ¼r das wir uns erheben 
 Bereit sind zu bezahl'n 
 -- 
->>> Gerade kam diese Geschichte in den Pro7 Nachrichten.  Paul 'Paul' Kröner
+>>> Gerade kam diese Geschichte in den Pro7 Nachrichten.  Paul 'Paul' KrÃ¶ner
 >> RTL2 ist auch schon darauf angesprungen.                      Sven Hartge
 > Was ihr so an Programmen konsumiert ... :)                Volker Gringmuth
-Für dafu-Leser ist das halt Recherche.                          Peter Brülls
+FÃ¼r dafu-Leser ist das halt Recherche.                          Peter BrÃ¼lls
 -- 
-"Es ist besser für eine Idee zu sterben, die leben wird, als für eine
+"Es ist besser fÃ¼r eine Idee zu sterben, die leben wird, als fÃ¼r eine
 Idee zu leben, die sterben wird."
-- Steve Biko, Südafrikanischer Bürgerrechtler
+- Steve Biko, SÃ¼dafrikanischer BÃ¼rgerrechtler
 -- 
 I wouldn't recommend sex, drugs or insanity for everyone, but they've
 always worked for me.
@@ -3251,7 +3251,7 @@ In Italy   everything is allowed, especially when it is forbidden.
 Horrors, gefolgt von Stunden der Langeweile." (Unbekannt)
 -- 
 "Satire ist die Waffe des Volkes, 
- sie ist der höchste Ausdruck des Zweifels,
+ sie ist der hÃ¶chste Ausdruck des Zweifels,
  die wichtigste Hilfe der Vernunft."
 - Dario Fo
 -- 
@@ -3262,37 +3262,37 @@ It's like a plumber: if you do it OK, nobody notices, if you fuck up,
 it gets full of shit.
 - Stanley Motts in "Wag the Dog"
 -- 
-Es gibt keinen Weg zum Glück, Glück ist der Weg
+Es gibt keinen Weg zum GlÃ¼ck, GlÃ¼ck ist der Weg
 - Buddha
 -- 
 Ich weiss nicht, ob der auch Text kann, ich glaube der kann nur Video.
-- Pepi über den iMac
+- Pepi Ã¼ber den iMac
 -- 
 "Wir suchen das Wissen, das wir 
  durch Information verloren haben."
 - T. S. Eliot
 -- 
-"Du kannst Dein Leben nicht verlängern und Du kannst es 
+"Du kannst Dein Leben nicht verlÃ¤ngern und Du kannst es 
  auch nicht verbreitern. Aber Du kannst es vertiefen!"
 - G. Fock
 -- 
-"Wir können nicht alles tun, aber 
- wir müssen tun, was wir können." 
+"Wir kÃ¶nnen nicht alles tun, aber 
+ wir mÃ¼ssen tun, was wir kÃ¶nnen." 
 - W. Clinton)
 -- 
-"Wer die Dummköpfe gegen sich hat, verdient Vertrauen." 
+"Wer die DummkÃ¶pfe gegen sich hat, verdient Vertrauen." 
 - J.-P. Sartre
 -- 
 "Science is like sex, sometimes something useful comes out but that is not the
  reason we are doing it!" 
 - Richard P. Feynman
 -- 
-"Am Ziel Deiner Wünsche wirst Du jedenfalls eines vermissen:
+"Am Ziel Deiner WÃ¼nsche wirst Du jedenfalls eines vermissen:
  Dein Wandern ans Ziel."
 - M. von Ebner-Eschenbach
 -- 
-"Die meisten Menschen hasten so sehr nach Genuß,
- daß sie an ihm vorbeirennen." 
+"Die meisten Menschen hasten so sehr nach GenuÃŸ,
+ daÃŸ sie an ihm vorbeirennen." 
 - S. Kierkegaard
 -- 
 "Dumme und Gescheite unterscheiden sich dadurch, dass der Dumme immer
@@ -3306,26 +3306,26 @@ Wenn man die Gerechtigkeit biegt, so bricht sie. (Dt. Sprichwort)
 -- 
 "Wollten die Menschen, statt die Welt zu retten, statt sich selber
  retten, statt die Menschheit zu befreien, sich selber befreien - wie
- viel würden sie da zur Rettung der Welt und zur Befreiung der
+ viel wÃ¼rden sie da zur Rettung der Welt und zur Befreiung der
  Menschheit beitragen!" (Alexander Iwanowitsch Herzen)
 -- 
-"Wenn der Wind der Veränderung weht, bauen die einen Mauern und die
- anderen Windmühlen" (Chinesisches Sprichwort)
+"Wenn der Wind der VerÃ¤nderung weht, bauen die einen Mauern und die
+ anderen WindmÃ¼hlen" (Chinesisches Sprichwort)
 -- 
 "All the money you made will never buy back your soul."
 - Bob Dylan
 -- 
-"Die Sehnsucht ist es, die unsere Seele nährt, nicht die Erfüllung."
+"Die Sehnsucht ist es, die unsere Seele nÃ¤hrt, nicht die ErfÃ¼llung."
 - Arthur Schnitzler
 -- 
-"Es ist unendlich mal schöner sich zehnmal betrügen zu lassen, als
+"Es ist unendlich mal schÃ¶ner sich zehnmal betrÃ¼gen zu lassen, als
  einmal den Glauben an die Menschheit zu verlieren."
 - Heinrich Zschokke
 -- 
-"Es ist nie zu spät, das zu werden, was man hätte sein können."
+"Es ist nie zu spÃ¤t, das zu werden, was man hÃ¤tte sein kÃ¶nnen."
 - George Eliot
 -- 
-"Mausoleum -  die letzte und lächerlichste Torheit der Reichen."
+"Mausoleum -  die letzte und lÃ¤cherlichste Torheit der Reichen."
 - Ambrose Gwinnet Bierce
 -- 
 "Nur jene verdienen ein Denkmal, die keines brauchen."
@@ -3335,7 +3335,7 @@ Wenn man die Gerechtigkeit biegt, so bricht sie. (Dt. Sprichwort)
  ist als das Alter."
 - Heinrich von Treitschke
 -- 
-"Wer sich nach allen Seiten verneigt, stößt überall mit dem Hintern
+"Wer sich nach allen Seiten verneigt, stÃ¶ÃŸt Ã¼berall mit dem Hintern
  an."
 - Chinesisches Sprichwort
 -- 
@@ -3351,19 +3351,19 @@ Wenn man die Gerechtigkeit biegt, so bricht sie. (Dt. Sprichwort)
  von ihnen besessen."
 - Samuel Coleridge-Taylor
 -- 
-"Du kannst dein Leben nicht verlängern noch verbreitern, nur
+"Du kannst dein Leben nicht verlÃ¤ngern noch verbreitern, nur
  vertiefen."
 - Joseph Joubert
 -- 
-"Alles fließt und nichts bleibt."
+"Alles flieÃŸt und nichts bleibt."
 Orig.: "panta rhei, ouden menei"
 - Heraklit von Ephesos 
 -- 
-Alles fließt und nichts bleibt; es gibt kein eigentliches Sein,
+Alles flieÃŸt und nichts bleibt; es gibt kein eigentliches Sein,
 sondern nur ein ewiges Werden und Wandeln 
 -- 
 Ich bin Jason Alphageek, genannt el Trublu, stellvertretender Fauler
-Sack der Realität, Herr über die Wikis, Spanischer Inquisitionär und
+Sack der RealitÃ¤t, Herr Ã¼ber die Wikis, Spanischer InquisitionÃ¤r und
 das Volk.
 -- 
 Nieder mit der Schwerkraft - es lebe der Leichtsinn!
@@ -3372,13 +3372,13 @@ Alle wollen nur unser Bestes, aber das geben wir ihnen nicht!
 -- 
 Jeder kann denken, aber vielen bleibt es erspart!
 -- 
-Wer überall seinen Senf dazu gibt, kommt schnell in den Verdacht ein
-Würstchen zu sein!
+Wer Ã¼berall seinen Senf dazu gibt, kommt schnell in den Verdacht ein
+WÃ¼rstchen zu sein!
 -- 
-Eines der gefährlichsten Geräusche die man machen kann, ist laut zu
+Eines der gefÃ¤hrlichsten GerÃ¤usche die man machen kann, ist laut zu
 denken!
 -- 
-Wir haben 2 Hände für die Arbeit, aber auch 2 Beine, um ihr aus dem
+Wir haben 2 HÃ¤nde fÃ¼r die Arbeit, aber auch 2 Beine, um ihr aus dem
 Weg zu gehen!
 -- 
 "Wer die Sicherheit der Freiheit vorzieht, ist zu Recht ein Sklave."
@@ -3530,8 +3530,8 @@ I'll even Hara Kari if you show me how, but I will *not* carry a gun."
 		- Hawkeye, M*A*S*H
 -- 
 Die TeX-Artikel [..] aber doch inzwischen wohl nicht mehr an den
-Fingern zweier Hände abzählbar (außer vielleicht von Informatikern,
-die bekanntlich mit den Fingern bis 1023 zählen können).
+Fingern zweier HÃ¤nde abzÃ¤hlbar (auÃŸer vielleicht von Informatikern,
+die bekanntlich mit den Fingern bis 1023 zÃ¤hlen kÃ¶nnen).
 - Anselm Lingnau
 -- 
 The Unixverse ends on Tue, 19 Jan 2038 03:14:07 +0000
@@ -3547,7 +3547,7 @@ The Unixverse ends on Tue, 19 Jan 2038 03:14:07 +0000
 -- 
 "Wenn man sich anschaut, was der Durchschnittsmensch so schreibt (und
  schrieb), kann man eigentlich nur zu dem Schluss kommen, dass jede Art
- der Rechtschreibung von der Mehrheit der Bevölkerung abgelehnt wird."
+ der Rechtschreibung von der Mehrheit der BevÃ¶lkerung abgelehnt wird."
 - Michael Hemmer in de.etc.sprache.deutsch
 -- 
 "The pictures on radio are always so much better than those on TV"
