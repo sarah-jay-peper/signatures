@@ -3838,3 +3838,8 @@ The Doctor: Yeah! And doesn't that scare you to death?
 -- 
 "Teach a man to reason, and he’ll think for a lifetime"
 - Dr. Phil Plait
+-- 
+Vimes: Detritus, you can't fire [the piecemaker] off in here! 
+       This is an enclosed building!
+Detritus: Only till I pull dis trigger, sir.
+- The fifth elephant
