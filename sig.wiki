@@ -1,4 +1,4 @@
-﻿-- 
+﻿<pre><nowiki>
 In einer Irrsinnigen Welt vernuenftig
 sein zu wollen, ist schon wieder ein Irrsinn fuer sich.
 - Voltaire
@@ -4890,3 +4890,4 @@ Vimes: Detritus, you can't fire [the piecemaker] off in here!
        This is an enclosed building!
 Detritus: Only till I pull dis trigger, sir.
 - The fifth elephant
+</nowiki></pre>
