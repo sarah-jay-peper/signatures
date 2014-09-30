@@ -3849,4 +3849,11 @@ The problem with common sense: It ain't common.
 -- 
 Mrs. Harcourt: My leg's grown back! When I come to the hospital, I had one leg
 Doctor Constantine: Well, there is a war on... is it possible you miscounted?
-- Dr. WHo - "The Doctor dances"
+- Dr. Who - "The Doctor dances"
+-- 
+"Verbrennt ihn, er ist ein Zauberer!" - 
+"Nein! Ich bin Informatiker" - 
+"Formatiert ihn, er ist Informatiker!"
+-- 
+"You know what seems odd to me?"
+"Numbers that aren't divisible by two."
