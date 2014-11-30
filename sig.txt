@@ -2791,7 +2791,7 @@ Keiner macht es.
 Real programmers don't comment their code.  It was hard to write, it
 should be hard to understand.
 -- 
-Windows-Leute sind halt darauf konditioniert, da sie an Fehlverhalten
+Windows-Leute sind halt darauf konditioniert, dass sie an Fehlverhalten
 ihres Rechners selber schuld sind. Und im Grunde stimmt das ja auch.
 	(Felix von Leitner in de.alt.sysadmin.recovery)
 -- 
@@ -3857,3 +3857,48 @@ Doctor Constantine: Well, there is a war on... is it possible you miscounted?
 -- 
 "You know what seems odd to me?"
 "Numbers that aren't divisible by two."
+-- 
+Keep buggering on
+-- 
+"Darkness cannot drive out darkness: only light can do that. 
+ Hate cannot drive out hate: only love can do that."
+― Martin Luther King Jr.
+-- 
+"It wasn’t that he’d liked being shot at by hooded figures in the temporary 
+ employ of his many and varied enemies, but he’d always looked at it as some 
+ kind of vote of confidence.  It showed that he was annoying the rich and 
+ arrogant people who ought to be annoyed." - Terry Pratchett, Night Watch
+-- 
+"[...] on the disc, the Gods are not so much worshipped as blamed."
+- Terry Pratchett, Colour of magic
+-- 
+"If Ankh-Morpork had a grid, there would have been gridlock. Since it did not
+ it was, in the words of Sergeant Colon, ‘a case of no one being able to move 
+ because of everyone else’. Admittedly, this phrase, while accurate, did not 
+ have the same snap." - Terry Pratchett, Night Watch
+-- 
+"One reason for the bustle was that over large parts of the continent other
+ people preferred to make money without working at all, and since the Disc had
+ yet to develop a music recording industry they were forced to fall back on 
+ older, more traditional forms of banditry." - Terry Pratchett, Equal Rites
+-- 
+"There was not a lot that could be done to make Morpork a worse place. 
+ A direct hit by a meteorite, for example, would count as gentrification."
+- Terry Pratchett, Pyramids
+-- 
+"You can't go around building a better world for people. 
+ Only people can build a better world for people. 
+ Otherwise it's just a cage."
+- Terry Pratchett, Witches Abroad
+-- 
+"Time is like a drug. Too much of it kills you."
+- Terry Pratchett, Small Gods
+-- 
+"There is a curse.
+ They say:
+ May you live in interesting times." 
+- Terry Pratchett, Interesting Times
+-- 
+"Pulling together is the aim of despotism and tyranny. 
+ Free men pull in all kinds of directions." 
+- Terry Pratchett, The Truth
