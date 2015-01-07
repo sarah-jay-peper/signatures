@@ -3950,3 +3950,7 @@ Piccadilly Circus they've become a Londoner." - Ben Aaronovitch, Moon Over Soho
  No, Sir, when a man is tired of London, he is tired of life;
  for there is in London all that life can afford."
 - Samuel Johnson, 1777
+-- 
+"'There's more to life than just London,' said Nightingale.
+ 'People keep saying that,' I said. 'But I've never actually seen any proof.' 
+- Ben Aaronovitch, Moon Over Soho
