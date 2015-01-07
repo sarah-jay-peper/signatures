@@ -1,0 +1,1 @@
+cat sig.txt | sed -e "s/^-- $/%/g" > sig.fortune

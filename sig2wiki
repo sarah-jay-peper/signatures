@@ -1,1 +1,1 @@
-sed -e "s/^-- $/<\/nowiki><\/pre>\n<pre><nowiki>/g"
+cat sig.txt | sed -e "s/^-- $/<\/nowiki><\/pre>\n<pre><nowiki>/g" > sig.wiki

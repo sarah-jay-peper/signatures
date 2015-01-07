@@ -1161,10 +1161,6 @@ Ich liebe Politiker auf Wahlplakaten. Sie sind tragbar, geräuschlos und
 wieder einfach zu entfernen. [Loriot]
 </nowiki></pre>
 <pre><nowiki>
-Solange der Nagellack nicht trocken ist, ist eine Frau praktisch wehrlos.
-[Burt Reynolds]
-</nowiki></pre>
-<pre><nowiki>
 >> Gibt es IE6.0 nicht auch fuer Un*x?
 > Ja, das nennt sich Mozilla
 Und kann heruntergeladen werden auf opera.com
@@ -2089,11 +2085,6 @@ zu vermeiden versteht.
 (Werner Heisenberg, dt. Atomphysiker, 1901-1976)
 </nowiki></pre>
 <pre><nowiki>
-Nur zwei Dinge behält eine Frau für sich:
-Ihr Alter und was sie selbst nicht weiß.
-(Bulgarisches Sprichwort)
-</nowiki></pre>
-<pre><nowiki>
 Wenn die meisten sich schon armseliger Kleider und Möbel schämen, 
 wieviel mehr sollten wir uns da erst armseliger Ideen und 
 Weltanschauungen schämen.
@@ -2621,11 +2612,6 @@ in my name in a Swiss bank.
 -Woody Allen-
 </nowiki></pre>
 <pre><nowiki>
-A ship is always referred to as 'she' 
-because it costs so much to keep one in paint and powder.
--Chester Nimitz-
-</nowiki></pre>
-<pre><nowiki>
 Die Fortschritte der Medizin sind ungeheuer:
 Man ist sich seines Todes nicht mehr sicher.
 - Hans-Hermann Kesten
@@ -3060,15 +3046,6 @@ Mathelehrer: "Sind Luftlinie 3 Kilometer, aber ich kenne
 da eine Abkürzung"
 Physiklehrer: "Wie Sie sehen, sehen Sie nichts. Und
 warum sie nichts sehen, sehen Sie gleich."
-</nowiki></pre>
-<pre><nowiki>
-Es gibt nur eines, was teurer ist als eine Frau - nämlich eine Ex-Frau.
-(Jack Nicholson, 1993)
-</nowiki></pre>
-<pre><nowiki>
-Bei der Brautwerbung ist der Mann solange hinter einer Frau her, bis sie
-ihn hat.
-(Jacque Tati)
 </nowiki></pre>
 <pre><nowiki>
 Frauen sind wie Übersetzungen:
@@ -3577,7 +3554,7 @@ Real programmers don't comment their code.  It was hard to write, it
 should be hard to understand.
 </nowiki></pre>
 <pre><nowiki>
-Windows-Leute sind halt darauf konditioniert, da sie an Fehlverhalten
+Windows-Leute sind halt darauf konditioniert, dass sie an Fehlverhalten
 ihres Rechners selber schuld sind. Und im Grunde stimmt das ja auch.
 	(Felix von Leitner in de.alt.sysadmin.recovery)
 </nowiki></pre>
@@ -4886,8 +4863,173 @@ The Doctor: Yeah! And doesn't that scare you to death?
 - Dr. Phil Plait
 </nowiki></pre>
 <pre><nowiki>
-Vimes: Detritus, you can't fire [the piecemaker] off in here! 
+Vimes: Detritus, you can't fire [the piecemaker] off in here!
        This is an enclosed building!
 Detritus: Only till I pull dis trigger, sir.
 - The fifth elephant
+</nowiki></pre>
+<pre><nowiki>
+Rory: Doctor, River was brainwashed to kill you.
+The Doctor: Well, she did. And then she used her remaining lives
+to bring me back. As first dates go, I’d say that was mixed signals.
+- Dr. Who - "Let's kill Hitler"
+</nowiki></pre>
+<pre><nowiki>
+Amy: You think you'll just come back to life?
+Rory: When don't I?!
+- Dr. Who - "The Angels take Manhattan"
+</nowiki></pre>
+<pre><nowiki>
+The Doctor: What the hell are you doing?!
+Amy: Changing the future. It's called marriage.
+- Dr. Who - "The Angels take Manhattan"
+</nowiki></pre>
+<pre><nowiki>
+River: Got a problem with archaeologists?
+The Doctor: I'm a time traveller. I point and laugh at archaeologists.
+- Dr. Who - "Silence in the Library"
+</nowiki></pre>
+<pre><nowiki>
+Yes, there's a reason things are the way they are.
+But no, it's not a very good one.
+- NeinQuarterly 
+https://twitter.com/NeinQuarterly/status/512410824745713665
+</nowiki></pre>
+<pre><nowiki>
+The problem with common sense: It ain't common.
+- Voltaire
+</nowiki></pre>
+<pre><nowiki>
+Mrs. Harcourt: My leg's grown back! When I come to the hospital, I had one leg
+Doctor Constantine: Well, there is a war on... is it possible you miscounted?
+- Dr. Who - "The Doctor dances"
+</nowiki></pre>
+<pre><nowiki>
+"Verbrennt ihn, er ist ein Zauberer!" -
+"Nein! Ich bin Informatiker" -
+"Formatiert ihn, er ist Informatiker!"
+</nowiki></pre>
+<pre><nowiki>
+"You know what seems odd to me?"
+"Numbers that aren't divisible by two."
+</nowiki></pre>
+<pre><nowiki>
+Keep buggering on
+</nowiki></pre>
+<pre><nowiki>
+"Darkness cannot drive out darkness: only light can do that.
+ Hate cannot drive out hate: only love can do that."
+― Martin Luther King Jr.
+</nowiki></pre>
+<pre><nowiki>
+"It wasn’t that he’d liked being shot at by hooded figures in the temporary
+ employ of his many and varied enemies, but he’d always looked at it as some
+ kind of vote of confidence.  It showed that he was annoying the rich and
+ arrogant people who ought to be annoyed." - Terry Pratchett, Night Watch
+</nowiki></pre>
+<pre><nowiki>
+"[...] on the disc, the Gods are not so much worshipped as blamed."
+- Terry Pratchett, Colour of magic
+</nowiki></pre>
+<pre><nowiki>
+"If Ankh-Morpork had a grid, there would have been gridlock. Since it did not
+ it was, in the words of Sergeant Colon, ‘a case of no one being able to move
+ because of everyone else’. Admittedly, this phrase, while accurate, did not
+ have the same snap." - Terry Pratchett, Night Watch
+</nowiki></pre>
+<pre><nowiki>
+"One reason for the bustle was that over large parts of the continent other
+ people preferred to make money without working at all, and since the Disc had
+ yet to develop a music recording industry they were forced to fall back on
+ older, more traditional forms of banditry." - Terry Pratchett, Equal Rites
+</nowiki></pre>
+<pre><nowiki>
+"There was not a lot that could be done to make Morpork a worse place.
+ A direct hit by a meteorite, for example, would count as gentrification."
+- Terry Pratchett, Pyramids
+</nowiki></pre>
+<pre><nowiki>
+"You can't go around building a better world for people.
+ Only people can build a better world for people.
+ Otherwise it's just a cage."
+- Terry Pratchett, Witches Abroad
+</nowiki></pre>
+<pre><nowiki>
+"Time is like a drug. Too much of it kills you."
+- Terry Pratchett, Small Gods
+</nowiki></pre>
+<pre><nowiki>
+"There is a curse.
+ They say:
+ May you live in interesting times."
+- Terry Pratchett, Interesting Times
+</nowiki></pre>
+<pre><nowiki>
+"Pulling together is the aim of despotism and tyranny.
+ Free men pull in all kinds of directions."
+- Terry Pratchett, The Truth
+</nowiki></pre>
+<pre><nowiki>
+"Life is much too important a thing ever to talk seriously about it."
+- Oscar Wilde
+</nowiki></pre>
+<pre><nowiki>
+"'It is forbidden to fight on the Killing Ground,' he said, and paused while
+ he considered the sense of this. 'You know what I mean, anyway...'"
+- Terry Pratchett, The Colour of Magic
+</nowiki></pre>
+<pre><nowiki>
+"Ripples of paradox spread out across the sea of causality."
+- Terry Pratchett, The Colour of Magic
+</nowiki></pre>
+<pre><nowiki>
+"[...] at this very moment astronomers are detecting planets around distant
+stars by measuring how much their orbits wobble, and the clever people at CERN
+are smashing particles together in the hope that Doctor Who will turn up
+and tell them to stop [...]" - Ben Aaronovitch, Moon over Soho
+</nowiki></pre>
+<pre><nowiki>
+"The clever people at CERN are smashing particles together in the hope that
+Doctor Who will turn up and tell them to stop"
+- Ben Aaronovitch, Moon Over Soho
+</nowiki></pre>
+<pre><nowiki>
+"Being a Londoner has nothing to do with where you're born. [...] there are
+people who get off a jumbo jet at Heathrow, go through immigration waving any
+kind of passport, hop on the tube and by the time the train's pulled into
+Piccadilly Circus they've become a Londoner." - Ben Aaronovitch, Moon Over Soho
+</nowiki></pre>
+<pre><nowiki>
+"It's a truism in policing that witnesses and statements are fine, but nothing
+ beats empirical physical evidence. Actually it isn’t a truism because most
+ policemen think the word ‘empirical’ is something to do with Darth Vader,
+ but it damn well should be." - Ben Aaronovitch, Moon Over Soho
+</nowiki></pre>
+<pre><nowiki>
+"On the plus side, there were no rioters in sight but on the minus side this
+ was probably because everywhere I looked was on fire."
+- Ben Aaronovitch, Rivers of London
+</nowiki></pre>
+<pre><nowiki>
+"Dedication   This book is dedicated to Sir Terry Pratchett OBE who has stood
+ like a wossname upon the rocky shores of our imaginations -
+ the better to guide us safely into harbour."
+- Ben Aaronovitch, Foxglove Summer
+</nowiki></pre>
+<pre><nowiki>
+"We were aiming for a cross between Kafka and Orwell, which just
+ goes to show how dangerous it can be when your police officers
+ are better read than you are."
+- Ben Aaronovitch, Moon Over Soho
+</nowiki></pre>
+<pre><nowiki>
+"You find no man, at all intellectual, who is willing to leave London.
+ No, Sir, when a man is tired of London, he is tired of life;
+ for there is in London all that life can afford."
+- Samuel Johnson, 1777
+</nowiki></pre>
+<pre><nowiki>
+"'There's more to life than just London,' said Nightingale.
+ 'People keep saying that,' I said. 'But I've never actually seen any proof.' 
+- Ben Aaronovitch, Moon Over Soho
 </nowiki></pre>
