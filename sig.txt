@@ -3756,8 +3756,8 @@ like 'The innocent have nothing to fear'." ― Terry Pratchett, Snuff
 "Let us live like we meant it. Let us burn like we mean it." 
 - Shane Koyczan, Remember How We Forgot
 -- 
-"The miracle of your mind isn’t that you can see the world 
-as it is. It’s that you can see the world as it isn’t."
+"The miracle of your mind isn't that you can see the world 
+as it is. It's that you can see the world as it isn't."
 - Kathryn Schulz
 -- 
 "Bow ties are cool."
@@ -4034,3 +4034,13 @@ Amy: Shall I run and get the manual?
 The Doctor: I threw it in a supernova. 
 Amy: You threw the manual in a supernova? Why? 
 The Doctor: Because I disagreed with it!
+-- 
+"The truth may be out there, but lies are inside your head."
+- Terry Pratchett, Hogfather
+-- 
+"What sort of man would put a known criminal in charge of a 
+ major branch of government? Apart from, say, the average voter."
+- Terry Pratchett, Going Postal
+-- 
+"Do you not know that a man is not dead while his name is still spoken?"
+- Terry Pratchett, Going Postal
