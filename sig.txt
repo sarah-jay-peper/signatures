@@ -2889,7 +2889,7 @@ Live free or die.
 A beer delayed is a beer denied.
 -- 
 "It was just a matter of knowing the secret of all TV shows: at the end of
-he episode, everything's always right back to normal." -Fry
+the episode, everything's always right back to normal." -Fry
 -- 
 Ich bin Jason Alphageek, eigentlich Christian Peper, bin auch als
 heilige Spanische Inquisition bekannt, werde el TruBlu genannt und bin
@@ -3613,7 +3613,7 @@ Auf dem Grabstein des Kapitalismus wird stehen: "Zuviel war nicht
 genug" - Volker Pispers 2011
 -- 
 "The cure for boredom is curiosity. There is no cure for curiosity."
-- Dorothy_Parker
+- Dorothy Parker
 -- 
 Teach a man to reason and he will think for a life
 - Phil Plait, the "Bad Astronomer"
@@ -4044,3 +4044,11 @@ The Doctor: Because I disagreed with it!
 -- 
 "Do you not know that a man is not dead while his name is still spoken?"
 - Terry Pratchett, Going Postal
+-- 
+"You shouldn't make jokes about these things, Science doesn't have all the
+ answers, you know." 
+"It's got all the best questions, though"
+- Ben Aaronovitch, Moon Over Soho
+-- 
+"It's my party and all of me is invited" 
+- The Doctor in "The Magician's Apprentice"
