@@ -7,9 +7,9 @@ was bedeutet, dass eine Signature nicht mehr als vier Zeilen mit je maximal 80 Z
 enthält. 
 
 Die Sammlung ist in drei Varianten verfügbar
-* Mit Sigtrenner ("-- ")
-* Als [fortune cookie](https://en.wikipedia.org/wiki/Fortune_(Unix)) Datei
-* für Mediawiki/HTML konvertiert
+* sig.txt: Mit Sigtrenner ("-- ")
+* sig.fortune: Als [fortune cookie](https://en.wikipedia.org/wiki/Fortune_(Unix)) Datei
+* sig.wiki: für Mediawiki/HTML konvertiert
 
 Die Quelldatei ist immer sig.txt mit Sigtrenner, die anderen beiden Formate werden für das Release erzeugt.
 
