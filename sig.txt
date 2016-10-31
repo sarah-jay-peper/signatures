@@ -258,9 +258,6 @@ ALL 4 ONE
 Protect your privacy with Open Source Software
 - linux.de
 -- 
-Nur noch 5 Staaten der Erde haben mehr Einwohner, als Linus Torvalds 
-Freunde hat.
--- 
 Herr, lass die ohne Hirn denen mit Hirn zuhören und sie verstehen!
 - [MD]
 -- 
@@ -3142,10 +3139,6 @@ FSK 12: Held bekommt das Mädchen
 FSK 16: Bösewicht bekommt das Mädchen
 FSK 18: Jeder bekommt das Mädchen
 -- 
-Wahre Worte gelassen ausgesprochen (2):
-"The farther you get away from water, the dumber the people get." 
-- [aus einer Diskussion, warum so viele Leute in Kuestenregionen leben]
--- 
 "Was nützt ein Aufstand der Anständigen?
  Was wir brauchen ist ein anständiger Aufstand!"
 -- 
@@ -3553,9 +3546,9 @@ Not with a bang but with a whimper.
 - T.S. Elliott
 -- 
 (fortune.linux)
-..you could spend *all day* customizing the title bar.  Believe me.  I
-speak from experience.
-	-- Matt Welsh
+..you could spend *all day* customizing the title bar. Believe me.
+I speak from experience.
+- Matt Welsh
 -- 
 "Wir müssen uns dramatisch verändern", sagt Safran Foer, "aber der
 einzige Weg, es zu schaffen, ist, damit anzufangen." 
@@ -3614,9 +3607,6 @@ genug" - Volker Pispers 2011
 -- 
 "The cure for boredom is curiosity. There is no cure for curiosity."
 - Dorothy Parker
--- 
-Teach a man to reason and he will think for a life
-- Phil Plait, the "Bad Astronomer"
 -- 
 Saturn 5 rockets and Sputnik and DNA and literature and science. These
 are the things hydrogen atoms do when given 13.7 billion years
@@ -3742,9 +3732,9 @@ However big you think supernovae are, they're bigger than that.
 - Terry Pratchett, Night Watch
 -- 
 "Cheery was aware that Commander Vimes didn't like the phrase 'The innocent 
-have nothing to fear', believing the innocent had everything to fear, mostly 
-from the guilty but in the longer term even more from those who say things 
-like 'The innocent have nothing to fear'." ― Terry Pratchett, Snuff
+ have nothing to fear', believing the innocent had everything to fear, mostly
+ from the guilty but in the longer term even more from those who say things 
+ like 'The innocent have nothing to fear'." ― Terry Pratchett, Snuff
 -- 
 "People can't become truly holy unless they also have 
  the opportunity to be definitively wicked."
@@ -3815,7 +3805,7 @@ The Doctor: Yeah! And doesn't that scare you to death?
 - The eleventh doctor, upon regenerating
 -- 
 "Teach a man to reason, and he’ll think for a lifetime"
-- Dr. Phil Plait
+- Dr. Phil Plait, the "Bad Astronomer"
 -- 
 Vimes: Detritus, you can't fire [the piecemaker] off in here!
        This is an enclosed building!
@@ -4116,9 +4106,6 @@ In addition, which does kill Rory Williams also makes him stronger
 "Schrödinger's PM can't decide if he wants to let you down or give you up"
 - Ásta Helgadóttir about icelandic PM Gunnlaugsson
 -- 
-"History needs shepherds, not butchers"
-- Terry Pratchett, Thief of Time
--- 
 "When I did what shouldn't be done in a place where I shouldn't have been, 
  I achieved what needed to be done in the place where it should have happened."
 - Terry Pratchett, Thief of Time (Lu Tze)
@@ -4134,3 +4121,8 @@ http://leftoversoup.com/archive.php?num=736
 "While many of Central London's stations are deep down, near the
  Earth's core [...]" - that explains some of these long stairs... 
 - http://londonist.com/2015/08/london-underground-vs-new-york-subway
+-- 
+Reinette: "What do monsters have nightmares about?"
+The Doctor: "Me!"
+-- 
+"The Doctor. In the TARDIS. Next stop: Everywhere."
