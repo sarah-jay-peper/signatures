@@ -4126,3 +4126,19 @@ Reinette: "What do monsters have nightmares about?"
 The Doctor: "Me!"
 -- 
 "The Doctor. In the TARDIS. Next stop: Everywhere."
+-- 
+"There are two hard things in computer science: cache invalidation, naming things,
+ and off-by-one errors"
+- http://martinfowler.com/bliki/TwoHardThings.html
+-- 
+Varvara: "You're watching them, they're watching you."
+Peter: "Welcome to the cold war historical re-enactment society"
+- Rivers of London, "Night Witch"
+-- 
+"I cannot remember the books I've read any more than the meals I have eaten;
+ even so, they have made me."
+- Ralph Waldo Emerson
+-- 
+"I will consider 'guys' to be neutral when straight men sit around and talk
+ about all the guys they've dated."
+- https://twitter.com/bunnyhalberd/status/807619209844789248
