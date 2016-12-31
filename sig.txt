@@ -3295,10 +3295,6 @@ Wenn man die Gerechtigkeit biegt, so bricht sie. (Dt. Sprichwort)
  von ihnen besessen."
 - Samuel Coleridge-Taylor
 -- 
-"Du kannst dein Leben nicht verlängern noch verbreitern, nur
- vertiefen."
-- Joseph Joubert
--- 
 "Alles fließt und nichts bleibt."
 Orig.: "panta rhei, ouden menei"
 - Heraklit von Ephesos 
@@ -3368,7 +3364,7 @@ number. then comment about how low it is (comparatively)
 -- 
 "I gained nothing at all from Supreme Enlightenment, and for that very
  reason it is called Supreme Enlightenment."
-- Gotama Buddha
+- (wrongly?) attributed to Gautama Buddha
 -- 
 "The man who does not do his own thinking is a slave,
  and is a traitor to himself and to his fellow-men."
