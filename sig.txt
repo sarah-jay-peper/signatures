@@ -4109,7 +4109,7 @@ In addition, which does kill Rory Williams also makes him stronger
 "Mu-null. Query invalid, please un-ask."
 "Programming would probably be a lot more convoluted if every time you called a
  function improperly it returned "you have not yet reached enlightenment"
-http://leftoversoup.com/archive.php?num=736
+http://leftoversoup.com/archive.php?num=736b
 -- 
 "Nothing is ever the whole truth and nothing but"
 - https://twitter.com/girlonthenet
@@ -4138,3 +4138,6 @@ Peter: "Welcome to the cold war historical re-enactment society"
 "I will consider 'guys' to be neutral when straight men sit around and talk
  about all the guys they've dated."
 - https://twitter.com/bunnyhalberd/status/807619209844789248
+-- 
+"I commend my soul to any god that can find it."
+- Terry Pratchett, Going Postal (Moist von Lipwig)
