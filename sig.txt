@@ -3302,10 +3302,6 @@ Orig.: "panta rhei, ouden menei"
 Alles fließt und nichts bleibt; es gibt kein eigentliches Sein,
 sondern nur ein ewiges Werden und Wandeln 
 -- 
-Ich bin Jason Alphageek, genannt el Trublu, stellvertretender Fauler
-Sack der Realität, Herr über die Wikis, Spanischer Inquisitionär und
-das Volk.
--- 
 Nieder mit der Schwerkraft - es lebe der Leichtsinn!
 -- 
 Alle wollen nur unser Bestes, aber das geben wir ihnen nicht!
@@ -3527,8 +3523,6 @@ Menge grep, sed und awk einzubinden!
 -- 
 Beim Urknall war das Universum unendlich heiß und unendlich dicht.
 #sexdrugsbigbang
--- 
-Vegan, Atheist, Pirate.
 -- 
 "I maintain there is much more wonder in science than in
 pseudoscience. And in addition, to whatever measure this term has any
