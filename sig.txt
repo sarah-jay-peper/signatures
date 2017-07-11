@@ -293,11 +293,6 @@ I want to die peacefully in my sleep like my grandfather,
 not screaming and wailing like the passengers in his bus.
 (Brendan Heading in soc.culture.irish)
 -- 
-Mit einem "Auffliegen" von Kimble hat das nicht viel zu tun.
-Obwohl Kimble ja ziemlich auf Flugzeuge fixiert zu sein scheint. Als
-wunderte es ihn selber jedesmal, daß die mit ihm an Bord abheben können.
-						(fefe in de.org.ccc)
--- 
 Kappa-Alpha-Lambda-Lambda-Iota-Sigma-Tau-Iota
 -- 
 The only sensible way to estimate the stability of a Windows
@@ -403,7 +398,7 @@ evil cult bent on world domination and the other was begun by L. Ron
 Hubbard.                                   (anonym von slashdot.org)
 -- 
 Je mehr Licht man in die Kirchengeschichte bringt, desto dunkler wird's.
-(Heinrich Wiesner, dt. Aphoristiker, 1925-)
+(Heinrich Wiesner, Schweizer Aphoristiker, 1925-)
 -- 
 Support the ban of Dihydrogen Monoxide
 www.dhmo.org
@@ -430,8 +425,8 @@ Deines Artikels. Vor allem: Mach ihn leicht lesbar und formuliere deut-
 lich, worum es dir geht!
 -- 
 Wenn Dich im Usenet einer einen Esel nennt, lach ihn aus. Wenn es
-viele tun, die  ansonsten  ganz vernünftige  Beiträge  schreiben,
-dann schau Dich  schon einmal nach  einer Wiese mit saftigem Gras
+viele tun, die ansonsten ganz vernünftige Beiträge schreiben,
+dann schau Dich schon einmal nach einer Wiese mit saftigem Gras
 um.                                       [Christian Pree in daa]
 -- 
 begin  LOVE-LETTER-FOR-YOU.txt.vbs
@@ -1285,11 +1280,6 @@ Fachbegriffe der Informatik:
 263: MCSE
 	Meine Computerkenntisse Sind Erbärmlich
 - Sebastian Posner
--- 
-Fachbegriffe der Informatik:
-275: Luster-Format
-Positiv gemeint: Eßfreudig
-Negativ gemeint: Das Äquivalent von zwei Öltanks (Alexander Stielau)
 -- 
 "Lt. Worf, scannen Sie das Schiff!"
 "300dpi, Sir?"
